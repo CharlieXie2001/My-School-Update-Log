@@ -47,3 +47,7 @@
     - Height of Continue button on What's New Page
     - Default avatar picture
 
+
+### V 1.0(8)
+- Adding Testing Homescreen Widgets (small & medium sizes)
+- Adding Testing StandBy Widgets
