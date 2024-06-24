@@ -51,3 +51,22 @@
 ### V 1.0(8)
 - Adding Testing Homescreen Widgets (small & medium sizes)
 - Adding Testing StandBy Widgets
+
+
+### V 1.0(9)
+- Samll refinement of Accound Details page
+- Ability to add tasks
+
+
+### V 1.0(10)
+- The app Tabs were rewirtten in brand new SwiftUI. There are only minor visual differences compared to the previous version, however, under the hood everything is completely different
+- Ability to reorder Planner section and People section in Sidebar on iPad
+- Ability to save customised Tabbar
+- Fixed the bug that tasks cannot be saved
+
+
+### V 1.0(11)
+- Fixed the bug that app icon on iOS has weird colour on the edge
+- Added visionOS app icon
+- Added watchOS app icon
+- Added tvOS app icon
