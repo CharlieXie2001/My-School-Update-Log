@@ -80,7 +80,7 @@
 - Ability to check notification permission status
 - Ability to jump to My School system settings page
 - Learn More link in What's New page now is opend within app in the form of sheet
-- We temporarily removed widget for stability reason
+- We temporarily removed widget for stability reason
 - Tasks are now sorted by date on default
 - Ability to search for school and show location of school on maps
 - My School now shows you tips of how to use some features under Tasks Tab
