@@ -4,10 +4,10 @@
 ## V1.0
 
 ### V 1.0(1)
-- Adding Tab Bar on devices running iPadOS18
+- Added Tab Bar on devices running iPadOS18
 - Ability to hide tabs from sidebar tabs
 - Ability to add and remove tabs on tabbar
-- Adding search field in Search Tab
+- Added search field in Search Tab
 
 
 ### V 1.0(2)
@@ -16,19 +16,19 @@
 
 
 ### V 1.0(3)
-- Adding launch screen
-- Adding What's New Screen
-- Adding accent color (Pink)
-- Adding profile picture to top-right
+- Added launch screen
+- Added What's New Screen
+- Added accent color (Pink)
+- Added profile picture to top-right
 
 
 ### V 1.0(4)
-- Adding user profile setting page
+- Added user profile setting page
 - View what's new in My School on demand by opening the page from profile page
 
 
 ### V 1.0(5)
-- Adding user profile editing page
+- Added user profile editing page
 
 
 ### V 1.0(6)
@@ -49,8 +49,8 @@
 
 
 ### V 1.0(8)
-- Adding Testing Homescreen Widgets (small & medium sizes)
-- Adding Testing StandBy Widgets
+- Added Testing Homescreen Widgets (small & medium sizes)
+- Added Testing StandBy Widgets
 
 
 ### V 1.0(9)
@@ -70,3 +70,20 @@
 - Added visionOS app icon
 - Added watchOS app icon
 - Added tvOS app icon
+- Brand new task grid view with contextMenu
+- New accent colour
+
+
+### V 1.0(12)
+- We changed the way your data is saved, now My School is more responsive
+- Ability to ask for system notification permission when My School was first launched
+- Ability to check notification permission status
+- Ability to jump to My School system settings page
+- Learn More link in What's New page now is opend within app in the form of sheet
+- We temporarily removed widget for stability reason
+- Tasks are now sorted by date on default
+- Ability to search for school and show location of school on maps
+- My School now shows you tips of how to use some features under Tasks Tab
+- New section of school details on Accound Details page, easily call school or browse school website
+
+
