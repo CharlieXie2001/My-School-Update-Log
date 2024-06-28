@@ -87,3 +87,20 @@
 - New section of school details on Accound Details page, easily call school or browse school website
 
 
+### V 1.0(13)
+- New Notification Settings page allows you to send a test notification
+- New Upcoming Notifications page allows you easily manage your upcoming notifications
+- redesigned Adding A New Task page, now you can have more control of URL, Notification Toggle and Notes
+- Updated Task View page, now critical task has new marker
+
+
+### V 1.0(14)
+- New Assignment View
+- Ability to set notification for tasks or assignment
+- Brand new placeholders for blank pages with beautiful 3D icons
+
+
+### V 1.0(15)
+- Used HEIC file format to reduce the app size from 89MB to 14MB
+- Brand now Home Page now has breif structure
+- Cards on Home Page can auto align to fit the view
