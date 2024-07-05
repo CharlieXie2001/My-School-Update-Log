@@ -104,3 +104,42 @@
 - Used HEIC file format to reduce the app size from 89MB to 14MB
 - Brand now Home Page now has breif structure
 - Cards on Home Page can auto align to fit the view
+- Support Chinese Simplified
+
+
+### V 1.0(16)
+- Ability to choose and change profile picture
+- Ability to choose numbur of suggestions showing on the Home Tab
+
+
+### V 1.0(17)
+- Removed ability to set custom profile picture for stability reason
+- Ability to choose emoji and background colour as profile picture
+- Updated empty tab views
+- Ability to search for schools caseinsensitivly
+- New zoom transition to profile picture editor
+
+
+### V 1.0(18)
+- Slightly changed profile background colour
+- Ability to add more image attachments to tasks
+- Brand new task details view
+- Ability to zoom in image attachments and use Live Text feature
+- Ability to long press image attachments to share
+- Brand new zoom transition to details view
+- Added edit button in detail views to allow quick edit of each task
+- Minor visual adjustments
+- Updated data storing methoud, now your saved data can be saved on device safer, less worry about losing data
+- Updated data storing methoud, My School is faster than ever
+- Now Assignment details shows if the assignment opens
+- Home View only shows unfinshed items
+- Bug fixes
+
+
+### V 1.0(19)
+- Ability to add assignment marks and show gorgeous bar and circle graph showing grads
+- Ability to search tasks and assignments in search tab
+- More emojis to choose from for profile image
+- More background colours to choose for profile image
+- Haptic feedback when check assignment or task finished
+- Filter now filters completed and incompleted tasks
