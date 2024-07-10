@@ -143,3 +143,21 @@
 - More background colours to choose for profile image
 - Haptic feedback when check assignment or task finished
 - Filter now filters completed and incompleted tasks
+- Corner Radius get smoother for all sheet
+- Ability to create a new class session
+- Ability to set prefered colour scheme in My School Settings
+- Ability to create more event categories from Home Screen Rocket
+
+
+### V 1.0(20)
+- Added brand new More Tab on iPhones
+- Ability to create subjects
+
+
+### V 1.0(21)
+- Optimised performace when creating new subject *more improvment coming up
+- Ability to choose the enrolment status of subject
+- Added segmented picker to filter subjects by its enrolment status
+- Only sessions of currently enrolled subjects will be shown on scedule
+- The list of existing subjects when creating new sessions now sorted by subject names
+- Added segmented picker to filter assignments by its completion status
