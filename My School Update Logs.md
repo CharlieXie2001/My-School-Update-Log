@@ -137,7 +137,7 @@
 
 
 ### V 1.0(19)
-- Ability to add assignment marks and show gorgeous bar and circle graph showing grads
+- Ability to add assignment marks and show gorgeous bar and circle graph showing grades
 - Ability to search tasks and assignments in search tab
 - More emojis to choose from for profile image
 - More background colours to choose for profile image
@@ -161,3 +161,29 @@
 - Only sessions of currently enrolled subjects will be shown on scedule
 - The list of existing subjects when creating new sessions now sorted by subject names
 - Added segmented picker to filter assignments by its completion status
+
+
+### V 1.0(22)
+- Subject ddetails now also show results of each assignments and point composition
+- Assignment notification now is back
+- My School now uses less memory, everything is faster than evcer
+- We will be testing CloudKit in this beta
+
+
+### V 1.0(24)
+- Added iCloud Sync capability
+- Added Time-Sensitive Notification Support
+- Added watchOS App templete
+- Added tvOS App Template
+
+
+### V 1.0(26)
+- iCloud syncing now lives in Settings
+- Ability to show last time iCloud syncing
+- Added manual iCloud syncing button
+- Added Home View Template for Apple TV app and Apple Watch app
+
+
+### V 1.0(27)
+- Added Privacy Policy page
+- Now you are able to add exams to My School
