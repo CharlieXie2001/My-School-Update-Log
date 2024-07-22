@@ -187,3 +187,44 @@
 ### V 1.0(27)
 - Added Privacy Policy page
 - Now you are able to add exams to My School
+
+
+### V 1.0(28)
+- Apple Watch app now is able to fetch assignment data from iCloud
+
+
+### V 1.0(29)
+- Apple Watch app now is able to fetch task data from iCloud
+- Apple Watch app now is able to fetch subject date from iCloud
+- tvOS app now has home tab structure
+
+
+### V 1.0(30)
+- Apple Watch app now is fully working
+- Apple TV app now is able to fetch session data from iCloud
+- Privacy Policy updates
+- Bug fixes
+- From next build, we will be working on iPadOS app to take fully advantage of screen real estate. This build is a huge update since we bring My School features to more platforms.
+- Upcoming features:
+    - Better structured iPadOS app
+    - Support to more screen sizes
+    - People features
+    - More school data
+
+
+### V 1.0(37)
+- macOS app now is under development
+- Fixed the bug that some text and information of next session on Home Tab coulbe be cropped out on smaller displays.
+- Testing new colours on Apple Watch for subject list.
+- Now defaulte alignment of subject name on apple watch is centered (if it's more than one line)
+- Apple Wacth now can display gorgeous background image on Home Tab
+- Apple Watch now is able to make tasks or assignments as important events by swiping on the right
+- Task filter and sort options are now intergrated in toolbar allowing more viewing area for task list
+- Assignment filter and sort options are now intergrated in toolbar allowing more viewing area for assignment list
+- Now you can use filters to search
+- Assignment now has new accent colour - indigo
+- Fixed exam detail page banner, slightly taller banner makes sure exam icon is not cropped
+- When you choose subject while creating or editing new assignment, exam or session, subjects are caterorised by its enrollment status
+- Keyboard now can automatically switch to URL, email, number or plain text layouts when it detects different kinds of textfields
+- Brand new notification sound
+- Ability to create contact information for teachers
