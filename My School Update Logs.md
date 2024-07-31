@@ -228,3 +228,70 @@
 - Keyboard now can automatically switch to URL, email, number or plain text layouts when it detects different kinds of textfields
 - Brand new notification sound
 - Ability to create contact information for teachers
+- Apple TV app now can view subjects
+
+
+### V 1.0(38)
+- watchOS app subject name is easier to read
+- Ability to send message to teacher's number
+- Fixed the bug that teacher's profile image on iPad may exceed the frame
+- Ability to resize the teacher profile image to optimise the performance
+- Ability to search exams
+- Ability to show coming exams on home tab with day countdown
+- Ability to search teachers and quickly connact
+- Apple TV app now can view subjects
+- Apple TV app now can view tasks
+- Press and hold each task to mark finished
+- Apple TV app now is able to view exams
+
+
+### V 1.0(39)
+- watchOS app now shows subject icons
+- Apple TV app now can view subjects
+- Adjusted Apple TV app layout
+- Now you are able to track result with bar charts (more improvments coming soon)
+- Addressed issue that teacher data might not be synced to iCloud
+
+
+### V 1.0(40)
+- watchOS app now shows subject icons
+- Apple TV app now can view subjects
+- Adjusted Apple TV app layout
+- Now you are able to track result with bar charts (more improvments coming soon)
+- Addressed issue that teacher data might not be synced to iCloud
+- Bug fixes
+
+
+### V 1.0(41)
+- UI adjustments
+- More universities to choose
+- Ability to choose the number of subjects showing in the result list
+
+
+### V 1.0(42)
+- Brand new schedule tab on iPad (some models)
+- Testing Apple Watch Smart Stack widget
+
+
+### V 1.0(43)
+- We are bringing brand new Home tab to iPad
+
+
+### V 1.0(45)
+My School is a powerful school planner coming later this year, and now we are inviting you to join our beta testing to preview and work together to make the app even better, we
+don't collect any personal information, all your data is protected on device.
+
+New in My School V1.0 build 45:
+- iOS & iPadOS app for public testers
+- Apple Watch app for public beta testers
+- Apple TV app for public beta testers
+- Syncing data across your devices with iCloud
+- Pride and 143 app icons
+- New notification sound
+- Better performance on selected devices ( iPad Pros with 16GB memory )
+- Fixed the layout issue on tvOS app
+
+Known Issues:
+- Subject result doesn't refresh properly ( workaround: open subject editing page and then save after adding or updating associated assignments/exams )
+- Upcoming session is not shown properly on Home Tab (will be fixed in future updates)
+- Widgets are still under development, they won’t display any data
