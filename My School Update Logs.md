@@ -295,3 +295,17 @@ Known Issues:
 - Subject result doesn't refresh properly ( workaround: open subject editing page and then save after adding or updating associated assignments/exams )
 - Upcoming session is not shown properly on Home Tab (will be fixed in future updates)
 - Widgets are still under development, they won’t display any data
+
+
+### V 1.0(46)
+- Fixed the issue upcoming session is not shown on home tab properly (you might need to re-add the session to make sure all the sesions work properly in the future)
+- Ability to choose different schedule rotation
+
+
+### V 1.0(47)
+- All new Settings page for more organised navigation
+
+
+### V 1.0(48)
+- Updated Settings page now shows more information for each categories
+- Performance improvement when editing task
