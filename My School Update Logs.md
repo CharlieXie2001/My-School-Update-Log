@@ -299,7 +299,7 @@ Known Issues:
 
 ### V 1.0(46)
 - Fixed the issue upcoming session is not shown on home tab properly (you might need to re-add the session to make sure all the sesions work properly in the future)
-- Ability to choose different schedule rotation
+- Ability to choose different schedule rotation (the feature is not working yet, but we are working hard to make it available as soon as possible)
 
 
 ### V 1.0(47)
@@ -308,4 +308,77 @@ Known Issues:
 
 ### V 1.0(48)
 - Updated Settings page now shows more information for each categories
-- Performance improvement when editing task
+- Performance improvement when editing task
+- Ability to hide task thumbnails from home tab
+
+
+### V 1.0(53)
+- Bug fix
+- Brand new home tab banner images
+- Brand new 35-profile personalisation options with redesigned avatars
+- Brand new subject personalisation icons with 5 new options
+- Native macOS app is 90% finished
+- 15 new school data
+- Widgets are removed from this build, and they will come back when they are ready
+
+
+### V 1.0(55)
+- Rotation Feature
+
+
+### V 1.0(56)
+- Visual Improvement
+- Schedule Rotation
+- Bug fix
+
+
+### V 1.0(57)
+In this build, we are bringing schedule rotation to beta testing. Another good news, My School for macOS native app will be available to test in 2 weeks (macOS 15 Sequoia required). Here are everything new in this build:
+
+- Bug fixes
+- 2 new app icons including Brat inspired green icon and beautiful blue icon to celebrate Sabrina’s brand new album Short n Sweet.
+- More new profile personalisation options with redesigned avatars.
+- Redesigned user interface for Assignment, Session, Task, Exam, Subject editing and creating screen
+- 5 new school data.
+- Ability to set up schedule rotation cycle for each sessions.
+- Ability to quickly choose current rotation week from Home tab banner.
+- Some UI adjustments.
+
+
+### V 1.0(58)
+- Rotation Feature
+
+
+### V 1.0(59)
+- Testing Wellbeing
+
+
+### V 1.0(60)
+- Rotation Feature
+
+
+### V 1.0(61)
+In this build, we are bringing schedule rotation to beta testing, and proudly introducing My School native macOS app  (macOS 15 Sequoia required). Here are everything new in this build:
+
+- Native macOS app (unfinished)
+- Testing Mental Wellbeing feature (assignment) (the feature is still under the development)
+- iMessage Stickers
+- Bug fixes
+
+
+### V 1.0(62)
+In this build, we are bringing schedule rotation to beta testing, and proudly introducing My School native macOS app  (macOS 15 Sequoia required). Here are everything new in this build:
+
+- Native macOS app (unfinished)
+- Testing Mental Wellbeing feature (assignment) (the feature is still under the development)
+- iMessage Stickers
+- Bug fixes
+
+
+### V 1.0(63)
+What's new in this build:
+- Fixed the bug of the entitlement (App Group - Empty entry)
+
+
+### V 1.0(64)
+- New Menu Bar Widget on macOS app
