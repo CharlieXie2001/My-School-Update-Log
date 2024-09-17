@@ -372,6 +372,8 @@ In this build, we are bringing schedule rotation to beta testing, and proudly in
 - Native macOS app (unfinished)
 - Testing Mental Wellbeing feature (assignment) (the feature is still under the development)
 - iMessage Stickers
+- Redesigned experiences adding, editing and viewing assignemnt (iOS)
+- Minor UI edjustments
 - Bug fixes
 
 
