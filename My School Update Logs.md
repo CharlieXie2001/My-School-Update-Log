@@ -386,6 +386,14 @@ What's new in this build:
 - New Menu Bar Widget on macOS app
 
 
+## V 1.0.1
+
+
+### V 1.0(68)
+- You will revieve an alert before deleting a task, assignment, exam, subject or a subject.
+- Fixed the bug that user interface might exceed the screen on Apple TV
+
+
 
 
 ## More features and improvments are coming in future updates, make sure your My School is updated to the latest version!
