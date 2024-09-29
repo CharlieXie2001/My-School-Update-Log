@@ -384,3 +384,8 @@ What's new in this build:
 
 ### V 1.0(64)
 - New Menu Bar Widget on macOS app
+
+
+
+
+## More features and improvments are coming in future updates, make sure your My School is updated to the latest version!
