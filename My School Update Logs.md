@@ -389,9 +389,13 @@ What's new in this build:
 ## V 1.0.1
 
 
-### V 1.0(68)
+### V 1.0.1(68)
 - You will revieve an alert before deleting a task, assignment, exam, subject or a subject.
 - Fixed the bug that user interface might exceed the screen on Apple TV
+- Fixed the bug that buttons might lead to blank screens on Apple TV
+- New Session card design for tvOS app
+- New Settings page for tvOS app
+- Fiexd some typos across the app
 
 
 
