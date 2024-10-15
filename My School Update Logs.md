@@ -389,13 +389,27 @@ What's new in this build:
 ## V 1.0.1
 
 
-### V 1.0.1(68)
+### V 1.0.1(69)
 - You will revieve an alert before deleting a task, assignment, exam, subject or a subject.
 - Fixed the bug that user interface might exceed the screen on Apple TV
 - Fixed the bug that buttons might lead to blank screens on Apple TV
 - New Session card design for tvOS app
 - New Settings page for tvOS app
 - Fiexd some typos across the app
+
+
+
+## V 1.0.2
+
+
+### V 1.0.2(70)
+- Bug fixes
+- Ability to add extra mental wellbeing entry for events
+- Minor Settings UI adjustments
+- On Apple Watch app, you can now view results of subjects
+- You can now track the progress of how many assignments/tasks/exams you have finished right from Account Details page
+- ETA to school now automatically refreshes
+- 
 
 
 
