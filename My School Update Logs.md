@@ -412,7 +412,7 @@ What's new in this build:
 - ETA to school now automatically refreshes
 - Notification features now are availiable on macOS app
 - on macOS you can easily manage your notifications from settings
-- Now you can choose to turn off showing the “ What's New” popup window/sheet automatically from new General Settings page
+- Now you can choose to turn off automatically show the “ What's New” popup window/sheet from new General Settings page
 - macOS app now is smoother
 
 
