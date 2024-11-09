@@ -27,7 +27,7 @@ These permissions are optional and used solely for the specified purposes within
 
 We prioritize the security of your data. All information is stored securely on your device using industry-standard security practices to prevent unauthorized access.
 
-### 5. Changes to This Privacy Agreement
+### 5. User Rights
 
 You have full control over your data. Since all information is stored locally on your device, you can delete it at any time by uninstalling the app. Additionally, you can revoke permissions (e.g., Location and Health access) through your device settings.
 
