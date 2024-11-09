@@ -35,7 +35,7 @@ You have full control over your data. Since all information is stored locally on
 
 We may update this Privacy Agreement periodically. Any changes will be communicated through updates in the app. Continued use of the app after updates signifies your acceptance of the new terms.
 
-### 6. Contact Us
+### 7. Contact Us
 
 If you have any questions or concerns about this Privacy Agreement, please contact us at xie2861076320@icloud.com.
 
