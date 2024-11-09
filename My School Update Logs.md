@@ -402,14 +402,17 @@ What's new in this build:
 ## V 1.0.2
 
 
-### V 1.0.2(70)
+### V 1.0.2(71)
 - Bug fixes
+- New Privacy Policy
 - Ability to add extra mental wellbeing entry for events
 - Minor Settings UI adjustments
 - On Apple Watch app, you can now view results of subjects
 - You can now track the progress of how many assignments/tasks/exams you have finished right from Account Details page
 - ETA to school now automatically refreshes
-- 
+- Notification features now are availiable on macOS app
+- on macOS you can easily manage your notifications from settings
+- Now you can choose to turn off showing the “ What's New” popup window/sheet automatically from new General Settings page
 
 
 
