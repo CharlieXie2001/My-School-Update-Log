@@ -414,6 +414,8 @@ What's new in this build:
 - on macOS you can easily manage your notifications from settings
 - Now you can choose to turn off automatically show the “ What's New” popup window/sheet from new General Settings page
 - macOS app now is smoother
+- Added a troubleshooting page for rotation page when issues detacted
+- Ability to choose Haptic Touch preview preferences
 
 
 
