@@ -1,34 +1,39 @@
 # Privacy Agreement for My School
 
-## Last Updated: 15 Jul 2024
+## Last Updated: 10 Nov 2024
 
-Thank you for using My School! Your privacy is important to us. This Privacy Agreement outlines how we handle your data and the measures we take to protect your information.
+Thank you for using My School! Your privacy is important to us. This Privacy Agreement outlines how we handle your data and the measures we take to protect it.
 
-### 1. Data Collection
+### 1. No Data Collection
 
-We do not collect any personal data. All user data is processed locally on your device.
+We do not collect any personal data. All data is processed and stored locally on your device. We have no access to your data at any point.
 
-### 2. Data Processing
+### 2. Data Processing and Storage
 
-All data, including but not limited to user profiles, tasks, assignments, and school details, is processed and stored exclusively on your device. We do not have access to this data.
+All data, including user profiles, tasks, assignments, and school details, is processed and stored exclusively on your device. We do not transmit or store your data on any external servers.
 
 ### 3. Permissions
 
-My School may request certain permissions to enhance your user experience:
+To enhance your experience, My School may request the following permissions:
 
-	•	Notification Access: To send you reminders for tasks and assignments.
-	•	Location Access: To show your school location on maps.
-	•	Photo Access: To allow you to choose a profile picture or add image attachments to tasks.
+	•	Notification Access: To send you reminders for tasks, assignments and more.
+	•	Location Access: To calculate the estimated time of arrival (ETA) from your current location to your school and to display your school on maps. Location data is processed in real-time and is not stored or transmitted.
+	•	Photo Access: To allow you to add image attachments to tasks.
+	•	Apple Health Access: To log your state of mind regarding assignments, tasks, and exams. This data is stored securely within Apple Health and is not accessible to us.
 
-These permissions are optional and are only used for the specified purposes within the app. No data from these permissions is sent to any server or third party.
+These permissions are optional and used solely for the specified purposes within the app. No data from these permissions is shared with third parties.
 
 ### 4. Data Security
 
-We take the security of your data seriously. All data is stored securely on your device. We use modern security practices to ensure your data is protected from unauthorized access.
+We prioritize the security of your data. All information is stored securely on your device using industry-standard security practices to prevent unauthorized access.
 
 ### 5. Changes to This Privacy Agreement
 
-We may update our Privacy Agreement from time to time. We will notify you of any changes by posting the new Privacy Agreement within the app. You are advised to review this Privacy Agreement periodically for any changes.
+You have full control over your data. Since all information is stored locally on your device, you can delete it at any time by uninstalling the app. Additionally, you can revoke permissions (e.g., Location and Health access) through your device settings.
+
+### 6. Changes to This Privacy Agreement
+
+We may update this Privacy Agreement periodically. Any changes will be communicated through updates in the app. Continued use of the app after updates signifies your acceptance of the new terms.
 
 ### 6. Contact Us
 
