@@ -413,6 +413,7 @@ What's new in this build:
 - Notification features now are availiable on macOS app
 - on macOS you can easily manage your notifications from settings
 - Now you can choose to turn off showing the “ What's New” popup window/sheet automatically from new General Settings page
+- macOS app now is smoother
 
 
 
