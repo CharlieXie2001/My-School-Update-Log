@@ -16,10 +16,10 @@ All data, including user profiles, tasks, assignments, and school details, is pr
 
 To enhance your experience, My School may request the following permissions:
 
-	•	Notification Access: To send you reminders for tasks, assignments and more.
-	•	Location Access: To calculate the estimated time of arrival (ETA) from your current location to your school and to display your school on maps. Location data is processed in real-time and is not stored or transmitted.
-	•	Photo Access: To allow you to add image attachments to tasks.
-	•	Apple Health Access: To log your state of mind regarding assignments, tasks, and exams. This data is stored securely within Apple Health and is not accessible to us.
+	Notification Access: To send you reminders for tasks, assignments and more.
+	Location Access: To calculate the estimated time of arrival (ETA) from your current location to your school and to display your school on maps. Location data is processed in real-time and is not stored or transmitted.
+	Photo Access: To allow you to add image attachments to tasks.
+	Apple Health Access: To log your state of mind regarding assignments, tasks, and exams. This data is stored securely within Apple Health and is not accessible to us.
 
 These permissions are optional and used solely for the specified purposes within the app. No data from these permissions is shared with third parties.
 
