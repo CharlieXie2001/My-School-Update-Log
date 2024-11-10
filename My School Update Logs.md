@@ -402,7 +402,7 @@ What's new in this build:
 ## V 1.0.2
 
 
-### V 1.0.2(71)
+### V 1.0.2(74)
 - Bug fixes
 - New Privacy Policy
 - Ability to add extra mental wellbeing entry for events
@@ -415,7 +415,8 @@ What's new in this build:
 - Now you can choose to turn off automatically show the “ What's New” popup window/sheet from new General Settings page
 - macOS app now is smoother
 - Added a troubleshooting page for rotation page when issues detacted
-- Ability to choose Haptic Touch preview preferences
+- More school data
+- Ability to hide Mental Wellbeing Score description to maximise the viewing area
 
 
 
