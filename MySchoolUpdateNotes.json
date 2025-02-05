@@ -9,11 +9,9 @@
             },
             {
                 "symbol": "pencil",
-                "description": "Ability to hide tabs from sidebar tabs."
-            },{
-                "symbol": "pencil",
-                "description": "Ability to add and remove tabs on tabbar."
-            },{
+                "description": "Ability to customise tabs from sidebar tabs."
+            },
+            {
                 "symbol": "magnifyingglass",
                 "description": "Added search field in Search Tab."
             }
@@ -25,12 +23,89 @@
         "build": "2",
         "features": [
             {
-                "symbol": "xmark.bin.fill",
-                "description": "Ability to reset all data from the Settings tab."
+                "symbol": "square.grid.3x3.fill",
+                "description": "Redesigned icon, adaptable to new homescreen Dark Mode and Tint appearances on iOS18 & iPadOS18."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0",
+        "build": "3",
+        "features": [
+            {
+                "symbol": "inset.filled.square",
+                "description": "Added launch screen."
             },
             {
-                "symbol": "sparkles",
-                "description": "View update history of past versions."
+                "symbol": "sparkles.rectangle.stack.fill",
+                "description": "Added What's New Screen."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Bug fixes."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0.1",
+        "build": "69",
+        "features": [
+            {
+                "symbol": "macbook",
+                "description": "Added macOS app."
+            },
+            {
+                "symbol": "applewatch",
+                "description": "Added watchOS app."
+            },
+            {
+                "symbol": "ipad",
+                "description": "Brand new schedule tab on iPad."
+            },
+            {
+                "symbol": "ipad",
+                "description": "Bringing brand new Home tab to iPad."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Bug fixes."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0.2",
+        "build": "74",
+        "features": [
+            {
+                "symbol": "trash.fill",
+                "description": "You will revieve an alert before deleting a task, assignment, exam, subject or a subject."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Fixed the bug that buttons might lead to blank screens on Apple TV."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Fiexd some typos across the app."
+            },
+            {
+                "symbol": "hand.raised.fill",
+                "description": "New Privacy Policy page."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Fixed the bug that user interface might exceed the screen on Apple TV."
+            },
+            {
+                "symbol": "clock.fill",
+                "description": "ETA to school now automatically refreshes."
+            },
+            {
+                "symbol": "bell.badge.fill",
+                "description": "Notification features now are availiable on macOS app."
             }
         ]
     },
@@ -50,6 +125,14 @@
             {
                 "symbol": "gearshape.fill",
                 "description": "The new Settings tab helps you navigate to different categories more easily."
+            },
+            {
+                "symbol": "xmark.bin.fill",
+                "description": "Ability to reset all data from the Settings tab."
+            },
+            {
+                "symbol": "sparkles",
+                "description": "View update history of past versions."
             }
         ]
     }
