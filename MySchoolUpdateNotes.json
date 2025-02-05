@@ -1,0 +1,56 @@
+[
+    {
+        "version": "1.0",
+        "build": "1",
+        "features": [
+            {
+                "symbol": "18.circle.fill",
+                "description": "Added Tab Bar on devices running iPadOS18."
+            },
+            {
+                "symbol": "pencil",
+                "description": "Ability to hide tabs from sidebar tabs."
+            },{
+                "symbol": "pencil",
+                "description": "Ability to add and remove tabs on tabbar."
+            },{
+                "symbol": "magnifyingglass",
+                "description": "Added search field in Search Tab."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0",
+        "build": "2",
+        "features": [
+            {
+                "symbol": "xmark.bin.fill",
+                "description": "Ability to reset all data from the Settings tab."
+            },
+            {
+                "symbol": "sparkles",
+                "description": "View update history of past versions."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.1",
+        "build": "75",
+        "features": [
+            {
+                "symbol": "hand.tap.fill",
+                "description": "New animation when you tap and hold buttons in user interface."
+            },
+            {
+                "symbol": "xmark.triangle.circle.square.fill",
+                "description": "View other apps from the same developer."
+            },
+            {
+                "symbol": "gearshape.fill",
+                "description": "The new Settings tab helps you navigate to different categories more easily."
+            }
+        ]
+    }
+]
