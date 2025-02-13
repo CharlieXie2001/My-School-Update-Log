@@ -115,12 +115,28 @@
         "build": "75",
         "features": [
             {
+                "symbol": "calendar.day.timeline.right",
+                "description": "Redesigned home banner helps you easily track upcoming sessions, now it also displays a timer for ongoing sessions."
+            },
+            {
+                "symbol": "house.fill",
+                "description": "Redesigned home experience, now you can add subjects, tasks, assignments, and more right from the Home tab with brand new + button at bottom right corner."
+            },
+            {
+                "symbol": "sparkles.square.filled.on.square",
+                "description": "New visual design expanded to assignment detail and adding subject page."
+            },
+            {
+                "symbol": "books.vertical.fill",
+                "description": "View current enrolled sujects right from the Home tab with new designed subject cards."
+            },
+            {
                 "symbol": "hand.tap.fill",
-                "description": "New animation when you tap and hold buttons in user interface."
+                "description": "New animation when you tap and hold buttons."
             },
             {
                 "symbol": "xmark.triangle.circle.square.fill",
-                "description": "View other apps from the same developer."
+                "description": "View and download other apps to support the developer from new Settings page."
             },
             {
                 "symbol": "gearshape.fill",
