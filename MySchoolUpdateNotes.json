@@ -214,7 +214,7 @@
             },
             {
                 "symbol": "sparkles.square.filled.on.square",
-                "description": "New visual design expanded to assignment detail and adding subject page."
+                "description": "New visual design level up experiences. The new design language moves all action buttons to the bottom and save more viewing area to the top to make it easier to navigate within the app with one hand."
             },
             {
                 "symbol": "books.vertical.fill",
@@ -242,7 +242,7 @@
             },
             {
                 "symbol": "vision.pro",
-                "description": "Added support to Apple Vision Pro (still under the development)."
+                "description": "Added support to Apple Vision Pro (Under the development)."
             },
             {
                 "symbol": "sparkles",
@@ -251,6 +251,18 @@
             {
                 "symbol": "line.3.horizontal.circle.fill",
                 "description": "Redesigned filters options."
+            },
+            {
+                "symbol": "ipad.landscape",
+                "description": "Redesigned iPad experience, take fully advantage of large screen."
+            },
+            {
+                "symbol": "location.fill",
+                "description": "Now you can add more detailed location information to exam location."
+            },
+            {
+                "symbol": "heart.fill",
+                "description": "Brand new Mental Wellbeing Tab with beautiful mesh background."
             }
         ]
     }
