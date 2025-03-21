@@ -233,6 +233,10 @@
                 "description": "The new Settings tab helps you navigate to different categories more easily."
             },
             {
+                "symbol": "cloud.sun.fill",
+                "description": "Now you can sheck the weather condition of your school or current location right from Home Tab."
+            },
+            {
                 "symbol": "xmark.bin.fill",
                 "description": "Ability to reset all data from the Settings tab."
             },
@@ -245,8 +249,16 @@
                 "description": "Added support to Apple Vision Pro (Under the development)."
             },
             {
+                "symbol": "calendar",
+                "description": "When you create a new session, the week day will be automatically chosen to current week day."
+            },
+            {
                 "symbol": "line.3.horizontal.circle.fill",
                 "description": "Redesigned filters options."
+            },
+            {
+                "symbol": "plus.app.fill",
+                "description": "You can create now entries right from subject detail page, and the entry will be automatically selected to be associated with the subject."
             },
             {
                 "symbol": "ipad.landscape",
