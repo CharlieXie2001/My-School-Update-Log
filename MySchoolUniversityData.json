@@ -1,0 +1,38 @@
+[
+    {
+        "name": "The University of Sydney (USYD)",
+        "latitude": -33.888270478963335,
+        "longitude": 151.18676479751826,
+        "country": "Australia",
+        "website": "https://www.sydney.edu.au",
+        "number": "+61 2 8627 1444",
+        "email": "engage.team@sydney.edu.au"
+    },
+    {
+        "name": "The University of Melbourne (unimelb)",
+        "latitude": -37.79777110904262,
+        "longitude": 144.96105244852558,
+        "country": "Australia",
+        "website": "https://www.unimelb.edu.au",
+        "number": "+61 3 9035 5511",
+        "email": "undergrad-admissions@unimelb.edu.au"
+    },
+    {
+        "name": "The Australian National University (ANU)",
+        "latitude": -35.2810781078399,
+        "longitude": 149.11833452640005,
+        "country": "Australia",
+        "website": "https://www.anu.edu.au",
+        "number": "+61 2 6125 5111",
+        "email": "student@anu.edu.au"
+    },
+    {
+        "name": "The University of New South Wales (UNSW)",
+        "latitude": -33.91625717641854,
+        "longitude": 151.23182945426947,
+        "country": "Australia",
+        "website": "https://www.unsw.edu.au",
+        "number": "+61 2 9385 1844",
+        "email": "unsw@prospectivestudent.info"
+    }
+]
