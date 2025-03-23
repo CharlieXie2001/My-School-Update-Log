@@ -341,7 +341,7 @@
         "name": "The University of Auckland",
         "latitude": -36.85192748714159,
         "longitude": 174.76894819761844,
-        "country": "NewZealand",
+        "country": "New Zealand",
         "website": "https://www.auckland.ac.nz",
         "number": "+64 9 373 7999",
         "email": "Int-questions@auckland.ac.nz"
@@ -376,7 +376,7 @@
         "name": "Seoul National University",
         "latitude": 37.464885,
         "longitude": 126.957388,
-        "country": "SouthKorea",
+        "country": "South Korea",
         "website": "https://www.snu.ac.kr",
         "number": "+82 2-880-5114",
         "email": ""
@@ -385,7 +385,7 @@
         "name": "Yonsei University",
         "latitude": 37.566406,
         "longitude": 126.938691,
-        "country": "SouthKorea",
+        "country": "South Korea",
         "website": "https://www.yonsei.ac.kr/en_sc/index.jsp",
         "number": "+82 2-2123-2114",
         "email": ""
@@ -429,7 +429,7 @@
         "name": "Imperial College London",
         "latitude": 51.499106,
         "longitude": -0.177079,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.imperial.ac.uk",
         "number": "+44 20 7589 5111",
         "email": "president@imperial.ac.uk"
@@ -438,7 +438,7 @@
         "name": "University of Cambridge",
         "latitude": 52.201670,
         "longitude": 0.109005,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.cam.ac.uk",
         "number": "+44 1223 337733",
         "email": ""
@@ -447,7 +447,7 @@
         "name": "University of Oxford",
         "latitude": 51.758746,
         "longitude": -1.255481,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.ox.ac.uk",
         "number": "+44 1865 270000",
         "email": "collaboration@admin.ox.ac.uk"
@@ -456,7 +456,7 @@
         "name": "University College London (UCL)",
         "latitude": 51.523093,
         "longitude": -0.128417,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.ucl.ac.uk",
         "number": "+44 20 7679 2000",
         "email": ""
@@ -465,7 +465,7 @@
         "name": "The University of Edinburgh",
         "latitude": 55.947551,
         "longitude": -3.186582,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.ed.ac.uk",
         "number": "+44 131 651 4070",
         "email": ""
@@ -474,7 +474,7 @@
         "name": "The University of Manchester",
         "latitude": 53.466527,
         "longitude": -2.232735,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.manchester.ac.uk",
         "number": "+44 161 306 6000",
         "email": ""
@@ -483,7 +483,7 @@
         "name": "King's College London - Waterloo Campus",
         "latitude": 51.505932,
         "longitude": -0.112005,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.kcl.ac.uk/visit/waterloo-campus",
         "number": "+44 20 7836 5454",
         "email": ""
@@ -492,7 +492,7 @@
         "name": "King's College London - Strand Campus",
         "latitude": 51.511483,
         "longitude": -0.115997,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.kcl.ac.uk/visit/strand-campus",
         "number": "+44 (0)20 7836 5454",
         "email": ""
@@ -501,7 +501,7 @@
         "name": "The University of Warwick",
         "latitude": 52.379640,
         "longitude": -1.561389,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://warwick.ac.uk",
         "number": "+44 24 7652 3523",
         "email": ""
@@ -510,7 +510,7 @@
         "name": "The London School of Economics and Political Science (LSE)",
         "latitude": 51.514104,
         "longitude": -0.116665,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.lse.ac.uk",
         "number": "+44 20 7405 7686",
         "email": ""
@@ -519,7 +519,7 @@
         "name": "University of Bristol",
         "latitude": 51.458367,
         "longitude": -2.601918,
-        "country": "UK",
+        "country": "United Kingdom",
         "website": "https://www.bristol.ac.uk",
         "number": "+44 117 928 9000",
         "email": ""
@@ -532,7 +532,7 @@
         "name": "Massachusetts Institute of Technology (MIT)",
         "latitude": 42.359949,
         "longitude": -71.092681,
-        "country": "USA",
+        "country": "United States",
         "website": "https://web.mit.edu",
         "number": "+1 (617) 253-1000",
         "email": "admissions@mit.edu"
@@ -541,7 +541,7 @@
         "name": "Harvard University",
         "latitude": 42.372867,
         "longitude": -71.118454,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.harvard.edu",
         "number": "+1 (617) 495-1000",
         "email": "oue@fas.harvard.edu"
@@ -550,7 +550,7 @@
         "name": "Stanford University",
         "latitude": 37.428592,
         "longitude": -122.170887,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.stanford.edu",
         "number": "650-723-2300",
         "email": ""
@@ -559,7 +559,7 @@
         "name": "California Institute of Technology (Caltech)",
         "latitude": 34.135620,
         "longitude": -118.127315,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.caltech.edu",
         "number": "+1 (626) 395-6811",
         "email": ""
@@ -568,7 +568,7 @@
         "name": "University of Pennsylvania (UPenn)",
         "latitude": 39.953228,
         "longitude": -75.193971,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.upenn.edu",
         "number": "+1 (215) 898-5000",
         "email": ""
@@ -577,7 +577,7 @@
         "name": "University of California, Berkeley (UCB)",
         "latitude": 37.871868,
         "longitude": -122.260376,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.berkeley.edu",
         "number": "+1 (510) 642-5215",
         "email": "webadmin@berkeley.edu"
@@ -586,7 +586,7 @@
         "name": "Cornell University",
         "latitude": 42.452096,
         "longitude": -76.480320,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.cornell.edu",
         "number": "+1 (607) 254-4636",
         "email": ""
@@ -595,7 +595,7 @@
         "name": "University of Chicago",
         "latitude": 41.792103,
         "longitude": -87.600220,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.uchicago.edu",
         "number": "+1 (773) 702-1234",
         "email": "infocenter@uchicago.edu"
@@ -604,7 +604,7 @@
         "name": "Princeton University",
         "latitude": 40.336569,
         "longitude": -74.655463,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.princeton.edu",
         "number": "+1 (609) 258-3361",
         "email": ""
@@ -613,7 +613,7 @@
         "name": "Yale University",
         "latitude": 41.311533,
         "longitude": -72.926084,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.yale.edu",
         "number": "+1 (203) 432-4771",
         "email": ""
@@ -622,7 +622,7 @@
         "name": "Johns Hopkins University",
         "latitude": 39.330860,
         "longitude": -76.620560,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.jhu.edu",
         "number": "+1 (410) 516-8000",
         "email": "gotojhu@jhu.edu"
@@ -631,7 +631,7 @@
         "name": "Columbia University",
         "latitude": 40.808040,
         "longitude": -73.961966,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.columbia.edu",
         "number": "+1 (212) 854-1754",
         "email": "askcuit@columbia.edu"
@@ -640,7 +640,7 @@
         "name": "University of California, Los Angeles (UCLA)",
         "latitude": 34.070391,
         "longitude": -118.443481,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.ucla.edu",
         "number": "+1 (310) 825-4321",
         "email": ""
@@ -649,7 +649,7 @@
         "name": "New York University (NYU)",
         "latitude": 40.729109,
         "longitude": -73.996506,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.nyu.edu",
         "number": "+1 (212) 998-1212",
         "email": "gradadmissions@nyu.edu"
@@ -658,7 +658,7 @@
         "name": "University of Michigan-Ann Arbor",
         "latitude": 42.277709,
         "longitude": -83.737449,
-        "country": "USA",
+        "country": "United States",
         "website": "https://umich.edu",
         "number": "+1 (734) 764-1817",
         "email": "info@umich.edu"
@@ -667,7 +667,7 @@
         "name": "Northwestern University",
         "latitude": 42.055088,
         "longitude": -87.678562,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.northwestern.edu",
         "number": "+1 (847) 491-3741",
         "email": ""
@@ -676,7 +676,7 @@
         "name": "Carnegie Mellon University",
         "latitude": 40.443191,
         "longitude": -79.942510,
-        "country": "USA",
+        "country": "United States",
         "website": "https://www.cmu.edu",
         "number": "+1 (412) 268-2000",
         "email": ""
