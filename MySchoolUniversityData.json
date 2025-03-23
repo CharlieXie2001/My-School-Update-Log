@@ -34,5 +34,651 @@
         "website": "https://www.unsw.edu.au",
         "number": "+61 2 9385 1844",
         "email": "unsw@prospectivestudent.info"
+    },
+    {
+        "name": "Monash University",
+        "latitude": -37.910182,
+        "longitude": 145.133765,
+        "country": "Australia",
+        "website": "https://www.monash.edu",
+        "number": "+61 3 9903 4788",
+        "email": "scenquiries@monash.edu"
+    },
+    {
+        "name": "The University of Queensland (UQ)",
+        "latitude": -27.495371014021995,
+        "longitude": 153.01445605695503,
+        "country": "Australia",
+        "website": "https://www.uq.edu.au",
+        "number": "+ 61 7 3365 1111",
+        "email": "ask@uq.edu.au"
+    },
+    {
+        "name": "The University of Western Australia (UWA)",
+        "latitude": -31.978742261956942,
+        "longitude": 115.81801845335922,
+        "country": "Australia",
+        "website": "https://www.uwa.edu.au",
+        "number": "+61 8 6488 1000",
+        "email": "general-enquiries@uwa.edu.au"
+    },
+    {
+        "name": "The University of Adelaide - North Terrace Campus",
+        "latitude": -34.919634,
+        "longitude": 138.604707,
+        "country": "Australia",
+        "website": "https://www.adelaide.edu.au",
+        "number": "+61 8 8313 5208",
+        "email": "start@adelaide.edu.au"
+    },
+    {
+        "name": "University of Technology Sydney",
+        "latitude": -33.883345,
+        "longitude": 151.200854,
+        "country": "Australia",
+        "website": "https://www.uts.edu.au",
+        "number": "+61 2 8806 0230",
+        "email": "international@uts.edu.au"
+    },
+    {
+        "name": "RMIT University",
+        "latitude": -37.808606,
+        "longitude": 144.964750,
+        "country": "Australia",
+        "website": "https://www.rmit.edu.au/",
+        "number": "+61 3 9925 2000",
+        "email": "study@rmit.com"
+    },
+    {
+        "name": "Macquarie University",
+        "latitude": -33.774242,
+        "longitude": 151.112491,
+        "country": "Australia",
+        "website": "https://www.mq.edu.au",
+        "number": "+61 2 9850 7111",
+        "email": "sesinfo@mq.edu.au"
+    },
+    {
+        "name": "University of Wollongong (UOW)",
+        "latitude": -34.405152,
+        "longitude": 150.875972,
+        "country": "Australia",
+        "website": "https://www.uow.edu.au",
+        "number": "+61 1300 367 869",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "University of Toronto - St. George Campus",
+        "latitude": 43.663587,
+        "longitude": -79.397893,
+        "country": "Canada",
+        "website": "https://www.utoronto.ca",
+        "number": "+1 (416) 978-2011",
+        "email": ""
+    },
+    {
+        "name": "University of Toronto - Mississauga Campus (UTM)",
+        "latitude": 43.548182,
+        "longitude": -79.662012,
+        "country": "Canada",
+        "website": "https://www.utoronto.ca",
+        "number": "+1 (905) 569-4455",
+        "email": ""
+    },
+    {
+        "name": "McGill University",
+        "latitude": 45.505249,
+        "longitude": -73.577650,
+        "country": "Canada",
+        "website": "https://www.mcgill.ca",
+        "number": "+1 (514) 398-4455",
+        "email": ""
+    },
+    {
+        "name": "The University of British Columbia",
+        "latitude": 49.261381,
+        "longitude": -123.253807,
+        "country": "Canada",
+        "website": "https://www.ubc.ca/our-campuses/vancouver/",
+        "number": "+1 (604) 822-2211",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Peking University (北京大学)",
+        "latitude": 39.988662,
+        "longitude": 116.304456,
+        "country": "China",
+        "website": "https://www.pku.edu.cn",
+        "number": "+86 (10) 6275 1561",
+        "email": "its@pku.edu.cn"
+    },
+    {
+        "name": "Tsinghua University (清华大学)",
+        "latitude": 40.000421,
+        "longitude": 116.326536,
+        "country": "China",
+        "website": "https://www.tsinghua.edu.cn",
+        "number": "+86 (10) 6279 3001",
+        "email": "webmaster@tsinghua.edu.cn"
+    },
+    {
+        "name": "Fudan University (复旦大学)",
+        "latitude": 31.297823,
+        "longitude": 121.499616,
+        "country": "China",
+        "website": "https://www.fudan.edu.cn",
+        "number": "+86 (21) 6564 2222",
+        "email": ""
+    },
+    {
+        "name": "Shanghai Jiao Tong University (上海交通大学)",
+        "latitude": 31.201670,
+        "longitude": 121.428366,
+        "country": "China",
+        "website": "https://www.sjtu.edu.cn",
+        "number": "+86 (21) 6293 2060",
+        "email": ""
+    },
+    {
+        "name": "Zhejiang University (浙江大学)",
+        "latitude": 30.306262,
+        "longitude": 120.083849,
+        "country": "China",
+        "website": "https://www.zju.edu.cn",
+        "number": "+86 (571) 8795 1111",
+        "email": ""
+    },
+    {
+        "name": "Chengdu Jinjiang Jiaxiang Foreign Language Senior High School (成都锦江嘉祥外国语学校)",
+        "latitude": 30.609170,
+        "longitude": 104.103634,
+        "country": "China",
+        "website": "https://jjzx.jxfls.com",
+        "number": "+86 (28) 8591 8087",
+        "email": "jxfls2020@126.com"
+    },
+
+
+
+
+    {
+        "name": "Université PSL",
+        "latitude": 48.870088,
+        "longitude": 2.273621,
+        "country": "France",
+        "website": "https://dauphine.psl.eu",
+        "number": "+33 1 44 05 44 05",
+        "email": ""
+    },
+    {
+        "name": "Institut Polytechnique de Paris",
+        "latitude": 48.713522,
+        "longitude": 2.210462,
+        "country": "France",
+        "website": "https://www.polytechnique.edu",
+        "number": "+33 1 69 33 33 33",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Technical University of Munich",
+        "latitude": 48.148866,
+        "longitude": 11.568088,
+        "country": "Germany",
+        "website": "https://www.tum.de",
+        "number": "+49 89 28901",
+        "email": ""
+    },
+    {
+        "name": "Ludwig-Maximilians-Universität München",
+        "latitude": 48.150880,
+        "longitude": 11.580040,
+        "country": "Germany",
+        "website": "https://www.lmu.de/de/index.html",
+        "number": "+49 89 21800",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "The University of Hong Kong (HKU)",
+        "latitude": 22.284009,
+        "longitude": 114.137831,
+        "country": "HongKong",
+        "website": "https://www.hku.hk",
+        "number": "+852 2859 2111",
+        "email": "admissions@hku.hk"
+    },
+    {
+        "name": "The Chinese University of Hong Kong (CUHK)",
+        "latitude": 22.420100,
+        "longitude": 114.2071601,
+        "country": "HongKong",
+        "website": "https://www.cuhk.edu.hk/english/index.html",
+        "number": "+852 3943 7000",
+        "email": "ugadm@cuhk.edu.hk"
+    },
+    {
+        "name": "The Hong Kong University of Science and Technology",
+        "latitude": 22.337493,
+        "longitude": 114.263671,
+        "country": "HongKong",
+        "website": "https://hkust.edu.hk",
+        "number": "+852 2623 1118",
+        "email": ""
+    },
+    {
+        "name": "The Hong Kong Polytechnic University",
+        "latitude": 22.303570,
+        "longitude": 114.184830,
+        "country": "HongKong",
+        "website": "https://www.speed-polyu.edu.hk",
+        "number": "+852 3746 0360",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "The University of Tokyo",
+        "latitude": 35.713467,
+        "longitude": 139.762558,
+        "country": "Japan",
+        "website": "https://www.u-tokyo.ac.jp/ja/",
+        "number": "+81 3 3812 2111",
+        "email": ""
+    },
+    {
+        "name": "Kyoto University",
+        "latitude": 35.026729,
+        "longitude": 135.780921,
+        "country": "Japan",
+        "website": "https://www.kyoto-u.ac.jp/ja",
+        "number": "+81 75 753 7531",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Delft University of Technology",
+        "latitude": 52.002187,
+        "longitude": 4.373513,
+        "country": "Netherland",
+        "website": "https://www.tudelft.nl",
+        "number": "+31 15 278 91 11",
+        "email": ""
+    },
+    {
+        "name": "Delft University of Technology",
+        "latitude": 52.354995,
+        "longitude": 4.953700,
+        "country": "Netherland",
+        "website": "https://www.uva.nl/home",
+        "number": "+31 20 525 91 11",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "The University of Auckland",
+        "latitude": -36.85192748714159,
+        "longitude": 174.76894819761844,
+        "country": "NewZealand",
+        "website": "https://www.auckland.ac.nz",
+        "number": "+64 9 373 7999",
+        "email": "Int-questions@auckland.ac.nz"
+    },
+
+
+
+
+    {
+        "name": "National University of Singapore (NUS)",
+        "latitude": 1.302293,
+        "longitude": 103.772789,
+        "country": "Singapore",
+        "website": "https://www.ystmusic.nus.edu.sg",
+        "number": "+65 6516 1167",
+        "email": "musgeneral@nus.edu.sg"
+    },
+    {
+        "name": "Nanyang Technological University, Singapore (NTU)",
+        "latitude": 1.349071,
+        "longitude": 103.680170,
+        "country": "Singapore",
+        "website": "https://www.ntu.edu.sg/nie",
+        "number": "+65 6790 3888",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Seoul National University",
+        "latitude": 37.464885,
+        "longitude": 126.957388,
+        "country": "SouthKorea",
+        "website": "https://www.snu.ac.kr",
+        "number": "+82 2-880-5114",
+        "email": ""
+    },
+    {
+        "name": "Yonsei University",
+        "latitude": 37.566406,
+        "longitude": 126.938691,
+        "country": "SouthKorea",
+        "website": "https://www.yonsei.ac.kr/en_sc/index.jsp",
+        "number": "+82 2-2123-2114",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "ETH Zürich - Campus Zentrum",
+        "latitude": 47.376367,
+        "longitude": 8.547538,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/de/campus/erreichen/zentrum.html",
+        "number": "+41 44 632 11 11",
+        "email": ""
+    },
+    {
+        "name": "ETH Zürich - Campus Hönggerberg",
+        "latitude": 47.408430,
+        "longitude": 8.506722,
+        "country": "Switzerland",
+        "website": "https://ethz.ch/de/campus/erreichen/hoenggerberg.html",
+        "number": "+41 44 632 11 11",
+        "email": ""
+    },
+    {
+        "name": "EPFL",
+        "latitude": 46.520657,
+        "longitude": 6.566134,
+        "country": "Switzerland",
+        "website": "https://www.epfl.ch/en/",
+        "number": "+41 21 693 23 95",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Imperial College London",
+        "latitude": 51.499106,
+        "longitude": -0.177079,
+        "country": "UK",
+        "website": "https://www.imperial.ac.uk",
+        "number": "+44 20 7589 5111",
+        "email": "president@imperial.ac.uk"
+    },
+    {
+        "name": "University of Cambridge",
+        "latitude": 52.201670,
+        "longitude": 0.109005,
+        "country": "UK",
+        "website": "https://www.cam.ac.uk",
+        "number": "+44 1223 337733",
+        "email": ""
+    },
+    {
+        "name": "University of Oxford",
+        "latitude": 51.758746,
+        "longitude": -1.255481,
+        "country": "UK",
+        "website": "https://www.ox.ac.uk",
+        "number": "+44 1865 270000",
+        "email": "collaboration@admin.ox.ac.uk"
+    },
+    {
+        "name": "University College London (UCL)",
+        "latitude": 51.523093,
+        "longitude": -0.128417,
+        "country": "UK",
+        "website": "https://www.ucl.ac.uk",
+        "number": "+44 20 7679 2000",
+        "email": ""
+    },
+    {
+        "name": "The University of Edinburgh",
+        "latitude": 55.947551,
+        "longitude": -3.186582,
+        "country": "UK",
+        "website": "https://www.ed.ac.uk",
+        "number": "+44 131 651 4070",
+        "email": ""
+    },
+    {
+        "name": "The University of Manchester",
+        "latitude": 53.466527,
+        "longitude": -2.232735,
+        "country": "UK",
+        "website": "https://www.manchester.ac.uk",
+        "number": "+44 161 306 6000",
+        "email": ""
+    },
+    {
+        "name": "King's College London - Waterloo Campus",
+        "latitude": 51.505932,
+        "longitude": -0.112005,
+        "country": "UK",
+        "website": "https://www.kcl.ac.uk/visit/waterloo-campus",
+        "number": "+44 20 7836 5454",
+        "email": ""
+    },
+    {
+        "name": "King's College London - Strand Campus",
+        "latitude": 51.511483,
+        "longitude": -0.115997,
+        "country": "UK",
+        "website": "https://www.kcl.ac.uk/visit/strand-campus",
+        "number": "+44 (0)20 7836 5454",
+        "email": ""
+    },
+    {
+        "name": "The University of Warwick",
+        "latitude": 52.379640,
+        "longitude": -1.561389,
+        "country": "UK",
+        "website": "https://warwick.ac.uk",
+        "number": "+44 24 7652 3523",
+        "email": ""
+    },
+    {
+        "name": "The London School of Economics and Political Science (LSE)",
+        "latitude": 51.514104,
+        "longitude": -0.116665,
+        "country": "UK",
+        "website": "https://www.lse.ac.uk",
+        "number": "+44 20 7405 7686",
+        "email": ""
+    },
+    {
+        "name": "University of Bristol",
+        "latitude": 51.458367,
+        "longitude": -2.601918,
+        "country": "UK",
+        "website": "https://www.bristol.ac.uk",
+        "number": "+44 117 928 9000",
+        "email": ""
+    },
+
+
+
+
+    {
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "latitude": 42.359949,
+        "longitude": -71.092681,
+        "country": "USA",
+        "website": "https://web.mit.edu",
+        "number": "+1 (617) 253-1000",
+        "email": "admissions@mit.edu"
+    },
+    {
+        "name": "Harvard University",
+        "latitude": 42.372867,
+        "longitude": -71.118454,
+        "country": "USA",
+        "website": "https://www.harvard.edu",
+        "number": "+1 (617) 495-1000",
+        "email": "oue@fas.harvard.edu"
+    },
+    {
+        "name": "Stanford University",
+        "latitude": 37.428592,
+        "longitude": -122.170887,
+        "country": "USA",
+        "website": "https://www.stanford.edu",
+        "number": "650-723-2300",
+        "email": ""
+    },
+    {
+        "name": "California Institute of Technology (Caltech)",
+        "latitude": 34.135620,
+        "longitude": -118.127315,
+        "country": "USA",
+        "website": "https://www.caltech.edu",
+        "number": "+1 (626) 395-6811",
+        "email": ""
+    },
+    {
+        "name": "University of Pennsylvania (UPenn)",
+        "latitude": 39.953228,
+        "longitude": -75.193971,
+        "country": "USA",
+        "website": "https://www.upenn.edu",
+        "number": "+1 (215) 898-5000",
+        "email": ""
+    },
+    {
+        "name": "University of California, Berkeley (UCB)",
+        "latitude": 37.871868,
+        "longitude": -122.260376,
+        "country": "USA",
+        "website": "https://www.berkeley.edu",
+        "number": "+1 (510) 642-5215",
+        "email": "webadmin@berkeley.edu"
+    },
+    {
+        "name": "Cornell University",
+        "latitude": 42.452096,
+        "longitude": -76.480320,
+        "country": "USA",
+        "website": "https://www.cornell.edu",
+        "number": "+1 (607) 254-4636",
+        "email": ""
+    },
+    {
+        "name": "University of Chicago",
+        "latitude": 41.792103,
+        "longitude": -87.600220,
+        "country": "USA",
+        "website": "https://www.uchicago.edu",
+        "number": "+1 (773) 702-1234",
+        "email": "infocenter@uchicago.edu"
+    },
+    {
+        "name": "Princeton University",
+        "latitude": 40.336569,
+        "longitude": -74.655463,
+        "country": "USA",
+        "website": "https://www.princeton.edu",
+        "number": "+1 (609) 258-3361",
+        "email": ""
+    },
+    {
+        "name": "Yale University",
+        "latitude": 41.311533,
+        "longitude": -72.926084,
+        "country": "USA",
+        "website": "https://www.yale.edu",
+        "number": "+1 (203) 432-4771",
+        "email": ""
+    },
+    {
+        "name": "Johns Hopkins University",
+        "latitude": 39.330860,
+        "longitude": -76.620560,
+        "country": "USA",
+        "website": "https://www.jhu.edu",
+        "number": "+1 (410) 516-8000",
+        "email": "gotojhu@jhu.edu"
+    },
+    {
+        "name": "Columbia University",
+        "latitude": 40.808040,
+        "longitude": -73.961966,
+        "country": "USA",
+        "website": "https://www.columbia.edu",
+        "number": "+1 (212) 854-1754",
+        "email": "askcuit@columbia.edu"
+    },
+    {
+        "name": "University of California, Los Angeles (UCLA)",
+        "latitude": 34.070391,
+        "longitude": -118.443481,
+        "country": "USA",
+        "website": "https://www.ucla.edu",
+        "number": "+1 (310) 825-4321",
+        "email": ""
+    },
+    {
+        "name": "New York University (NYU)",
+        "latitude": 40.729109,
+        "longitude": -73.996506,
+        "country": "USA",
+        "website": "https://www.nyu.edu",
+        "number": "+1 (212) 998-1212",
+        "email": "gradadmissions@nyu.edu"
+    },
+    {
+        "name": "University of Michigan-Ann Arbor",
+        "latitude": 42.277709,
+        "longitude": -83.737449,
+        "country": "USA",
+        "website": "https://umich.edu",
+        "number": "+1 (734) 764-1817",
+        "email": "info@umich.edu"
+    },
+    {
+        "name": "Northwestern University",
+        "latitude": 42.055088,
+        "longitude": -87.678562,
+        "country": "USA",
+        "website": "https://www.northwestern.edu",
+        "number": "+1 (847) 491-3741",
+        "email": ""
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "latitude": 40.443191,
+        "longitude": -79.942510,
+        "country": "USA",
+        "website": "https://www.cmu.edu",
+        "number": "+1 (412) 268-2000",
+        "email": ""
     }
 ]
