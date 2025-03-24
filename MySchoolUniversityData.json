@@ -390,6 +390,15 @@
         "number": "+82 2-2123-2114",
         "email": ""
     },
+    {
+        "name": "KAIST - Korea Advanced Institute of Science & Technology",
+        "latitude": 36.370531,
+        "longitude": 127.361148,
+        "country": "South Korea",
+        "website": "https://www.kaist.ac.kr/kr/",
+        "number": "+82 42-350-2114",
+        "email": "creative.adm@kaist.ac.kr"
+    },
 
 
 
@@ -679,6 +688,15 @@
         "country": "United States",
         "website": "https://www.cmu.edu",
         "number": "+1 (412) 268-2000",
+        "email": ""
+    },
+    {
+        "name": "Duke University",
+        "latitude": 36.002250,
+        "longitude": -78.938638,
+        "country": "United States",
+        "website": "https://duke.edu",
+        "number": "+1 (919) 684-8111",
         "email": ""
     }
 ]
