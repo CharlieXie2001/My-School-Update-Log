@@ -352,6 +352,14 @@
                 "description": "Brand new Mental Wellbeing Tab with beautiful mesh background."
             },
             {
+                "symbol": "vision.pro",
+                "description": "Add subject on Apple Vision Pro."
+            },
+            {
+                "symbol": "desktopcomputer.and.macbook",
+                "description": "New visual design for macOS app. Navigate within app with brand new tab bar floating on the top (show and hide the tab bar by clicking the blue dot at top left of the window. Settings Tab now has a new look."
+            },
+            {
                 "symbol": "ant.fill",
                 "description": "Bug fixes."
             }
