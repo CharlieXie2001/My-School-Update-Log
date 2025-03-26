@@ -227,6 +227,24 @@
         "number": "+33 1 69 33 33 33",
         "email": ""
     },
+    {
+        "name": "Sorbonne University - Campus Malesherbes",
+        "latitude": 48.883560,
+        "longitude": 2.309672,
+        "country": "France",
+        "website": "https://lettres.sorbonne-universite.fr/sorbonne-universite-campus-malesherbes",
+        "number": "",
+        "email": ""
+    },
+    {
+        "name": "Pantheon - Sorbonne University",
+        "latitude": 48.835974,
+        "longitude": 2.346401,
+        "country": "France",
+        "website": "https://www.pantheonsorbonne.fr",
+        "number": "+33 1 44 07 80 00",
+        "email": ""
+    },
 
 
 
@@ -287,6 +305,15 @@
         "country": "HongKong",
         "website": "https://www.speed-polyu.edu.hk",
         "number": "+852 3746 0360",
+        "email": ""
+    },
+    {
+        "name": "City University of Hong Kong",
+        "latitude": 22.337611,
+        "longitude": 114.171441,
+        "country": "HongKong",
+        "website": "+852 3442 7654",
+        "number": "+852 3442 7654",
         "email": ""
     },
 
@@ -689,6 +716,15 @@
         "website": "https://www.cmu.edu",
         "number": "+1 (412) 268-2000",
         "email": ""
+    },
+    {
+        "name": "University of Connecticut",
+        "latitude": 41.809044,
+        "longitude": -72.251855,
+        "country": "United States",
+        "website": "https://uconn.edu",
+        "number": "+1 (860) 486-4900",
+        "email": "community@uconn.edu"
     },
     {
         "name": "Duke University",
