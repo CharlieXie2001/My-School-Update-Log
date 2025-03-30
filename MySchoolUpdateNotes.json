@@ -440,7 +440,7 @@
             },
             {
                 "symbol": "location.fill",
-                "description": "Now you can add more detailed location information to exam location."
+                "description": "Now you can add more detailed address information to exam location."
             },
             {
                 "symbol": "heart.fill",
@@ -448,7 +448,7 @@
             },
             {
                 "symbol": "vision.pro",
-                "description": "Add subject on Apple Vision Pro."
+                "description": "Ability to add subject on Apple Vision Pro."
             },
             {
                 "symbol": "desktopcomputer.and.macbook",
@@ -456,7 +456,7 @@
             },
             {
                 "symbol": "apple.image.playground.fill",
-                "description": "Now you can add attachment using Image Playground."
+                "description": "Now you can add attachments using Image Playground."
             },
             {
                 "symbol": "paintpalette.fill",
