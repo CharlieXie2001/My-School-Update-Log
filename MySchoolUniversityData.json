@@ -107,6 +107,19 @@
         "number": "+61 1300 367 869",
         "email": ""
     },
+    
+    
+    
+    
+    {
+        "name": "KU Leuven",
+        "latitude": 50.877905,
+        "longitude": 4.700499,
+        "country": "Belgium",
+        "website": "https://www.kuleuven.be/kuleuven/#",
+        "number": "+32 16 32 43 44",
+        "email": ""
+    },
 
 
 
@@ -337,6 +350,19 @@
         "website": "https://www.kyoto-u.ac.jp/ja",
         "number": "+81 75 753 7531",
         "email": ""
+    },
+    
+    
+    
+    
+    {
+        "name": "Universiti Malaya (UM)",
+        "latitude": 3.122797,
+        "longitude": 101.653818,
+        "country": "Malaysia",
+        "website": "https://www.um.edu.my",
+        "number": "+60 3 7967 3502",
+        "email": "apm@um.edu.my"
     },
 
 
