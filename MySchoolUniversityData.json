@@ -107,6 +107,15 @@
         "number": "+61 1300 367 869",
         "email": ""
     },
+    {
+        "name": "Curtin University",
+        "latitude": -32.006357,
+        "longitude": 115.892386,
+        "country": "Australia",
+        "website": "https://www.curtin.edu.au",
+        "number": "+61 8 9266 9266",
+        "email": ""
+    },
     
     
     
@@ -207,7 +216,7 @@
         "country": "China",
         "website": "https://www.zju.edu.cn",
         "number": "+86 (571) 8795 1111",
-        "email": ""
+        "email": "admissionmaster@zju.edu.cn"
     },
     {
         "name": "Chengdu Jinjiang Jiaxiang Foreign Language Senior High School (成都锦江嘉祥外国语学校)",
@@ -217,6 +226,24 @@
         "website": "https://jjzx.jxfls.com",
         "number": "+86 (28) 8591 8087",
         "email": "jxfls2020@126.com"
+    },
+    {
+        "name": "University of Science and Technology of China",
+        "latitude": 31.8220,
+        "longitude": 117.2806,
+        "country": "China",
+        "website": "https://en.ustc.edu.cn",
+        "number": "+86-551-6360946",
+        "email": "aga@ustc.edu.cn"
+    },
+    {
+        "name": "Nanjing University",
+        "latitude": 32.0568,
+        "longitude": 118.7790,
+        "country": "China",
+        "website": "https://www.nju.edu.cn/en/",
+        "number": "+86 25 8359 3186",
+        "email": ""
     },
 
 
@@ -451,6 +478,15 @@
         "website": "https://www.kaist.ac.kr/kr/",
         "number": "+82 42-350-2114",
         "email": "creative.adm@kaist.ac.kr"
+    },
+    {
+        "name": "Korea University",
+        "latitude": 37.589521,
+        "longitude": 127.032332,
+        "country": "South Korea",
+        "website": "https://www.korea.ac.kr/sites/ko/index.do",
+        "number": "+82 2-3290-1114",
+        "email": ""
     },
 
 
@@ -759,6 +795,15 @@
         "country": "United States",
         "website": "https://duke.edu",
         "number": "+1 (919) 684-8111",
+        "email": ""
+    },
+    {
+        "name": "University of Texas at Austin",
+        "latitude": 30.286102,
+        "longitude": -97.739403,
+        "country": "United States",
+        "website": "https://www.utexas.edu",
+        "number": "+1 (512) 471-3434",
         "email": ""
     }
 ]
