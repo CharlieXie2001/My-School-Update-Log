@@ -1113,5 +1113,20 @@
                 "description": "Bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "1.1.1",
+        "build": "87",
+        "features": [
+            {
+                "symbol": "translate",
+                "description": "Added support for Chinese, Simplified and English(Australia)."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Bug fixes."
+            }
+        ]
     }
 ]
