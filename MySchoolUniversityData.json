@@ -116,6 +116,51 @@
         "number": "+61 8 9266 9266",
         "email": ""
     },
+    {
+        "name": "The University of Newcastle",
+        "latitude": -32.892191,
+        "longitude": 151.705490,
+        "country": "Australia",
+        "website": "https://www.newcastle.edu.au/campus-life/newcastle/callaghan",
+        "number": "+61 2 4921 5000",
+        "email": "postgrad@newcastle.edu.au"
+    },
+    {
+        "name": "Deakin University",
+        "latitude": -37.847883,
+        "longitude": 145.114870,
+        "country": "Australia",
+        "website": "https://www.deakin.edu.au/about-deakin/locations/campuses/melbourne-burwood",
+        "number": "+61 3 9244 6333",
+        "email": ""
+    },
+    {
+        "name": "Queensland University of Technology (QUT) - Gardens Point Campus",
+        "latitude": -27.477323,
+        "longitude": 153.028297,
+        "country": "Australia",
+        "website": "https://www.qut.edu.au",
+        "number": "+61 7 3138 2000",
+        "email": ""
+    },
+    {
+        "name": "La Trobe University",
+        "latitude": -37.720628,
+        "longitude": 145.047175,
+        "country": "Australia",
+        "website": "https://www.latrobe.edu.au/melbourne",
+        "number": "+61 1300 528 762",
+        "email": "grs@latrobe.edu.au"
+    },
+    {
+        "name": "Griffith University",
+        "latitude": -27.481694,
+        "longitude": 153.024235,
+        "country": "Australia",
+        "website": "https://www.griffith.edu.au/about-griffith/campuses-facilities/brisbane-city-south-bank",
+        "number": "+61 7 3735 7111",
+        "email": ""
+    },
     
     
     
@@ -127,6 +172,42 @@
         "country": "Belgium",
         "website": "https://www.kuleuven.be/kuleuven/#",
         "number": "+32 16 32 43 44",
+        "email": ""
+    },
+    {
+        "name": "University of Ghent",
+        "latitude": 51.046722,
+        "longitude": 3.727273,
+        "country": "Belgium",
+        "website": "https://www.ugent.be",
+        "number": "+32 9 331 01 01",
+        "email": ""
+    },
+    {
+        "name": "Université Libre de Bruxelles - Plaine",
+        "latitude": 50.818885,
+        "longitude": 4.402860,
+        "country": "Belgium",
+        "website": "https://www.ulb.be/fr/plans-et-acces/plaine",
+        "number": "+32 2 650 21 11",
+        "email": ""
+    },
+    {
+        "name": "Universite libre de Bruxelles (ULB)",
+        "latitude": 50.811722,
+        "longitude": 4.381084,
+        "country": "Belgium",
+        "website": "https://www.ulb.be",
+        "number": "+32 2 650 21 11",
+        "email": ""
+    },
+    {
+        "name": "University of Antwerp - Groenenborger Campus",
+        "latitude": 51.177928,
+        "longitude": 4.414269,
+        "country": "Belgium",
+        "website": "https://www.uantwerpen.be/en/about-uantwerp/campuses/campus-groenenborger/",
+        "number": "+32 3 265 32 11",
         "email": ""
     },
 
@@ -245,6 +326,132 @@
         "number": "+86 25 8359 3186",
         "email": ""
     },
+    {
+        "name": "Tongji University",
+        "latitude": 31.174,
+        "longitude": 121.308,
+        "country": "China",
+        "website": "https://en.tongji.edu.cn/p/",
+        "number": "0086-21-65983611",
+        "email": ""
+    },
+    {
+        "name": "Wuhan University",
+        "latitude": 30.5325,
+        "longitude": 114.3556,
+        "country": "China",
+        "website": "https://en.whu.edu.cn/",
+        "number": "+86 27 6875 2118",
+        "email": "fao@whu.edu.cn"
+    },
+    {
+        "name": "Harbin Institute of Technology",
+        "latitude": 45.7432,
+        "longitude": 126.6324,
+        "country": "China",
+        "website": "https://en.hit.edu.cn/",
+        "number": "+86 451 8641 6602",
+        "email": "studyathit@hit.edu.cn"
+    },
+    {
+        "name": "Tianjin University",
+        "latitude": 39.1081,
+        "longitude": 117.1647,
+        "country": "China",
+        "website": "https://www.tju.edu.cn/english/",
+        "number": "+86 22 2740 6691",
+        "email": "undergraduate@tju.edu.cn"
+    },
+    {
+        "name": "Beijing Normal University",
+        "latitude": 39.95545,
+        "longitude": 116.35739,
+        "country": "China",
+        "website": "https://english.bnu.edu.cn/",
+        "number": "+86 10 58806183",
+        "email": "xwzx@bnu.edu.cn"
+    },
+    {
+        "name": "Southern University of Science and Technology (SUSTech)",
+        "latitude": 22.60337,
+        "longitude": 113.99752,
+        "country": "China",
+        "website": "https://www.sustech.edu.cn/en/",
+        "number": "+86 755 8801 6000",
+        "email": "global@sustech.edu.cn"
+    },
+    {
+        "name": "Xi'an Jiaotong University",
+        "latitude": 34.24722,
+        "longitude": 108.97917,
+        "country": "China",
+        "website": "https://en.xjtu.edu.cn/",
+        "number": "+86 29 82668231",
+        "email": "office@mail.xjtu.edu.cn"
+    },
+    {
+        "name": "Huazhong University of Science and Technology (HUST)",
+        "latitude": 30.51000,
+        "longitude": 114.41000,
+        "country": "China",
+        "website": "http://english.hust.edu.cn/",
+        "number": "+86 27 8754 2157",
+        "email": "apply@hust.edu.cn"
+    },
+    {
+        "name": "Beijing Institute of Technology",
+        "latitude": 39.9547,
+        "longitude": 116.305,
+        "country": "China",
+        "website": "https://www.bit.edu.cn/",
+        "number": "+86 10 6891 1438",
+        "email": "undergraduate@bit.edu.cn"
+    },
+    {
+        "name": "Shandong University",
+        "latitude": 36.67361,
+        "longitude": 117.05389,
+        "country": "China",
+        "website": "https://www.en.sdu.edu.cn/",
+        "number": "+86-531-88364854",
+        "email": "admission@email.sdu.edu.cn"
+    },
+    {
+        "name": "Sun Yat-sen University",
+        "latitude": 23.1002,
+        "longitude": 113.2937,
+        "country": "China",
+        "website": "https://www.sysu.edu.cn/sysuen/",
+        "number": "+86 20 8411 0819",
+        "email": "admissions@mail.sysu.edu.cn"
+    },
+    {
+        "name": "Sichuan University",
+        "latitude": 30.63301,
+        "longitude": 104.08772,
+        "country": "China",
+        "website": "https://en.scu.edu.cn/",
+        "number": "+86 28 85407199",
+        "email": "international@scu.edu.cn"
+    },
+    {
+        "name": "Xiamen University",
+        "latitude": 24.479834,
+        "longitude": 118.089424,
+        "country": "China",
+        "website": "https://en.xmu.edu.cn/",
+        "number": "+86 592 2184792",
+        "email": "admissions@xmu.edu.cn"
+    },
+    {
+        "name": "Nankai University",
+        "latitude": 39.10111,
+        "longitude": 117.16472,
+        "country": "China",
+        "website": "https://en.nankai.edu.cn/",
+        "number": "+86 22 23503481",
+        "email": "ennews@nankai.edu.cn"
+    },
 
 
 
@@ -285,6 +492,33 @@
         "number": "+33 1 44 07 80 00",
         "email": ""
     },
+    {
+        "name": "Université Paris-Saclay",
+        "latitude": 48.709543,
+        "longitude": 2.170076,
+        "country": "France",
+        "website": "https://www.universite-paris-saclay.fr",
+        "number": "+33 1 69 15 67 50",
+        "email": ""
+    },
+    {
+        "name": "École Normale Supérieure de Lyon (ENS de Lyon)",
+        "latitude": 45.729734,
+        "longitude": 4.826875,
+        "country": "France",
+        "website": "http://www.ens-lyon.fr/",
+        "number": "+33 (0)4 37 37 60 00",
+        "email": "communication@ens-lyon.fr"
+    },
+    {
+        "name": "École des Ponts ParisTech",
+        "latitude": 48.84111,
+        "longitude": 2.58778,
+        "country": "France",
+        "website": "https://www.ecoledesponts.fr/en",
+        "number": "+33 (0)1 64 15 30 00",
+        "email": "infosgce@enpc.fr"
+    },
 
 
 
@@ -307,6 +541,60 @@
         "number": "+49 89 21800",
         "email": ""
     },
+    {
+        "name": "Ruprecht-Karls-Universität Heidelberg",
+        "latitude": 49.410278,
+        "longitude": 8.706389,
+        "country": "Germany",
+        "website": "https://www.uni-heidelberg.de/en",
+        "number": "+49 6221 54-0",
+        "email": "studium@uni-heidelberg.de"
+    },
+    {
+        "name": "Freie Universität Berlin",
+        "latitude": 52.45306,
+        "longitude": 13.29056,
+        "country": "Germany",
+        "website": "https://www.fu-berlin.de/en/",
+        "number": "+49 30 838 70000",
+        "email": "info-service@fu-berlin.de"
+    },
+    {
+        "name": "RWTH Aachen University",
+        "latitude": 50.77778,
+        "longitude": 6.07806,
+        "country": "Germany",
+        "website": "https://www.rwth-aachen.de/",
+        "number": "+49 241 80 1",
+        "email": "impressum@rwth-aachen.de"
+    },
+    {
+        "name": "Karlsruhe Institute of Technology (KIT)",
+        "latitude": 49.00944,
+        "longitude": 8.41167,
+        "country": "Germany",
+        "website": "https://www.kit.edu/english/",
+        "number": "+49 721 608-0",
+        "email": "info@kit.edu"
+    },
+    {
+        "name": "Humboldt-Universität zu Berlin",
+        "latitude": 52.51806,
+        "longitude": 13.39333,
+        "country": "Germany",
+        "website": "https://www.hu-berlin.de/en",
+        "number": "+49 30 2093-70333",
+        "email": "info@hu-berlin.de"
+    },
+    {
+        "name": "Technische Universität Berlin (TU Berlin)",
+        "latitude": 52.512230,
+        "longitude": 13.327135,
+        "country": "Germany",
+        "website": "https://www.tu.berlin/en/",
+        "number": "+49 30 314-0",
+        "email": "info@tu-berlin.de"
+    }
 
 
 
@@ -622,6 +910,60 @@
         "number": "+44 117 928 9000",
         "email": ""
     },
+    {
+        "name": "University of Glasgow",
+        "latitude": 55.872315,
+        "longitude": -4.289219,
+        "country": "United Kingdom",
+        "website": "https://www.gla.ac.uk/",
+        "number": "+44 141 330 2000",
+        "email": "student.recruitment@glasgow.ac.uk"
+    },
+    {
+        "name": "University of Birmingham",
+        "latitude": 52.4508,
+        "longitude": -1.9305,
+        "country": "United Kingdom",
+        "website": "https://www.birmingham.ac.uk/",
+        "number": "+44 (0)121 414 3344",
+        "email": "info@bham.ac.uk"
+    },
+    {
+        "name": "University of Southampton",
+        "latitude": 50.9349,
+        "longitude": -1.3953,
+        "country": "United Kingdom",
+        "website": "https://www.southampton.ac.uk/",
+        "number": "+44 (0)23 8059 5000",
+        "email": "studenthub@soton.ac.uk"
+    },
+    {
+        "name": "University of Leeds",
+        "latitude": 53.8067,
+        "longitude": -1.5530,
+        "country": "United Kingdom",
+        "website": "https://www.leeds.ac.uk/",
+        "number": "+44 (0)113 243 1751",
+        "email": "study@leeds.ac.uk"
+    },
+    {
+        "name": "Durham University",
+        "latitude": 54.7666,
+        "longitude": -1.5780,
+        "country": "United Kingdom",
+        "website": "https://www.durham.ac.uk/",
+        "number": "+44 (0)191 334 2000",
+        "email": "international.internal@durham.ac.uk"
+    },
+    {
+        "name": "University of St Andrews",
+        "latitude": 56.3398,
+        "longitude": -2.7967,
+        "country": "United Kingdom",
+        "website": "https://www.st-andrews.ac.uk/",
+        "number": "+44 (0)1334 47 6161",
+        "email": "admissions@st-andrews.ac.uk"
+    },
 
 
 
@@ -805,5 +1147,212 @@
         "website": "https://www.utexas.edu",
         "number": "+1 (512) 471-3434",
         "email": ""
+    },
+    {
+        "name": "University of Illinois - Champaign Campus",
+        "latitude": 40.101025,
+        "longitude": -88.226341,
+        "country": "United States",
+        "website": "https://illinois.edu",
+        "number": "+1 (217) 333-3570",
+        "email": "consult@illinois.edu"
+    },
+    {
+        "name": "University of California, San Diego (UCSD)",
+        "latitude": 32.878578,
+        "longitude": -117.235451,
+        "country": "United States",
+        "website": "https://www.ucsd.edu",
+        "number": "+1 (858) 534-2230",
+        "email": ""
+    },
+    {
+        "name": "University of Washington",
+        "latitude": 47.654893,
+        "longitude": -122.307787,
+        "country": "United States",
+        "website": "https://www.washington.edu",
+        "number": "+1 (206) 543-2100",
+        "email": ""
+    },
+    {
+        "name": "Brown University",
+        "latitude": 41.826859,
+        "longitude": -71.402931,
+        "country": "United States",
+        "website": "https://www.brown.edu",
+        "number": "+1 (401) 863-1000",
+        "email": ""
+    },
+    {
+        "name": "Pennsylvania State University",
+        "latitude": 40.798214,
+        "longitude": -77.859909,
+        "country": "United States",
+        "website": "https://www.psu.edu/",
+        "number": "+1 814-865-4700",
+        "email": "admissions@psu.edu"
+    },
+    {
+        "name": "Purdue University",
+        "latitude": 40.4237,
+        "longitude": -86.9212,
+        "country": "United States",
+        "website": "https://www.purdue.edu/",
+        "number": "+1 765-494-4600",
+        "email": "admissions@purdue.edu"
+    },
+    {
+        "name": "Boston University",
+        "latitude": 42.3505,
+        "longitude": -71.1054,
+        "country": "United States",
+        "website": "https://www.bu.edu/",
+        "number": "+1 617-353-2000",
+        "email": "admissions@bu.edu"
+    },
+    {
+        "name": "Georgia Institute of Technology",
+        "latitude": 33.775618,
+        "longitude": -84.396285,
+        "country": "United States",
+        "website": "https://www.gatech.edu/",
+        "number": "+1 404-894-2000",
+        "email": "admission@gatech.edu"
+    },
+    {
+        "name": "University of Wisconsin–Madison",
+        "latitude": 43.0730556,
+        "longitude": -89.4011111,
+        "country": "United States",
+        "website": "https://www.wisc.edu/",
+        "number": "+1 608-263-2400",
+        "email": "askbucky@uwmad.wisc.edu"
+    },
+    {
+        "name": "University of Southern California",
+        "latitude": 34.0205,
+        "longitude": -118.2856,
+        "country": "United States",
+        "website": "https://www.usc.edu/",
+        "number": "+1 213-740-2311",
+        "email": "admissions@usc.edu"
+    },
+    {
+        "name": "University of California, Davis",
+        "latitude": 38.53379035,
+        "longitude": -121.790798921465,
+        "country": "United States",
+        "website": "https://www.ucdavis.edu/",
+        "number": "+1 530-752-1011",
+        "email": "admissions@ucdavis.edu"
+    },
+    {
+        "name": "Rice University",
+        "latitude": 29.717154,
+        "longitude": -95.404182,
+        "country": "United States",
+        "website": "https://www.rice.edu/",
+        "number": "+1 713-348-0000",
+        "email": "admission@rice.edu"
+    },
+    {
+        "name": "Michigan State University",
+        "latitude": 42.701848,
+        "longitude": -84.482171,
+        "country": "United States",
+        "website": "https://www.msu.edu/",
+        "number": "+1 517-355-1855",
+        "email": "admis@msu.edu"
+    },
+    {
+        "name": "Texas A&M University",
+        "latitude": 30.615011,
+        "longitude": -96.342476,
+        "country": "United States",
+        "website": "https://www.tamu.edu/",
+        "number": "+1 979-845-3211",
+        "email": "admissions@tamu.edu"
+    },
+    {
+        "name": "University of North Carolina at Chapel Hill",
+        "latitude": 35.90503535,
+        "longitude": -79.0477532652511,
+        "country": "United States",
+        "website": "https://www.unc.edu/",
+        "number": "+1 919-966-3621",
+        "email": "unchelp@admissions.unc.edu"
+    },
+    {
+        "name": "Washington University in St. Louis",
+        "latitude": 38.648789,
+        "longitude": -90.310796,
+        "country": "United States",
+        "website": "https://www.wustl.edu/",
+        "number": "+1 314-935-5000",
+        "email": "admissions@wustl.edu"
+    },
+    {
+        "name": "University of California, Santa Barbara (UCSB)",
+        "latitude": 34.413963,
+        "longitude": -119.848946,
+        "country": "United States",
+        "website": "https://www.ucsb.edu/",
+        "number": "+1 805-893-8000",
+        "email": "admissions@ucsb.edu"
+    },
+    {
+        "name": "Emory University",
+        "latitude": 33.797028,
+        "longitude": -84.323242,
+        "country": "United States",
+        "website": "https://www.emory.edu/",
+        "number": "+1 404-727-6036",
+        "email": "admission@emory.edu"
+    },
+    {
+        "name": "Arizona State University",
+        "latitude": 33.424564,
+        "longitude": -111.928001,
+        "country": "United States",
+        "website": "https://www.asu.edu/",
+        "number": "+1 855-278-5080",
+        "email": "customerservice@asu.edu"
+    },
+    {
+        "name": "University of Minnesota Twin Cities",
+        "latitude": 44.975278,
+        "longitude": -93.234167,
+        "country": "United States",
+        "website": "https://twin-cities.umn.edu/",
+        "number": "+1 612-625-5000",
+        "email": "admissions@umn.edu"
+    },
+    {
+        "name": "The Ohio State University",
+        "latitude": 40.0141905,
+        "longitude": -83.0309143,
+        "country": "United States",
+        "website": "https://www.osu.edu/",
+        "number": "+1 614-292-3980",
+        "email": "askabuckeye@osu.edu"
+    },
+    {
+        "name": "University of Florida",
+        "latitude": 29.643946,
+        "longitude": -82.355659,
+        "country": "United States",
+        "website": "https://www.ufl.edu/",
+        "number": "+1 352-392-1365",
+        "email": "admissions@ufl.edu"
+    },
+    {
+        "name": "University of Maryland, College Park",
+        "latitude": 38.990612,
+        "longitude": -76.937331,
+        "country": "United States",
+        "website": "https://www.umd.edu/",
+        "number": "+1 301-405-1000",
+        "email": "ApplyMaryland@umd.edu"
     }
 ]
