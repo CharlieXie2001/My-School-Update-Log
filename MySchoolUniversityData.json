@@ -519,6 +519,24 @@
         "number": "+33 (0)1 64 15 30 00",
         "email": "infosgce@enpc.fr"
     },
+    {
+      "name": "Université Paris 1 Panthéon-Sorbonne",
+      "latitude": 48.8474,
+      "longitude": 2.34546,
+      "country": "France",
+      "website": "https://www.pantheonsorbonne.fr/",
+      "number": "+33 1 44 07 80 00",
+      "email": "inscriptions-administratives@univ-paris1.fr"
+    },
+    {
+      "name": "Université Paris Cité",
+      "latitude": 48.85147,
+      "longitude": 2.34092,
+      "country": "France",
+      "website": "https://u-paris.fr/en/",
+      "number": "+33 1 57 27 65 67",
+      "email": ""
+    },
 
 
 
@@ -595,6 +613,42 @@
         "number": "+49 30 314-0",
         "email": "info@tu-berlin.de"
     },
+    {
+        "name": "Universität Hamburg",
+        "latitude": 53.5668,
+        "longitude": 9.9837,
+        "country": "Germany",
+        "website": "https://www.uni-hamburg.de/en/",
+        "number": "+49 40 42838-0",
+        "email": "info@uni-hamburg.de"
+    },
+    {
+      "name": "Albert-Ludwigs-Universität Freiburg",
+      "latitude": 47.993511,
+      "longitude": 7.845839,
+      "country": "Germany",
+      "website": "https://www.uni-freiburg.de/",
+      "number": "+49 761 203-0",
+      "email": "info@uni-freiburg.de"
+    },
+    {
+      "name": "Eberhard Karls Universität Tübingen",
+      "latitude": 48.525,
+      "longitude": 9.055,
+      "country": "Germany",
+      "website": "https://www.uni-tuebingen.de/en/",
+      "number": "+49 7071 29-0",
+      "email": "info@uni-tuebingen.de"
+    },
+    {
+      "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+      "latitude": 49.59788,
+      "longitude": 11.004551,
+      "country": "Germany",
+      "website": "https://www.fau.eu/",
+      "number": "+49 9131 85-70229",
+      "email": "presse@fau.de"
+    },
 
 
 
@@ -644,6 +698,24 @@
         "number": "+852 3442 7654",
         "email": ""
     },
+    {
+      "name": "Hong Kong Baptist University",
+      "latitude": 22.33792,
+      "longitude": 114.18277,
+      "country": "HongKong",
+      "website": "https://www.hkbu.edu.hk/",
+      "number": "+852 3411 7400",
+      "email": "ar@hkbu.edu.hk"
+    },
+    {
+      "name": "Lingnan University",
+      "latitude": 22.4100,
+      "longitude": 113.9830,
+      "country": "HongKong",
+      "website": "https://www.ln.edu.hk/",
+      "number": "+852 2616 8888",
+      "email": "ar@ln.edu.hk"
+    },
 
 
 
@@ -666,6 +738,78 @@
         "number": "+81 75 753 7531",
         "email": ""
     },
+    {
+      "name": "Tokyo Institute of Technology",
+      "latitude": 35.605,
+      "longitude": 139.682,
+      "country": "Japan",
+      "website": "https://www.titech.ac.jp/english/",
+      "number": "+81 3-3726-1111",
+      "email": "pr@jim.titech.ac.jp"
+    },
+    {
+      "name": "Osaka University",
+      "latitude": 34.8182,
+      "longitude": 135.5227,
+      "country": "Japan",
+      "website": "https://www.osaka-u.ac.jp/en",
+      "number": "+81 6-6877-5111",
+      "email": "admission@office.osaka-u.ac.jp"
+    },
+    {
+      "name": "Tohoku University",
+      "latitude": 38.255,
+      "longitude": 140.873,
+      "country": "Japan",
+      "website": "https://www.tohoku.ac.jp/en/",
+      "number": "+81 22-795-3242",
+      "email": "tohoku-fgl@grp.tohoku.ac.jp"
+    },
+    {
+      "name": "Nagoya University",
+      "latitude": 35.15472,
+      "longitude": 136.96694,
+      "country": "Japan",
+      "website": "https://en.nagoya-u.ac.jp/",
+      "number": "+81 52-789-5111",
+      "email": "nuinfo@t.mail.nagoya-u.ac.jp"
+    },
+    {
+      "name": "Kyushu University",
+      "latitude": 33.626659,
+      "longitude": 130.425049,
+      "country": "Japan",
+      "website": "https://www.kyushu-u.ac.jp/en/",
+      "number": "+81 92-802-2111",
+      "email": "nyu-inquiry@jimu.kyushu-u.ac.jp"
+    },
+    {
+      "name": "Hokkaido University",
+      "latitude": 43.0707,
+      "longitude": 141.3400,
+      "country": "Japan",
+      "website": "https://www.global.hokudai.ac.jp/",
+      "number": "+81 11-716-2111",
+      "email": "international@sci.hokudai.ac.jp"
+    },
+    {
+      "name": "Waseda University",
+      "latitude": 35.70863,
+      "longitude": 139.71958,
+      "country": "Japan",
+      "website": "https://www.waseda.jp/top/en/",
+      "number": "+81 3-3203-7747",
+      "email": "nyusi@list.waseda.jp"
+    },
+    {
+      "name": "Keio University",
+      "latitude": 35.649167,
+      "longitude": 139.742778,
+      "country": "Japan",
+      "website": "https://www.keio.ac.jp/en/",
+      "number": "+81 3-5427-1517",
+      "email": "admissions@info.keio.ac.jp"
+    },
     
     
     
@@ -678,6 +822,51 @@
         "website": "https://www.um.edu.my",
         "number": "+60 3 7967 3502",
         "email": "apm@um.edu.my"
+    },
+    {
+      "name": "Universiti Kebangsaan Malaysia (UKM)",
+      "latitude": 2.929997,
+      "longitude": 101.777423,
+      "country": "Malaysia",
+      "website": "https://www.ukm.my/",
+      "number": "+60 3-8921 5555",
+      "email": "pkk@ukm.edu.my"
+    },
+    {
+      "name": "Universiti Sains Malaysia (USM)",
+      "latitude": 5.3542,
+      "longitude": 100.3008,
+      "country": "Malaysia",
+      "website": "https://www.usm.my/",
+      "number": "+60 4-653 3888",
+      "email": "mprc@usm.my"
+    },
+    {
+      "name": "Universiti Putra Malaysia (UPM)",
+      "latitude": 2.9926,
+      "longitude": 101.7072,
+      "country": "Malaysia",
+      "website": "https://www.upm.edu.my/",
+      "number": "+60 3-9769 1000",
+      "email": "pspk@upm.edu.my"
+    },
+    {
+      "name": "Universiti Teknologi Malaysia (UTM)",
+      "latitude": 1.5584,
+      "longitude": 103.6386,
+      "country": "Malaysia",
+      "website": "https://www.utm.my/",
+      "number": "+60 7-553 3333",
+      "email": "corporate@utm.my"
+    },
+    {
+      "name": "Taylor's University",
+      "latitude": 3.0638,
+      "longitude": 101.6034,
+      "country": "Malaysia",
+      "website": "https://university.taylors.edu.my/",
+      "number": "+60 3-5629 5000",
+      "email": "applications@taylors.edu.my"
     },
 
 
