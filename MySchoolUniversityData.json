@@ -868,6 +868,24 @@
       "number": "+60 3-5629 5000",
       "email": "applications@taylors.edu.my"
     },
+    {
+      "name": "UCSI University",
+      "latitude": 3.079548,
+      "longitude": 101.733216,
+      "country": "Malaysia",
+      "website": "https://www.ucsiuniversity.edu.my/",
+      "number": "+60 3-9101 8880",
+      "email": "info.enq@ucsiuniversity.edu.my"
+    },
+    {
+      "name": "Universiti Teknologi PETRONAS (UTP)",
+      "latitude": 4.3852,
+      "longitude": 100.9631,
+      "country": "Malaysia",
+      "website": "https://www.utp.edu.my/",
+      "number": "+60 5-368 8000",
+      "email": "info@utp.edu.my"
+    },
 
 
 
@@ -902,6 +920,69 @@
         "website": "https://www.auckland.ac.nz",
         "number": "+64 9 373 7999",
         "email": "Int-questions@auckland.ac.nz"
+    },
+    {
+      "name": "University of Otago",
+      "latitude": -45.86465,
+      "longitude": 170.51075,
+      "country": "New Zealand",
+      "website": "https://www.otago.ac.nz/",
+      "number": "+64 3 479 7000",
+      "email": "university@otago.ac.nz"
+    },
+    {
+      "name": "University of Waikato",
+      "latitude": -37.7869,
+      "longitude": 175.3139,
+      "country": "New Zealand",
+      "website": "https://www.waikato.ac.nz/",
+      "number": "+64 7 838 4176",
+      "email": "info@waikato.ac.nz"
+    },
+    {
+      "name": "Massey University",
+      "latitude": -36.73369,
+      "longitude": 174.70232,
+      "country": "New Zealand",
+      "website": "https://www.massey.ac.nz/",
+      "number": "+64 6 350 5701",
+      "email": "contact@massey.ac.nz"
+    },
+    {
+      "name": "Victoria University of Wellington",
+      "latitude": -41.28989,
+      "longitude": 174.76815,
+      "country": "New Zealand",
+      "website": "https://www.wgtn.ac.nz/",
+      "number": "+64 4 472 1000",
+      "email": "info@vuw.ac.nz"
+    },
+    {
+      "name": "University of Canterbury | Te Whare Wānanga o Waitaha",
+      "latitude": -43.5233,
+      "longitude": 172.5839,
+      "country": "New Zealand",
+      "website": "https://www.canterbury.ac.nz/",
+      "number": "+64 3 369 3999",
+      "email": "info@canterbury.ac.nz"
+    },
+    {
+      "name": "Lincoln University | Te Whare Wānaka o Aoraki",
+      "latitude": -43.6446,
+      "longitude": 172.4690,
+      "country": "New Zealand",
+      "website": "https://www.lincoln.ac.nz/",
+      "number": "+64 3 423 0000",
+      "email": "info@lincoln.ac.nz"
+    },
+    {
+      "name": "Auckland University of Technology (AUT)",
+      "latitude": -36.8535,
+      "longitude": 174.7656,
+      "country": "New Zealand",
+      "website": "https://www.aut.ac.nz/",
+      "number": "+64 9 921 9999",
+      "email": "studenthub@aut.ac.nz"
     },
 
 
@@ -965,6 +1046,28 @@
         "number": "+82 2-3290-1114",
         "email": ""
     },
+    
+    
+    
+    
+    {
+      "name": "KTH Royal Institute of Technology",
+      "latitude": 59.3473,
+      "longitude": 18.0735,
+      "country": "Sweden",
+      "website": "https://www.kth.se/en",
+      "number": "+46 8 790 60 00",
+      "email": "info@kth.se"
+    },
+    {
+      "name": "Lund University",
+      "latitude": 55.7047,
+      "longitude": 13.1910,
+      "country": "Sweden",
+      "website": "https://www.lunduniversity.lu.se/",
+      "number": "+46 46 222 00 00",
+      "email": "studentreception@lu.se"
+    },
 
 
 
@@ -995,6 +1098,15 @@
         "website": "https://www.epfl.ch/en/",
         "number": "+41 21 693 23 95",
         "email": ""
+    },
+    {
+      "name": "University of Zurich",
+      "latitude": 47.3769,
+      "longitude": 8.5417,
+      "country": "Switzerland",
+      "website": "https://www.uzh.ch/en.html",
+      "number": "+41 44 634 22 36",
+      "email": "admission@uzh.ch"
     },
 
 
@@ -1152,6 +1264,123 @@
         "website": "https://www.st-andrews.ac.uk/",
         "number": "+44 (0)1334 47 6161",
         "email": "admissions@st-andrews.ac.uk"
+    },
+    {
+      "name": "The University of Sheffield",
+      "latitude": 53.381389,
+      "longitude": -1.488272,
+      "country": "United Kingdom",
+      "website": "https://www.sheffield.ac.uk/",
+      "number": "+44 114 222 2000",
+      "email": "study@sheffield.ac.uk"
+    },
+    {
+      "name": "University of Nottingham",
+      "latitude": 52.9386,
+      "longitude": -1.1969,
+      "country": "United Kingdom",
+      "website": "https://www.nottingham.ac.uk/",
+      "number": "+44 115 951 5151",
+      "email": "international-office@nottingham.ac.uk"
+    },
+    {
+      "name": "Queen Mary University of London",
+      "latitude": 51.5246,
+      "longitude": -0.0404,
+      "country": "United Kingdom",
+      "website": "https://www.qmul.ac.uk/",
+      "number": "+44 20 7882 5555",
+      "email": "via contact form at https://www.qmul.ac.uk/contact/"
+    },
+    {
+      "name": "Newcastle University",
+      "latitude": 54.9783,
+      "longitude": -1.6178,
+      "country": "United Kingdom",
+      "website": "https://www.ncl.ac.uk/",
+      "number": "+44 191 208 6000",
+      "email": "via contact form at https://www.ncl.ac.uk/who-we-are/contact/"
+    },
+    {
+      "name": "Lancaster University",
+      "latitude": 54.0100,
+      "longitude": -2.7870,
+      "country": "United Kingdom",
+      "website": "https://www.lancaster.ac.uk/",
+      "number": "+44 1524 65201",
+      "email": "internationalrecruitment@lancaster.ac.uk"
+    },
+    {
+      "name": "University of Bath",
+      "latitude": 51.3781,
+      "longitude": -2.3255,
+      "country": "United Kingdom",
+      "website": "https://www.bath.ac.uk/",
+      "number": "+44 1225 388388",
+      "email": "admissions@bath.ac.uk"
+    },
+    {
+      "name": "University of Liverpool",
+      "latitude": 53.4068,
+      "longitude": -2.9664,
+      "country": "United Kingdom",
+      "website": "https://www.liverpool.ac.uk/",
+      "number": "+44 151 794 5927",
+      "email": "irro@liverpool.ac.uk"
+    },
+    {
+      "name": "University of Exeter",
+      "latitude": 50.7374,
+      "longitude": -3.5355,
+      "country": "United Kingdom",
+      "website": "https://www.exeter.ac.uk/",
+      "number": "+44 1392 723044",
+      "email": "ug-ad@exeter.ac.uk"
+    },
+    {
+      "name": "University of Reading",
+      "latitude": 51.4416,
+      "longitude": -0.9418,
+      "country": "United Kingdom",
+      "website": "https://www.reading.ac.uk/",
+      "number": "+44 118 378 8372",
+      "email": "ugadmissions@reading.ac.uk"
+    },
+    {
+      "name": "University of York",
+      "latitude": 53.9489,
+      "longitude": -1.0534,
+      "country": "United Kingdom",
+      "website": "https://www.york.ac.uk/",
+      "number": "+44 1904 320000",
+      "email": "ug-admissions@york.ac.uk"
+    },
+    {
+      "name": "Cardiff University",
+      "latitude": 51.4882,
+      "longitude": -3.1791,
+      "country": "United Kingdom",
+      "website": "https://www.cardiff.ac.uk/",
+      "number": "+44 29 2087 4000",
+      "email": "enquiry@cardiff.ac.uk"
+    },
+    {
+      "name": "Queen's University Belfast",
+      "latitude": 54.5842,
+      "longitude": -5.9345,
+      "country": "United Kingdom",
+      "website": "https://www.qub.ac.uk/",
+      "number": "+44 28 9097 3838",
+      "email": "admissions@qub.ac.uk"
+    },
+    {
+      "name": "Loughborough University",
+      "latitude": 52.7667,
+      "longitude": -1.2294,
+      "country": "United Kingdom",
+      "website": "https://www.lboro.ac.uk/",
+      "number": "+44 1509 222222",
+      "email": "enquiries@lboro.ac.uk"
     },
 
 
