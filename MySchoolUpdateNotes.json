@@ -1143,5 +1143,28 @@
                 "description": "Bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "1.1.2",
+        "build": "90",
+        "features": [
+            {
+                "symbol": "clock.badge.fill",
+                "description": "Added support for Live Activity, track your current session right from Lock Screen, Dynamic Island and StandBy mode."
+            },
+            {
+                "symbol": "plus.square.fill",
+                "description": "Add entries to the subject by pressing and holding the subject card."
+            },
+            {
+                "symbol": "heart.text.square.fill",
+                "description": "New Mental Wellbeing supporting and suggestiong feature."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "Bug fixes."
+            }
+        ]
     }
 ]
