@@ -10,7 +10,55 @@
         "ActivitySubcategory": "Shopping",
         "imageLink": "https://news.cgtn.com/news/2025-03-04/Chengdu-Where-pandas-hot-pot-and-animations-meet-innovation-1BsMoiKH2ow/img/530844973b9b4833a0e6f4c886851a18/530844973b9b4833a0e6f4c886851a18.png",
         "websiteLink": "https://www.cdifs.cn/en/about-ifs-en",
-        "ticketLink": ""
+        "ticketLink": "",
+        "activityStory": [
+            {
+                "sectionTitle": "Chengdu IFS: Where Fashion, Art, and Culture Converge",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Located in the heart of Chunxi Road—Chengdu’s most vibrant commercial district—Chengdu International Finance Square (IFS) is more than a luxury shopping mall. It’s a modern icon that brings together art, architecture, and lifestyle. Whether you’re a shopper, photographer, foodie, or casual explorer, IFS offers a snapshot of urban Chengdu at its most dynamic."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "The Giant Panda on the Rooftop",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "One of IFS’s most famous features is “I Am Here”, a giant panda sculpture climbing the building’s façade. Created by artist Lawrence Argent, the sculpture has become a beloved symbol of Chengdu and a viral photo spot on social media. The playful panda, peeking over the edge of the building, adds a whimsical touch to the luxury complex."
+                    }
+                ],
+                "sectionImage": "https://images.unsplash.com/photo-1709560331476-94206986273c?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "sectionImageCaption": "“I Am Here” Panda Sculpture on IFS",
+                "sectionImageCredit": "Siu Chiu"
+            },
+            {
+                "sectionTitle": "A Shopping Paradise",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Chengdu IFS houses over 600 brands, including Chanel, Hermès, Louis Vuitton, and Apple. The interior is sleek and modern, with art installations, digital screens, and landscaped terraces. It’s not just a shopping mall—it’s a lifestyle destination. Even if you’re not buying, the window displays and ambiance are worth experiencing."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Food and Leisure Above the City",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Beyond shopping, IFS offers rooftop gardens and dining options that overlook the skyline. Popular restaurants, cafés, and even tea houses are scattered across multiple levels, making it a great place to relax. The outdoor plaza is often home to exhibitions and pop-up events."
+                    }
+                ],
+                "sectionImage": "https://www.cdifs.cn/dashcloud/wp-content/uploads/The-Rooftop屋顶露台-768x576.jpg",
+                "sectionImageCaption": "Niccolo Chengdu",
+                "sectionImageCredit": "Chengdu IFS"
+            },
+            {
+                "sectionTitle": "Why You Should Go",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Chengdu IFS is the city’s perfect mix of contemporary life and cultural flair. With a giant panda climbing its walls, sky-high cafés, and endless shopping and dining, it’s more than a mall—it’s a symbol of Chengdu’s modern personality. Don’t forget to snap a photo with the panda—you’re here now, just like him."
+                    }
+                ]
+            }
+        ]
     },
     {
         "locationName": "Anshun Bridge",
@@ -82,29 +130,29 @@
         "ticketLink": "https://www.sydneyoperahouse.com/whats-on",
         "activityStory": [
             {
-                "sectionTitle": "BE MOVED BY A LIVE PERFORMANCE",
+                "sectionTitle": "Be Moved by A Live Performance",
                 "sectionBody": [
                     {
                         "bodyParagraph": "When it comes to iconic performance venues, the Sydney Opera House is high on the list. Take a seat in the Concert Hall, one of the world’s most sought-after performance spaces, and marvel at the intricate ceiling and grand stage. The Opera House hosts all types of performing art. Comedy, opera, dance, musical theatre and more – the choice is yours."
                     }
                 ],
                 "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/be-moved-by-a-live-performance/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_555126979/image/galleryCarouselImage.adapt.740.medium.jpg",
-                "sectionImageCaption": "Amadeus at the Sydney Opera House, Sydney, New South Wales",
+                "sectionImageCaption": "Sydney Opera House, Sydney, New South Wales",
                 "sectionImageCredit": "Daniel Boud"
             },
             {
-                "sectionTitle": "WATCH A FIRST NATIONS LIGHT SHOW",
+                "sectionTitle": "Watch A First Nations Light Show",
                 "sectionBody": [
                     {
                         "bodyParagraph": "The Sydney Opera House sits on the traditional lands of the Gadigal people. Meaning ‘water light’ in the language of the Gadigal people, Badu Gili is a nightly event that sees a spectacular projection light up the white walls (also called 'sails') of the iconic venue. Grab the best view from the top of the Monumental Steps and watch Aboriginal and Torres Strait Islander stories brought to life."
                     }
                 ],
                 "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/watch-a-first-nations-light-show/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_1473565551/image/galleryCarouselImage.adapt.740.medium.jpg",
-                "sectionImageCaption": "Amadeus at the Sydney Opera House, Sydney, New South Wales",
+                "sectionImageCaption": "Sydney Opera House, Sydney, New South Wales",
                 "sectionImageCredit": "Daniel Boud"
             },
             {
-                "sectionTitle": "DINE WITH A STELLAR VIEW",
+                "sectionTitle": "Dine With A Stellar View",
                 "sectionBody": [
                     {
                         "bodyParagraph": "We’re not sure which is better at Bennelong – the exceptional menu or the jaw-dropping view. The restaurant is housed within the sails of the Sydney Opera House and champions distinctly Australian flavours (think mud crab and finger lime). Dining alongside the sparkling harbour only adds to the refined ambience."
@@ -115,7 +163,7 @@
                 "sectionImageCredit": "Tourism Australia"
             },
             {
-                "sectionTitle": "GO BEHIND THE CURTAIN",
+                "sectionTitle": "Go Behind The Curtain",
                 "sectionBody": [
                     {
                         "bodyParagraph": "What you see on stage is only half the story. The Sydney Opera House offers a range of tours that bring you behind the scenes of the venue’s history, architecture and show production. True theatre enthusiasts can even land a walk-on role to experience opera from the performer’s perspective. Don a custom-fitted costume and step into the spotlight for one unforgettable night."
@@ -126,7 +174,7 @@
                 "sectionImageCredit": "Tourism Australia"
             },
             {
-                "sectionTitle": "SEE THE SAILS FROM ALL ANGLES",
+                "sectionTitle": "See The Sails From All Angles",
                 "sectionBody": [
                     {
                         "bodyParagraph": "Boasting some of the world’s most beautiful architecture, the Sydney Opera House doesn’t have a bad angle. Seek out unique vantage points on an adventure tour with epic views. Take a seaplane over the harbour to spot not only the Opera House but the Sydney Harbour Bridge and city skyline as well. A kayak tour will have you paddling up close for a spectacular view. Whichever tour you choose, it’s bound to create a bucket list memory."
@@ -134,7 +182,7 @@
                 ],
                 "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/see-the-sails-from-all-angles/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_1941322296/image/galleryCarouselImage.adapt.740.medium.jpg",
                 "sectionImageCaption": "Sydney Opera House, Sydney, New South Wales",
-                "sectionImageCredit": "Hamilton Lund"
+                "sectionImageCredit": "Destination NSW"
             }
         ]
     }
