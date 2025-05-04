@@ -1,6 +1,6 @@
 [
     {
-        "locationName": "CHENGDU IFS",
+        "locationName": "Chengdu IFS",
         "city": "Chengdu",
         "country": "China",
         "latitude": 30.658000,
@@ -23,7 +23,50 @@
         "ActivitySubcategory": "Tour",
         "imageLink": "https://www.cathaypacific.com/content/dam/focal-point/cx/inspiration/2024/05/A-travel-guide-to-Chengdu_China-Famous_landmark_of_Chengdu-f9photos-Gettyimages-HERO.renditionimage.1700.850.jpg",
         "websiteLink": "",
-        "ticketLink": ""
+        "ticketLink": "",
+        "activityStory": [
+            {
+                "sectionTitle": "A Historic Gem in Chengdu",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "In the long flow of history, travel has always been a powerful way to experience culture—and Anshun Bridge in Chengdu is a perfect example. Even Marco Polo, one of the earliest “travel bloggers,” praised this bridge in his writings, calling attention to its beauty and cultural richness. Let’s explore the story of this ancient landmark that continues to charm visitors today."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "A Bridge Between Past and Present",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Located in the heart of Chengdu, Anshun Bridge stretches across the calm Jin River, blending centuries-old history with modern elegance. Originally built during the Ming Dynasty, it once served as a vital transport hub and symbol of economic activity. From the bridge, visitors can enjoy scenic river views and experience a deep sense of cultural heritage."
+                    },
+                    {
+                        "bodyParagraph": "Marco Polo described it vividly: marble pillars on both sides, a red-tiled wooden roof, and intricate patterns showcasing the architectural brilliance of its time."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": " A Bridge That Tells Stories",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "In ancient times, Anshun Bridge was a vibrant marketplace. Craftspeople displayed their skills, merchants called out their prices, and a central tax point underscored the bridge’s role in trade. As Marco Polo wrote, it was not just a bridge—but a lively center of daily life."
+                    },
+                    {
+                        "bodyParagraph": "Even today, the bridge remains a popular gathering spot for both tourists and locals."
+                    }
+                ],
+                "sectionImage": "https://thumbs.dreamstime.com/b/anshun-bridge-night-chengdu-china-famous-landmark-chengdue-over-jin-river-illuminated-sichuan-125999230.jpg",
+                "sectionImageCaption": "Anshun bridge over Jin River illuminated at night, Chengdue, Sichuan, China",
+                "sectionImageCredit": "Dmitry Rukhlenko"
+            },
+            {
+                "sectionTitle": "An Icon Reimagined",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Though rebuilt multiple times, the current Anshun Bridge remains a cultural landmark. By day, it welcomes photo-loving tourists; by night, it glows with colorful lights reflecting in the water—a dreamlike sight. Take a stroll, listen to the gentle flow beneath, and feel the echoes of the past still alive around you."
+                    }
+                ]
+            }
+        ]
     },
     {
         "locationName": "Sydney Opera House",
