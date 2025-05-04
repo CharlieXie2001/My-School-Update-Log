@@ -45,7 +45,7 @@
                 ]
             },
             {
-                "sectionTitle": " A Bridge That Tells Stories",
+                "sectionTitle": "A Bridge That Tells Stories",
                 "sectionBody": [
                     {
                         "bodyParagraph": "In ancient times, Anshun Bridge was a vibrant marketplace. Craftspeople displayed their skills, merchants called out their prices, and a central tax point underscored the bridge’s role in trade. As Marco Polo wrote, it was not just a bridge—but a lively center of daily life."
@@ -79,6 +79,63 @@
         "ActivitySubcategory": "Tour",
         "imageLink": "https://cdn-imgix.headout.com/tour/20072/TOUR-IMAGE/d85280d5-3c4f-4f54-bd7a-6fc5cc68597f-10732-sydney-sydney-and-bondi-tour-with-sydney-opera-house-tour-01.jpg",
         "websiteLink": "https://www.sydneyoperahouse.com",
-        "ticketLink": "https://www.sydneyoperahouse.com/whats-on"
+        "ticketLink": "https://www.sydneyoperahouse.com/whats-on",
+        "activityStory": [
+            {
+                "sectionTitle": "BE MOVED BY A LIVE PERFORMANCE",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "When it comes to iconic performance venues, the Sydney Opera House is high on the list. Take a seat in the Concert Hall, one of the world’s most sought-after performance spaces, and marvel at the intricate ceiling and grand stage. The Opera House hosts all types of performing art. Comedy, opera, dance, musical theatre and more – the choice is yours."
+                    }
+                ],
+                "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/be-moved-by-a-live-performance/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_555126979/image/galleryCarouselImage.adapt.740.medium.jpg",
+                "sectionImageCaption": "Amadeus at the Sydney Opera House, Sydney, New South Wales",
+                "sectionImageCredit": "Daniel Boud"
+            },
+            {
+                "sectionTitle": "WATCH A FIRST NATIONS LIGHT SHOW",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The Sydney Opera House sits on the traditional lands of the Gadigal people. Meaning ‘water light’ in the language of the Gadigal people, Badu Gili is a nightly event that sees a spectacular projection light up the white walls (also called 'sails') of the iconic venue. Grab the best view from the top of the Monumental Steps and watch Aboriginal and Torres Strait Islander stories brought to life."
+                    }
+                ],
+                "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/watch-a-first-nations-light-show/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_1473565551/image/galleryCarouselImage.adapt.740.medium.jpg",
+                "sectionImageCaption": "Amadeus at the Sydney Opera House, Sydney, New South Wales",
+                "sectionImageCredit": "Daniel Boud"
+            },
+            {
+                "sectionTitle": "DINE WITH A STELLAR VIEW",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "We’re not sure which is better at Bennelong – the exceptional menu or the jaw-dropping view. The restaurant is housed within the sails of the Sydney Opera House and champions distinctly Australian flavours (think mud crab and finger lime). Dining alongside the sparkling harbour only adds to the refined ambience."
+                    }
+                ],
+                "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/dine-with-a-stellar-view/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_738989711/image/galleryCarouselImage.adapt.740.medium.jpg",
+                "sectionImageCaption": "Bennelong, Sydney, New South Wales",
+                "sectionImageCredit": "Tourism Australia"
+            },
+            {
+                "sectionTitle": "GO BEHIND THE CURTAIN",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "What you see on stage is only half the story. The Sydney Opera House offers a range of tours that bring you behind the scenes of the venue’s history, architecture and show production. True theatre enthusiasts can even land a walk-on role to experience opera from the performer’s perspective. Don a custom-fitted costume and step into the spotlight for one unforgettable night."
+                    }
+                ],
+                "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/go-behind-the-curtain/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_1478430116/image/galleryCarouselImage.adapt.740.medium.jpg",
+                "sectionImageCaption": "Bennelong, Sydney, New South Wales",
+                "sectionImageCredit": "Tourism Australia"
+            },
+            {
+                "sectionTitle": "SEE THE SAILS FROM ALL ANGLES",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Boasting some of the world’s most beautiful architecture, the Sydney Opera House doesn’t have a bad angle. Seek out unique vantage points on an adventure tour with epic views. Take a seaplane over the harbour to spot not only the Opera House but the Sydney Harbour Bridge and city skyline as well. A kayak tour will have you paddling up close for a spectacular view. Whichever tour you choose, it’s bound to create a bucket list memory."
+                    }
+                ],
+                "sectionImage": "https://www.australia.com/content/experience-fragments/listicles/australia/en/places/sydney_and_surrounds/5-epic-ways-to-experience-the-sydney-opera-house/see-the-sails-from-all-angles/master/jcr:content/root/listiclepagecontaine/par_1/gallerycarouselconta/carouselitems/gallerycarouselitem_1941322296/image/galleryCarouselImage.adapt.740.medium.jpg",
+                "sectionImageCaption": "Sydney Opera House, Sydney, New South Wales",
+                "sectionImageCredit": "Hamilton Lund"
+            }
+        ]
     }
 ]
