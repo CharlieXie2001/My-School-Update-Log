@@ -184,5 +184,87 @@
                 "sectionImageCredit": "Destination NSW"
             }
         ]
+    },
+    {
+        "locationName": "Shanghai Disney Resort",
+        "city": "Shanghai",
+        "country": "China",
+        "latitude": 31.145774,
+        "longitude": 121.655321,
+        "timeZoneIdentifier": "Asia/Shanghai",
+        "activityTitle": "Magic Meets Modern China",
+        "ActivitySubcategory": "Amusement Park",
+        "imageLink": "https://www.kkday.com/en/blog/wp-content/uploads/jpg-2024-11-12T200336.451.jpeg",
+        "websiteLink": "https://www.shanghaidisneyresort.com/en/",
+        "ticketLink": "https://www.shanghaidisneyresort.com/en/tickets/",
+        "phoneNumber": "+86 (21) 2099 8001",
+        "activityStory": [
+            {
+                "sectionTitle": "About Shanghai Disneyland",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Located in Pudong, Shanghai Disneyland is the first Disney resort in mainland China and the largest Disney park in Asia. Opened in 2016, it blends classic Disney storytelling with Chinese cultural elements, creating a one-of-a-kind experience for families, couples, and solo travelers alike."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Must-See: Enchanted Storybook Castle",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "At the heart of the park stands the Enchanted Storybook Castle—the tallest, largest, and most interactive castle in any Disney park worldwide. Unlike other parks, this castle represents all Disney princesses, not just one, and offers attractions, dining, and even a boat ride beneath it."
+                    }
+                ],
+                "sectionImage": "https://www.yourdisney.com.tw/wp-content/uploads/The-castle-after-closing-hours..jpg",
+                "sectionImageCaption": "Enchanted Storybook Castle, the centerpiece of Shanghai Disneyland"
+            },
+            {
+                "sectionTitle": "Top Rides and Attractions",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": " • TRON Lightcycle Power Run – A futuristic, high-speed roller coaster."
+                    },
+                    {
+                        "bodyParagraph": " • Pirates of the Caribbean: Battle for the Sunken Treasure – A jaw-dropping boat ride with cutting-edge visuals."
+                    },
+                    {
+                        "bodyParagraph": " • Roaring Rapids – A thrilling river adventure through mysterious mountains."
+                    },
+                    {
+                        "bodyParagraph": " • Soaring Over the Horizon – A breathtaking hang-glider simulation over global landmarks."
+                    },
+                    {
+                        "bodyParagraph": " • Alice in Wonderland Maze – A beautiful outdoor walk-through perfect for all ages."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Dining Tips",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "From Western fast food to Chinese cuisine, the park caters to all tastes. Try:"
+                    },
+                    {
+                        "bodyParagraph": " • Royal Banquet Hall – Inside the castle, offering fine dining with Disney character encounters."
+                    },
+                    {
+                        "bodyParagraph": " • Wandering Moon Teahouse – Beautiful Chinese-style eatery with rice bowls, noodles, and soups."
+                    },
+                    {
+                        "bodyParagraph": " • Remy’s Patisserie – Ideal for quick snacks and sweets."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Don’t Miss the Night Parade & Fireworks",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "End your day with the “Ignite the Dream” fireworks show and Mickey’s Storybook Express Parade. The castle lights up with dazzling projections and music—a magical finale that leaves everyone smiling."
+                    }
+                ],
+                "sectionImage": "https://blooloop.com/wp-content/uploads/2021/04/shanghai-disney-illuminate.jpeg",
+                "sectionImageCaption": "Shanghai Disney unveils new nighttime show Illuminate!",
+                "sectionImageCredit": "Shanghai Disney Resort"
+            }
+        ]
     }
 ]
