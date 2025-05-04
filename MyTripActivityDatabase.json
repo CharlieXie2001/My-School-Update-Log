@@ -7,6 +7,7 @@
         "longitude": 104.079060,
         "timeZoneIdentifier": "Asia/Chongqing",
         "activityTitle": "Shopping at Chengdu IFS",
+        "ActivityCategory": "Art & Entertainment",
         "imageLink": "https://news.cgtn.com/news/2025-03-04/Chengdu-Where-pandas-hot-pot-and-animations-meet-innovation-1BsMoiKH2ow/img/530844973b9b4833a0e6f4c886851a18/530844973b9b4833a0e6f4c886851a18.png",
         "websiteLink": "https://www.cdifs.cn/en/about-ifs-en",
         "ticketLink": ""
@@ -19,6 +20,7 @@
         "longitude": 104.083351,
         "timeZoneIdentifier": "Asia/Chongqing",
         "activityTitle": "Exploring Marco Polo's footprints: Chengdu Anshun Bridge",
+        "ActivityCategory": "Shopping",
         "imageLink": "https://www.cathaypacific.com/content/dam/focal-point/cx/inspiration/2024/05/A-travel-guide-to-Chengdu_China-Famous_landmark_of_Chengdu-f9photos-Gettyimages-HERO.renditionimage.1700.850.jpg",
         "websiteLink": "",
         "ticketLink": ""
@@ -31,6 +33,7 @@
         "longitude": 151.215285,
         "timeZoneIdentifier": "Australia/Sydney",
         "activityTitle": "Spend the day at the Sydney Opera House",
+        "ActivityCategory": "Art & Entertainment",
         "imageLink": "https://cdn-imgix.headout.com/tour/20072/TOUR-IMAGE/d85280d5-3c4f-4f54-bd7a-6fc5cc68597f-10732-sydney-sydney-and-bondi-tour-with-sydney-opera-house-tour-01.jpg",
         "websiteLink": "https://www.sydneyoperahouse.com",
         "ticketLink": "https://www.sydneyoperahouse.com/whats-on"
