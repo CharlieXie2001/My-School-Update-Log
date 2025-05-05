@@ -350,5 +350,91 @@
                 ]
             }
         ]
+    },
+    {
+        "locationName": "Badaling Great Wall",
+        "city": "Beijing",
+        "country": "China",
+        "latitude": 40.360672,
+        "longitude": 116.009177,
+        "timeZoneIdentifier": "Asia/Harbin",
+        "activityTitle": "A Journey to China’s Timeless Wonder",
+        "ActivitySubcategory": "Hiking",
+        "imageLink": "https://www.beijingservice.com/beijing-photo/badaling-great-wall.jpg",
+        "websiteLink": "http://www.badaling.cn/",,
+        "ticketLink": "https://au.trip.com/travel-guide/attraction/beijing/badaling-great-wall-75596?curr=AUD&locale=en-AU&scene=basic",
+        "phoneNumber": "+86 (10) 6912 1737",
+        "activityStory": [
+            {
+                "sectionTitle": "A Journey to China’s Timeless Wonder",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Badaling (八达岭) is the most famous and best-preserved section of the Great Wall of China, located about 70 km northwest of central Beijing. As the first part of the Wall to open to the public in 1957, it offers breathtaking views, wide walking paths, and deep historical significance."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "What Makes Badaling Special?",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": " • Historic Importance: Built during the Ming Dynasty (1505), Badaling was a military stronghold that protected Beijing from northern invasions."
+                    },
+                    {
+                        "bodyParagraph": " • Accessibility: Wide stone steps and handrails make it the most visitor-friendly section—suitable even for seniors and children."
+                    },
+                    {
+                        "bodyParagraph": " • UNESCO Recognition: Badaling helped earn the Great Wall its World Heritage status in 1987."
+                    }
+                ],
+                "sectionImage": "https://english.beijing.gov.cn/travellinginbeijing/hotroutes/202409/W020240911487877367292.png",
+                "sectionImageCaption": "Sunrise observed from the Great Wall",
+                "sectionImageCredit": "english.beijing.gov.cn"
+            },
+            {
+                "sectionTitle": "Best Ways to Explore",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": " • Hike the Wall: Choose between the North route (steeper with higher views) and South route (gentler and less crowded)."
+                    },
+                    {
+                        "bodyParagraph": " • Cable Car or Funicular: For a less strenuous experience, take a cable car up and hike down."
+                    },
+                    {
+                        "bodyParagraph": " • Scenic Photo Spots: Tower 8 and Tower 12 offer sweeping panoramic views."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "What to Bring",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": " • Comfortable walking shoes"
+                    },
+                    {
+                        "bodyParagraph": " • Sunscreen and a hat"
+                    },
+                    {
+                        "bodyParagraph": " • Water and light snacks"
+                    },
+                    {
+                        "bodyParagraph": " • Layers for changing weather"
+                    },
+                    {
+                        "bodyParagraph": "Tip: Avoid wearing slippery shoes—the stone steps can be uneven."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Final Thoughts",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The Badaling Great Wall offers one of the most accessible and majestic ways to experience China’s ancient history. Whether you climb the steep towers or glide up by cable car, it’s a must-visit for every traveler in Beijing."
+                    }
+                ],
+                "sectionImage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/badaling-great-wall-beijing-huang-xin.jpg",
+                "sectionImageCaption": "Badaling Great Wall, Beijing",
+                "sectionImageCredit": "Huang Xin"
+            }
+        ]
     }
 ]
