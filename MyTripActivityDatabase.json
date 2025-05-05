@@ -276,7 +276,7 @@
         "timeZoneIdentifier": "Australia/Sydney",
         "activityTitle": "8 Things To Know Before Visiting Bondi Beach",
         "ActivitySubcategory": "Amusement Park",
-        "imageLink": "https://images.squarespace-cdn.com/content/v1/58f742c146c3c424ad7a127c/1745548655889-KOIVNPKZ53BJ7K7P6EWA/IMG_8215.jpeg?format=750w",
+        "imageLink": "https://ychef.files.bbci.co.uk/1280x720/p0g2lyq7.jpg",
         "websiteLink": "https://www.waverley.nsw.gov.au/recreation/beaches_and_coast/our_beaches",
         "phoneNumber": "+61 2 9083 8000",
         "activityStory": [
@@ -302,7 +302,9 @@
                     {
                         "bodyParagraph": "Don’t miss the 6-kilometre Bondi to Coogee walk. It weaves along dramatic cliffs, past beaches like Tamarama and Bronte, and offers panoramic ocean views and cafes for pit stops. It’s free, scenic, and one of Sydney’s best outdoor activities."
                     }
-                ]
+                ],
+                "sectionImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a3/74/63/bondi-to-coogee-beach.jpg?w=1200&h=-1&s=1",
+                "sectionImageCaption": "Bondi to Coogee Walk"
             },
             {
                 "sectionTitle": "4. Bondi’s Food Scene is Buzzing",
@@ -311,7 +313,9 @@
                         "bodyParagraph": "Bondi’s dining is as fresh as its sea breeze. Think beachfront cafes, organic brunches, and buzzing bars. Head to Hall Street and Curlewis Street for standout spots like Bills, Gelato Messina, and Bondi’s famous fish and chips."
                     }
                 ],
-                "sectionImage": "https://images.squarespace-cdn.com/content/v1/58f742c146c3c424ad7a127c/1745550243041-Z17RQYEWQZSAN5NNUVIG/IMG_6394.jpeg?format=750w"
+                "sectionImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d6/b9/d3/icebergs-dining-room.jpg?w=700&h=700&s=1",
+                "sectionImageCaption": "Icebergs Dining Room And Bar",
+                "sectionImageCredit": "RubinaGan"
             },
             {
                 "sectionTitle": "5. Markets & Events Add Local Flavour",
