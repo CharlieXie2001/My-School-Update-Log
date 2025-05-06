@@ -109,5 +109,110 @@
         "website": "https://www.hainanairlines.com/CN/GB/Welcome",
         "checkIn": "https://www.hainanairlines.com/HK/GB/Check-in",
         "baggagePolicy": "https://www.hainanairlines.com/US/US/BASV"
+    },
+    {
+        "airlineName": "Jetstar",
+        "airlineCode": "JQ",
+        "website": "https://www.jetstar.com/au/en/home?flight-type=2&adults=1&origin=SYD",
+        "checkIn": "https://checkin.jetstar.com/au/en/checkin",
+        "baggagePolicy": "https://www.jetstar.com/sg/en/flights/baggage"
+    },
+    {
+        "airlineName": "KLM",
+        "airlineCode": "KL",
+        "website": "https://www.klm.com.au/?showredirectnotice=1",
+        "checkIn": "https://www.klm.nl/en/check-in",
+        "baggagePolicy": "https://www.klm.com.au/information/baggage/checked-baggage-allowance"
+    },
+    {
+        "airlineName": "Lufthansa",
+        "airlineCode": "LH",
+        "website": "https://www.lufthansa.com/au/en/homepage",
+        "checkIn": "https://www.lufthansa.com/de/en/online-check-in",
+        "baggagePolicy": "https://www.lufthansa.com/us/en/baggage"
+    },
+    {
+        "airlineName": "SWISS",
+        "airlineCode": "LX",
+        "website": "https://www.swiss.com/au/en/homepage",
+        "checkIn": "https://www.swiss.com/ch/en/fly/check-in/online-check-in#ck_retrieve",
+        "baggagePolicy": "https://www.swiss.com/gb/en/prepare/baggage"
+    },
+    {
+        "airlineName": "All Nippon Airways",
+        "airlineCode": "NH",
+        "website": "https://www.ana.co.jp/en/jp/",
+        "checkIn": "https://www.ana.co.jp/en/vn/travel-information/online-check-in/",
+        "baggagePolicy": "https://www.ana.co.jp/en/jp/guide/boarding-procedures/baggage/domestic/"
+    },
+    {
+        "airlineName": "Qantas Airways",
+        "airlineCode": "QF",
+        "website": "https://www.qantas.com/au/en.html",
+        "checkIn": "https://www.qantas.com/au/en/travel-info/check-in.html",
+        "baggagePolicy": "https://www.qantas.com/au/en/travel-info/baggage.html"
+    },
+    {
+        "airlineName": "Qatar Airways",
+        "airlineCode": "QR",
+        "website": "https://www.qatarairways.com/en-au/homepage.html",
+        "checkIn": "https://cki.qatarairways.com/cki/dashboard",
+        "baggagePolicy": "https://www.qatarairways.com/en/baggage/allowance.html"
+    },
+    {
+        "airlineName": "Air Canada Rouge",
+        "airlineCode": "RV",
+        "website": "https://flyrouge.com/ca/en/index.html",
+        "checkIn": "https://www.aircanada.com/au/en/aco/home/plan/baggage.html#/",
+        "baggagePolicy": "https://www.aircanada.com/home/ca/en/aco/checkin"
+    },
+    {
+        "airlineName": "Singapore Airlines",
+        "airlineCode": "SQ",
+        "website": "https://www.singaporeair.com/en_UK/au/home#/book/bookflight",
+        "checkIn": "https://www.singaporeair.com/en_UK/sg/home#/checkin",
+        "baggagePolicy": "https://www.singaporeair.com/en_UK/us/travel-info/baggage/"
+    },
+    {
+        "airlineName": "Turkish Airlines",
+        "airlineCode": "TK",
+        "website": "https://www.turkishairlines.com",
+        "checkIn": "https://www.turkishairlines.com/en-int/flights/manage-booking/",
+        "baggagePolicy": "https://www.turkishairlines.com/en-int/any-questions/baggage-information"
+    },
+    {
+        "airlineName": "Scoot",
+        "airlineCode": "TR",
+        "website": "https://www.flyscoot.com/en",
+        "checkIn": "https://checkin.flyscoot.com",
+        "baggagePolicy": "https://www.flyscoot.com/en/plan/booking-your-flight/baggage"
+    },
+    {
+        "airlineName": "United Airlines",
+        "airlineCode": "UA",
+        "website": "https://www.united.com/en/us/",
+        "checkIn": "https://www.united.com/en/us/checkin",
+        "baggagePolicy": "https://www.united.com/en/us/fly/baggage.html"
+    },
+    {
+        "airlineName": "Virgin Australia",
+        "airlineCode": "VA",
+        "website": "https://www.virginaustralia.com/au/en/",
+        "checkIn": "https://check-in.virginaustralia.com/checkin/#/login",
+        "baggagePolicy": "https://www.virginaustralia.com/eu/en/travel-info/baggage/carry-on-baggage/"
+    },
+    {
+        "airlineName": "Vietnam Airlines",
+        "airlineCode": "VN",
+        "website": "https://www.vietnamairlines.com/au/en/home",
+        "checkIn": "https://www.vietnamairlines.com/us/en/home?type=checkin",
+        "baggagePolicy": "https://www.vietnamairlines.com/vn/en/travel-information/baggage"
+    },
+    {
+        "airlineName": "Air Albania",
+        "airlineCode": "ZB",
+        "website": "https://www.airalbania.com.al",
+        "checkIn": "https://www.airalbania.com.al/reservation/ibe/modify?locale=en",
+        "baggagePolicy": "https://www.airalbania.com.al/luggage/"
     }
 ]
