@@ -1,0 +1,113 @@
+[
+    {
+        "airlineName": "Sichuan Airlines",
+        "airlineCode": "3U",
+        "website": "https://www.sichuanair.com",
+        "checkIn": "https://airhex.com/redirect/?airlineid=93&type=webcheckin",
+        "baggagePolicy": "https://www.sichuanair.com/checked-baggage/"
+    },
+    {
+        "airlineName": "Spring Airlines",
+        "airlineCode": "9C",
+        "website": "https://en.ch.com",
+        "checkIn": "https://en.ch.com",
+        "baggagePolicy": "https://en.ch.com/flights/excess-baggage"
+    },
+    {
+        "airlineName": "American Airlines",
+        "airlineCode": "AA",
+        "website": "https://www.aa.com/homePage.do",
+        "checkIn": "https://www.aa.com/reservation/view/find-your-trip",
+        "baggagePolicy": "https://www.aa.com/i18n/travel-info/baggage/baggage.jsp?anchorEvent=false&ampfrom=Nav"
+    },
+    {
+        "airlineName": "Air Canada",
+        "airlineCode": "AC",
+        "website": "https://www.aircanada.com/home/au/en/aco/flights",
+        "checkIn": "https://www.aircanada.com/au/en/aco/home/ssci.html#/identification",
+        "baggagePolicy": "https://www.aircanada.com/au/en/aco/home/plan/baggage.html#/"
+    },
+    {
+        "airlineName": "Air France",
+        "airlineCode": "AF",
+        "website": "https://wwws.airfrance.us",
+        "checkIn": "https://wwws.airfrance.us/check-in",
+        "baggagePolicy": "https://wwws.airfrance.us/information/bagages/bagage-cabine-soute"
+    },
+    {
+        "airlineName": "British Airways",
+        "airlineCode": "BA",
+        "website": "https://www.britishairways.com/travel/home/public/en_au/",
+        "checkIn": "https://www.britishairways.com/travel/managebooking/public/en_au",
+        "baggagePolicy": "https://www.britishairways.com/en-th/information/baggage-essentials"
+    },
+    {
+        "airlineName": "EVA Air",
+        "airlineCode": "BR",
+        "website": "https://www.evaair.com/en-au/index.html",
+        "checkIn": "https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/online-checked-in-login.aspx?lang=en-global",
+        "baggagePolicy": "https://www.evaair.com/en-global/fly-prepare/baggage/free-baggage/carry-on-baggage/"
+    },
+    {
+        "airlineName": "Cathay Pacific",
+        "airlineCode": "CX",
+        "website": "https://www.cathaypacific.com/cx/en_AU.html",
+        "checkIn": "https://www.cathaypacific.com/mb/#!/en_HK/olci/login",
+        "baggagePolicy": "https://flights.cathaypacific.com/en_US/baggage/baggage-calculator.html"
+    },
+    {
+        "airlineName": "China Southern Airlines",
+        "airlineCode": "CZ",
+        "website": "https://www.csair.com/cn/index.shtml",
+        "checkIn": "https://www.csair.com/en/online/check_in/",
+        "baggagePolicy": "https://www.csair.com/en/tourguide/luggage_service/carryon_luggage/notice/"
+    },
+    {
+        "airlineName": "Air China",
+        "airlineCode": "CA",
+        "website": "https://www.airchina.com.cn",
+        "checkIn": "https://et.airchina.com.cn/cn/service/check-in/index.shtml"
+    },
+    {
+        "airlineName": "Delta Air Lines",
+        "airlineCode": "DL",
+        "website": "https://www.delta.com",
+        "checkIn": "https://www.delta.com/apac/en",
+        "baggagePolicy": "https://www.delta.com/apac/en/baggage/overview"
+    },
+    {
+        "airlineName": "Emirates",
+        "airlineCode": "EK",
+        "website": "https://www.emirates.com/au/english/",
+        "checkIn": "https://www.emirates.com/english/manage-booking/online-check-in/",
+        "baggagePolicy": "https://www.emirates.com/english/before-you-fly/baggage/"
+    },
+    {
+        "airlineName": "Chengdu Airlines",
+        "airlineCode": "EU",
+        "website": "https://www.cdal.com.cn",
+        "checkIn": "https://www.cdal.com.cn/stdair/airline/eu/static_term/zhiji_txt?sign=true",
+        "baggagePolicy": "https://www.cdal.com.cn/stdair/airline/eu/static_term/HeadCheckedBaggage?sign=true"
+    },
+    {
+        "airlineName": "Etihad Airways",
+        "airlineCode": "EY",
+        "website": "https://www.etihad.com/en-au/",
+        "checkIn": "https://www.etihad.com/en-us/manage/check-in",
+        "baggagePolicy": "https://www.etihad.com/en/fly-etihad/baggage"
+    },
+    {
+        "airlineName": "Ryanair",
+        "airlineCode": "FR",
+        "website": "https://www.ryanair.com/ie/en",
+        "checkIn": "https://www.ryanair.com/gb/en/lp/check-in",
+        "baggagePolicy": "https://help.ryanair.com/hc/en-gb/categories/12489112419089-Bag-Rules"
+    },
+    {
+        "airlineName": "Hainan Airlines",
+        "airlineCode": "HU",
+        "website": "https://www.hainanairlines.com/CN/GB/Welcome",
+        "checkIn": "https://www.hainanairlines.com/HK/GB/Check-in",
+        "baggagePolicy": "https://www.hainanairlines.com/US/US/BASV"
+    }
+]
