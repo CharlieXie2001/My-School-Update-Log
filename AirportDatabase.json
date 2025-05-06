@@ -1,0 +1,105 @@
+[
+    {
+        "airportCode": "AAA",
+        "airportName": "Anaa Airport",
+        "city": "Anaa",
+        "country": "French Polynesia",
+        "latitude": -17.354979,
+        "longitude": -145.508477,
+        "timeZone": "Pacific/Tahiti",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Anaa-atoll-ISS007-E-14624.png/640px-Anaa-atoll-ISS007-E-14624.png"
+    },
+    {
+        "airportCode": "AAB",
+        "airportName": "Arrabury Airport",
+        "city": "Arrabury",
+        "country": "Australia",
+        "latitude": -26.7000008,
+        "longitude": 141.0500031,
+        "timeZone": "Australia/Brisbane",
+        "phone": "",
+        "website": ""
+    },
+    {
+        "airportCode": "AAC",
+        "airportName": "Arrabury Airport",
+        "city": "El Arish",
+        "country": "Egypt",
+        "latitude": 31.0732994,
+        "longitude": 33.8358002,
+        "timeZone": "Africa/Cairo",
+        "imageURL": "https://cdn.avia.md/?mode=scale&w=1150&c=1&url=https://avia.md/img/Airport_Empty_Pattern.png"
+    },
+    {
+        "airportCode": "ADL",
+        "airportName": "Adelaide International Airport",
+        "city": "Adelaide",
+        "country": "Australia",
+        "latitude": -34.9449997,
+        "longitude": 138.5310059,
+        "timeZone": "Australia/Adelaide",
+        "phone": "+61 8 8308 9211",
+        "website": "https://adelaideairport.com.au/?utm_source=Adelaide&utm_medium=james-schofield5950&utm_campaign=google-place-listing",
+        "imageURL": "https://www.airport-technology.com/wp-content/uploads/sites/14/2018/06/Image-1.jpg"
+    },
+    {
+        "airportCode": "ATL",
+        "airportName": "Hartsfield Jackson Atlanta International Airport",
+        "city": "Atlanta",
+        "country": "United States",
+        "latitude": 33.6366997,
+        "longitude": -84.4281006,
+        "timeZone": "US/Eastern",
+        "phone": "+1 800-897-1910",
+        "website": "https://www.atl.com",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ATL%281%29_%28cropped%29.jpg/640px-ATL%281%29_%28cropped%29.jpg"
+    },
+    {
+        "airportCode": "DXB",
+        "airportName": "Dubai International Airport",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "latitude": 33.6366997,
+        "longitude": -84.4281006,
+        "timeZone": "Asia/Dubai",
+        "phone": "+971 4 224 5555",
+        "website": "https://dubaiairports.ae",
+        "imageURL": "https://www.flightsfrom.com/img/airports/dxb.jpg"
+    },
+    {
+        "airportCode": "DFW",
+        "airportName": "Dallas Fort Worth International Airport",
+        "city": "Dallas-Fort Worth",
+        "country": "United States",
+        "latitude": 32.896801,
+        "longitude": -97.038002,
+        "timeZone": "US/Central",
+        "phone": "+1 972-973-3112",
+        "website": "https://www.dfwairport.com",
+        "imageURL": "https://www.suffolk.com/wp-content/uploads/2021/12/DFW.jpg"
+    },
+    {
+        "airportCode": "LHR",
+        "airportName": "London Heathrow Airport",
+        "city": "London",
+        "country": "United Kingdom",
+        "latitude": 51.4706001,
+        "longitude": -0.461941,
+        "timeZone": "Europe/London",
+        "phone": "+44 844 335 1801",
+        "website": "https://www.heathrow.com",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/London_-_Heathrow_%28LHR_-_EGLL%29_AN1572653.jpg/640px-London_-_Heathrow_%28LHR_-_EGLL%29_AN1572653.jpg"
+    },
+    {
+        "airportCode": "PVG",
+        "airportName": "Shanghai Pudong International Airport",
+        "city": "Shanghai",
+        "country": "China",
+        "latitude": 31.1477777778,
+        "longitude": 121.7980555556,
+        "timeZone": "Asia/Shanghai",
+        "phone": "+86 21 96990",
+        "website": "https://www.shairport.com/enpd/index.html",
+        "imageURL": "https://ak-d.tripcdn.com/images/10031a0000018uqik676A.jpg"
+    }
+]
