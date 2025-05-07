@@ -503,5 +503,74 @@
                 "sectionImageCredit": "Jason Daniel Shaw"
             }
         ]
+    },
+    {
+        "locationName": "Blue Mountains",
+        "city": "Katoomba",
+        "country": "Australia",
+        "latitude": -33.7308,
+        "longitude": 150.3129,
+        "timeZoneIdentifier": "Australia/Sydney",
+        "activityTitle": "Where Sky Meets Stone and Forest Whispers",
+        "ActivitySubcategory": "Hiking",
+        "imageLink": "https://static1.evcdn.net/images/reduction/1254050_w-3840_h-2160_q-70_m-crop.jpg",
+        "websiteLink": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blue-mountains-national-park",
+        "ticketLink": "https://www.bluemts.com.au/info/tickets/",
+        "phoneNumber": "+61 2 4787 8877",
+        "activityStory": [
+            {
+                "sectionTitle": "A World Above the Clouds",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Just two hours west of Sydney lies a landscape so vast, so dramatic, that it feels like another world. The Blue Mountains earn their name from the natural haze that rises from millions of eucalyptus trees—turning the valleys and cliffs a dreamy blue when seen from a distance."
+                    },
+                    {
+                        "bodyParagraph": "Steep sandstone cliffs, plunging waterfalls, and whispering forests shape this World Heritage-listed wonderland, offering a perfect retreat for hikers, nature lovers, and daydreamers alike."
+                    },
+                    "sectionImage": "https://www.nsw.gov.au/sites/default/files/styles/gallery_s_x1/public/atdw/92815ced455d448f02fad02112df8089.jpeg?itok=AG33hq3f",
+                    "sectionImageCaption": "Scenic World Blue Mountains",
+                    "sectionImageCredit": "NSW Government"
+                ]
+            },
+            {
+                "sectionTitle": "Walking Through Wonders",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Start at Echo Point in Katoomba, where the Three Sisters rock formation stands proudly above the Jamison Valley. Take the **Giant Stairway** for a heart-pumping descent, or try the **Prince Henry Cliff Walk** for gentler views along the escarpment."
+                    },
+                    {
+                        "bodyParagraph": "For waterfall lovers, **Wentworth Falls** is a must. If you're chasing deeper solitude, venture into the **Grand Canyon Walk**—a loop through fern-filled gullies and shaded creeks, among the most beautiful hikes in Australia."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Beyond the Trail",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Ride the world’s steepest passenger train at **Scenic World**, explore the artsy mountain town of **Leura**, or join an Aboriginal cultural tour to connect with the region’s oldest stories. The mountains are more than a view—they’re a living, breathing place of ancient wisdom and quiet wonder."
+                    }
+                ],
+                "sectionImage": "https://bookmestatic.net.nz/bookme-product-images/products/72081/72081_image1_WNZT_Scenic%20Railwayu5.jpg",
+                "sectionImageCaption": "Blue Mountains Adventure inc Scenic World"
+            },
+            {
+                "sectionTitle": "Best Time and Travel Tips",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Visit during **spring (Sept–Nov)** or **autumn (Mar–May)** for the best weather and wildflower displays. Take a train from Sydney’s Central Station to Katoomba (about 2 hours), or drive along the Great Western Highway. Dress in layers—it can shift from warm sun to mountain mist in minutes."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "A Moment to Remember",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Stand still at sunset. Watch the blue haze settle across the valleys. In that silence, you’ll feel something ancient stir—an echo of time carved in stone and leaf, waiting only for you to notice."
+                    }
+                ],
+                "sectionImage": "https://www.cphawkesburyvalley.com.au/wp-content/uploads/2023/06/Header-1.jpg",
+                "sectionImageCaption": "The iconic Three Sisters"
+            }
+        ]
     }
 ]
