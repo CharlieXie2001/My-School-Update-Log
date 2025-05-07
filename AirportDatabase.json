@@ -91,6 +91,18 @@
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alice_Springs_airport_%283335054258%29.jpg/250px-Alice_Springs_airport_%283335054258%29.jpg"
     },
     {
+      "airportCode": "AVV",
+      "airportName": "Avalon Airport",
+      "city": "Avalon",
+      "country": "Australia",
+      "latitude": -38.04056,
+      "longitude": 144.47083,
+      "timeZone": "Australia/Melbourne",
+      "phone": "+61 3 5227 9100",
+      "website": "https://www.avalonairport.com.au",
+      "imageURL": "https://avalonairport.com.au/wp-content/uploads/2023/08/Untitled-design-4.png"
+    },
+    {
         "airportCode": "BKK",
         "airportName": "Suvarnabhumi Airport",
         "city": "Bangkok",
