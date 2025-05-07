@@ -63,7 +63,7 @@
        "baggagePolicy": "https://www.ita-airways.com/en_us/fly-ita/baggage.html"
     },
     {
-        "airlineName": "JetBlue",
+        "airlineName": "jetBlue",
         "airlineCode": "B6",
         "website": "https://www.jetblue.com/",
         "checkIn": "https://www.jetblue.com/checkin/boarding-pass",
