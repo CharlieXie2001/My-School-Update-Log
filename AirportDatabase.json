@@ -115,6 +115,18 @@
         "imageURL": "https://www.bne.com.au/sites/default/files/styles/grid_image/public/Brisbane-Airport-Exterior-Terminal_0.jpg?h=ec041e41&itok=WziBvhVc"
     },
     {
+        "airportCode": "BWU",
+        "airportName": "Bankstown Airport",
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.92500,
+        "longitude": 150.98833,
+        "timeZone": "Australia/Sydney",
+        "phone": "(02) 8709 9400",
+        "website": "https://aeria.co/bankstown",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bankstown_Airport_from_above.jpg/500px-Bankstown_Airport_from_above.jpg"
+    },
+    {
         "airportCode": "CAN",
         "airportName": "Guangzhou Baiyun International Airport",
         "city": "Guangzhou",
@@ -235,6 +247,18 @@
         "imageURL": "https://www.suffolk.com/wp-content/uploads/2021/12/DFW.jpg"
     },
     {
+      "airportCode": "DOH",
+      "airportName": "Hamad International Airport",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.27306,
+      "longitude": 51.60806,
+      "timeZone": "Asia/Qatar",
+      "phone": "+974 4010 6666",
+      "website": "https://www.dohahamadairport.com",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hamad_International_Airport_Qatar.jpg"
+    },
+    {
         "airportCode": "DRW",
         "airportName": "Darwin International Airport",
         "city": "Darwin",
@@ -305,6 +329,18 @@
         "phone": "+81 3-5757-8111",
         "website": "https://tokyo-haneda.com/en/",
         "imageURL": "https://images.ctfassets.net/ov8o7v78mnye/3AJYuPNxRD6TfnZQqTorRF/ed33eee7230fe3b1009fad008319ecee/Untitled-design-2019-06-24T092735.922.png"
+    },
+    {
+      "airportCode": "HKG",
+      "airportName": "Hong Kong International Airport",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "latitude": 22.308046,
+      "longitude": 113.918480,
+      "timeZone": "Asia/Hong_Kong",
+      "phone": "+852 2181 8888",
+      "website": "https://www.hongkongairport.com",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_bird%27s_eye_view_of_Hong_Kong_International_Airport.JPG/250px-A_bird%27s_eye_view_of_Hong_Kong_International_Airport.JPG"
     },
     {
         "airportCode": "HTI",
@@ -449,6 +485,18 @@
         "phone": "(02) 4928 9800",
         "website": "https://www.newcastleairport.com.au",
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Newcastle_Airport%2C_NSW.jpg"
+    },
+    {
+      "airportCode": "NRT",
+      "airportName": "Narita International Airport",
+      "city": "Tokyo",
+      "country": "Japan",
+      "latitude": 35.7719444444,
+      "longitude": 140.3875,
+      "timeZone": "Asia/Tokyo",
+      "phone": "+81 476-34-8000",
+      "website": "https://www.narita-airport.jp/en/",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Narita_International_Air_Port_%28cropped%29.jpg"
     },
     {
         "airportCode": "NSN",

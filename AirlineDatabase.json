@@ -35,6 +35,41 @@
         "baggagePolicy": "https://wwws.airfrance.us/information/bagages/bagage-cabine-soute"
     },
     {
+        "airlineName": "Air India",
+        "airlineCode": "AI",
+        "website": "https://www.airindia.com/",
+        "checkIn": "https://www.airindia.com/in/en/manage/web-checkin.html",
+        "baggagePolicy": "https://www.airindia.com/in/en/travel-information/baggage-guidelines/checked-baggage-allowance.html"
+    },
+    {
+      "airlineName": "AirAsia",
+      "airlineCode": "AK",
+      "website": "https://www.airasia.com",
+      "checkIn": "https://www.airasia.com/check-in/en/gb",
+      "baggagePolicy": "https://www.airasia.com/aa/inflight-comforts/en/gb/baggage.html"
+    },
+    {
+        "airlineName": "Finnair",
+        "airlineCode": "AY",
+        "website": "https://www.finnair.com/",
+        "checkIn": "https://www.finnair.com/en/check-in",
+        "baggagePolicy": "https://www.finnair.com/en/baggage-on-finnair-flights"
+    },
+    {
+       "airlineName": "ITA Airways",
+       "airlineCode": "AZ",
+       "website": "https://www.ita-airways.com/en_us/",
+       "checkIn": "https://fly.ita-airways.com/ssci?lang=en",
+       "baggagePolicy": "https://www.ita-airways.com/en_us/fly-ita/baggage.html"
+    },
+    {
+        "airlineName": "JetBlue",
+        "airlineCode": "B6",
+        "website": "https://www.jetblue.com/",
+        "checkIn": "https://www.jetblue.com/checkin/boarding-pass",
+        "baggagePolicy": "https://www.jetblue.com/help/checked-bags"
+    },
+    {
         "airlineName": "British Airways",
         "airlineCode": "BA",
         "website": "https://www.britishairways.com/travel/home/public/en_au/",
@@ -47,6 +82,13 @@
         "website": "https://www.evaair.com/en-au/index.html",
         "checkIn": "https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/online-checked-in-login.aspx?lang=en-global",
         "baggagePolicy": "https://www.evaair.com/en-global/fly-prepare/baggage/free-baggage/carry-on-baggage/"
+    },
+    {
+        "airlineName": "China Airlines",
+        "airlineCode": "CI",
+        "website": "https://www.china-airlines.com/",
+        "checkIn": "https://calec.china-airlines.com/eCheckin/eCheckin_home.aspx?country=us&locale=en",
+        "baggagePolicy": "https://www.china-airlines.com/us/en/fly/prepare-for-the-fly/baggage/baggage-rules"
     },
     {
         "airlineName": "Cathay Pacific",
@@ -67,6 +109,13 @@
         "airlineCode": "CA",
         "website": "https://www.airchina.com.cn",
         "checkIn": "https://et.airchina.com.cn/cn/service/check-in/index.shtml"
+    },
+    {
+       "airlineName": "AirAsia X",
+       "airlineCode": "D7",
+       "website": "https://www.airasia.com/flights/",
+       "checkIn": "https://www.airasia.com/check-in/en/gb",
+       "baggagePolicy": "https://www.airasia.com/aa/pdf/about-us/fee-charges-d7.pdf"
     },
     {
         "airlineName": "Delta Air Lines",
@@ -97,11 +146,39 @@
         "baggagePolicy": "https://www.etihad.com/en/fly-etihad/baggage"
     },
     {
+        "airlineName": "Fiji Airways",
+        "airlineCode": "FJ",
+        "website": "https://www.fijiairways.com/",
+        "checkIn": "https://www.fijiairways.com/en-fj/bookings/check-in/",
+        "baggagePolicy": "https://www.fijiairways.com/en-fj/manage/baggage-allowances/"
+    },
+    {
+        "airlineName": "Shanghai Airlines",
+        "airlineCode": "FM",
+        "website": "https://www.ceair.com/",
+        "checkIn": "https://us.ceair.com/en/check-in.html",
+        "baggagePolicy": "https://www.ceair.com/global/en_static/Announcement/BaggageService/FreeBaggageAllowanceandSpecifications/index.html"
+    },
+    {
         "airlineName": "Ryanair",
         "airlineCode": "FR",
         "website": "https://www.ryanair.com/ie/en",
         "checkIn": "https://www.ryanair.com/gb/en/lp/check-in",
         "baggagePolicy": "https://help.ryanair.com/hc/en-gb/categories/12489112419089-Bag-Rules"
+    },
+    {
+        "airlineName": "Air Arabia",
+        "airlineCode": "G9",
+        "website": "https://www.airarabia.com/en",
+        "checkIn": "https://www.airarabia.com/en/check-in",
+        "baggagePolicy": "https://www.airarabia.com/en/baggage"
+    },
+    {
+        "airlineName": "Hawaiian Airlines",
+        "airlineCode": "HA",
+        "website": "https://www.hawaiianairlines.com/",
+        "checkIn": "https://www.hawaiianairlines.com/our-services/at-the-airport/check-in/web-check-in",
+        "baggagePolicy": "https://www.hawaiianairlines.com/legal/domestic-contract-of-carriage/rule-18"
     },
     {
         "airlineName": "Hainan Airlines",
@@ -111,11 +188,32 @@
         "baggagePolicy": "https://www.hainanairlines.com/US/US/BASV"
     },
     {
+        "airlineName": "Iberia",
+        "airlineCode": "IB",
+        "website": "https://www.iberia.com/?language=en",
+        "checkIn": "https://www.iberia.com/gb/online-checkin/?language=en",
+        "baggagePolicy": "https://www.iberia.com/us/baggage/"
+    },
+    {
         "airlineName": "Jetstar",
         "airlineCode": "JQ",
         "website": "https://www.jetstar.com/au/en/home?flight-type=2&adults=1&origin=SYD",
         "checkIn": "https://checkin.jetstar.com/au/en/checkin",
         "baggagePolicy": "https://www.jetstar.com/sg/en/flights/baggage"
+    },
+    {
+        "airlineName": "Japan Airlines",
+        "airlineCode": "JL",
+        "website": "https://www.jal.com/",
+        "checkIn": "https://www.jal.co.jp/jp/en/inter/boarding/online-checkin/",
+        "baggagePolicy": "https://www.jal.co.jp/jp/en/inter/baggage/"
+    },
+    {
+        "airlineName": "Korean Air",
+        "airlineCode": "KE",
+        "website": "https://www.koreanair.com/?hl=en",
+        "checkIn": "https://www.koreanair.com/check-in?hl=en",
+        "baggagePolicy": "https://www.koreanair.com/contents/plan-your-travel/baggage?hl=en"
     },
     {
         "airlineName": "KLM",
@@ -139,11 +237,53 @@
         "baggagePolicy": "https://www.swiss.com/gb/en/prepare/baggage"
     },
     {
+        "airlineName": "Xiamen Airlines",
+        "airlineCode": "MF",
+        "website": "https://www.xiamenair.com/",
+        "checkIn": "https://www.xiamenair.com/brandnew_EN/travel-ground-procedures.html",
+        "baggagePolicy": "https://www.xiamenair.com/brandnew_EN/passenger-service/baggage-claim.html"
+    },
+    {
+        "airlineName": "Malaysia Airlines",
+        "airlineCode": "MH",
+        "website": "https://www.malaysiaairlines.com/au/en/home.html",
+        "checkIn": "https://online.malaysiaairlines.com/ssci/identification",
+        "baggagePolicy": "https://www.malaysiaairlines.com/au/en/travel-info/baggage/checked-baggage.html"
+    },
+    {
+        "airlineName": "China Eastern",
+        "airlineCode": "MU",
+        "website": "https://www.ceair.com/",
+        "checkIn": "https://us.ceair.com/en/check-in.html",
+        "baggagePolicy": "https://www.ceair.com/global/en_static/Announcement/BaggageService/FreeBaggageAllowanceandSpecifications/index.html"
+    },
+    {
+        "airlineName": "Malta Air",
+        "airlineCode": "MW",
+        "website": "https://www.ryanair.com",
+        "checkIn": "https://www.ryanair.com/en/online-checkin",
+        "baggagePolicy": "https://help.ryanair.com/hc/en-gb/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+        "airlineName": "Spirit Airlines",
+        "airlineCode": "NK",
+        "website": "https://www.spirit.com/",
+        "checkIn": "https://www.spirit.com/OnlineCheckIn.aspx",
+        "baggagePolicy": "https://customersupport.spirit.com/en-US/category/article/KA-01535"
+    },
+    {
         "airlineName": "All Nippon Airways",
         "airlineCode": "NH",
         "website": "https://www.ana.co.jp/en/jp/",
         "checkIn": "https://www.ana.co.jp/en/vn/travel-information/online-check-in/",
         "baggagePolicy": "https://www.ana.co.jp/en/jp/guide/boarding-procedures/baggage/domestic/"
+    },
+    {
+        "airlineName": "Air New Zealand",
+        "airlineCode": "NZ",
+        "website": "https://www.airnewzealand.co.nz/",
+        "checkIn": "https://www.airnewzealand.com.au/online-check-in",
+        "baggagePolicy": "https://www.airnewzealand.com/baggage"
     },
     {
         "airlineName": "Qantas Airways",
@@ -167,11 +307,25 @@
         "baggagePolicy": "https://www.aircanada.com/home/ca/en/aco/checkin"
     },
     {
+        "airlineName": "South African Airways",
+        "airlineCode": "SA",
+        "website": "https://www.flysaa.com/",
+        "checkIn": "https://www.flysaa.com/manage-fly/manage/check-in/on-line-check-in",
+        "baggagePolicy": "https://www.flysaa.com/manage-fly/baggage/checked-baggage"
+    },
+    {
         "airlineName": "Singapore Airlines",
         "airlineCode": "SQ",
         "website": "https://www.singaporeair.com/en_UK/au/home#/book/bookflight",
         "checkIn": "https://www.singaporeair.com/en_UK/sg/home#/checkin",
         "baggagePolicy": "https://www.singaporeair.com/en_UK/us/travel-info/baggage/"
+    },
+    {
+        "airlineName": "Thai Airways",
+        "airlineCode": "TG",
+        "website": "https://www.thaiairways.com/",
+        "checkIn": "https://www.thaiairways.com/en/before_you_fly/check_in/i_checkin.page",
+        "baggagePolicy": "https://www.thaiairways.com/plan-your-trip/before-you-fly/en/baggage_and_optional_fees.htm"
     },
     {
         "airlineName": "Turkish Airlines",
@@ -209,10 +363,24 @@
         "baggagePolicy": "https://www.vietnamairlines.com/vn/en/travel-information/baggage"
     },
     {
+       "airlineName": "Southwest Airlines",
+       "airlineCode": "WN",
+       "website": "https://www.southwest.com/",
+       "checkIn": "https://www.southwest.com/air/check-in/",
+       "baggagePolicy": "https://support.southwest.com/helpcenter/s/article/checked-baggage-policy"
+    },
+    {
         "airlineName": "Air Albania",
         "airlineCode": "ZB",
         "website": "https://www.airalbania.com.al",
         "checkIn": "https://www.airalbania.com.al/reservation/ibe/modify?locale=en",
         "baggagePolicy": "https://www.airalbania.com.al/luggage/"
+    },
+    {
+        "airlineName": "Shenzhen Airlines",
+        "airlineCode": "ZH",
+        "website": "https://global.shenzhenair.com",
+        "checkIn": "https://global.shenzhenair.com/zhair/ibe/bookingManagement/toCheckIn.do",
+        "baggagePolicy": "https://mobile.shenzhenair.com/file/internationalInformation_en.html"
     }
 ]
