@@ -667,6 +667,18 @@
         "imageURL": "https://res.cloudinary.com/momentum-media-group-pty-ltd/images/f_auto/v1727338263/Australian%20Aviation/DSC_9236-2_1170/DSC_9236-2_1170.jpeg?_i=AA"
     },
     {
+      "airportCode": "XIY",
+      "airportName": "Xi'an Xianyang International Airport",
+      "city": "Xi'an",
+      "country": "China",
+      "latitude": 34.437806,
+      "longitude": 108.756556,
+      "timeZone": "Asia/Shanghai",
+      "phone": "+86 29 96788",
+      "website": "https://www.xxia.com",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Xi%27an_Xianyang_Airport_T5_Aerial.jpg"
+    },
+    {
         "airportCode": "ZQN",
         "airportName": "Queenstown Airport",
         "city": "Frankton",
