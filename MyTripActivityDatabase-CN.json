@@ -460,5 +460,79 @@
                 "sectionImageCredit": "CGTN"
             }
         ]
+    },
+    {
+        "locationName": "Jiuzhai Valley National Park",
+        "city": "Jiuzhaigou County",
+        "country": "China",
+        "latitude": 33.2520,
+        "longitude": 103.9180,
+        "timeZoneIdentifier": "Asia/Shanghai",
+        "activityTitle": "The Shattered Mirror of the Goddess",
+        "ActivitySubcategory": "Park",
+        "imageLink": "https://nationalparks-15bc7.kxcdn.com/images/parks/jiuzhaigou/Jiuzhaigou%20National%20Park%20Five%20Flower%20Lake.jpg",
+        "websiteLink": "https://en.jiuzhai.com/",
+        "ticketLink": "https://en.jiuzhai.com/about/visitor-information",
+        "phoneNumber": "+86 837 773 9753",
+        "activityStory": [
+            {
+                "sectionTitle": "A Tale of Divine Love",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Long ago, a goddess received a mirror from her lover, a mountain deity. In a moment of excitement, she accidentally dropped it, shattering it into 108 pieces that became the sparkling lakes of Jiuzhai Valley. This legend infuses the landscape with a sense of magic and romance."
+                    }
+                ],
+                "sectionImage": "https://photos.paulhayes.photography/1720/mirror-lake-jiuzhaigou.jpg",
+                "sectionImageCaption": "Mirror Lake, reflecting the surrounding peaks",
+                "sectionImageCredit": "Paul Hayes"
+            },
+            {
+                "sectionTitle": "Nature's Palette",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Jiuzhai Valley is renowned for its vibrant lakes, cascading waterfalls, and lush forests. The Five Flower Lake dazzles with its turquoise waters, while the Nuorilang Waterfall impresses with its grandeur. Each season paints the valley in different hues, offering a unique experience year-round."
+                    }
+                ],
+                "sectionImage": "https://news.destination-asia.com/wp-content/uploads/2000/01/Five-Flower-Lake-Multicolored-Lake-among-colorful-fall-woods-in-Jiuzhaigou-nature-reserve-China.-Autumn-forest-reflected-in-azure-water.jpg",
+                "sectionImageCaption": "Five Flower Lake, known for its vivid colors"
+            },
+            {
+                "sectionTitle": "Cultural Tapestry",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The valley is home to nine Tibetan villages, each preserving traditional customs and architecture. Visitors can immerse themselves in local culture, enjoying Tibetan cuisine, music, and festivals that add depth to the natural beauty."
+                    }
+                ],
+                "sectionImage": "https://www.3rdpoletour.com/assets/images/travel-guide/jiuzhaigou/the-view-of-nine-village.jpg",
+                "sectionImageCaption": "A traditional Tibetan village in Jiuzhai Valley",
+                "sectionImageCredit": "Elevated Trips"
+            },
+            {
+                "sectionTitle": "Exploring the Valleys",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Jiuzhai Valley comprises three main valleys: Shuzheng, Rize, and Zechawa. Each offers unique landscapes, from serene lakes to dense forests. The park's well-maintained trails and shuttle buses make exploration convenient for all visitors."
+                    }
+                ],
+                "sectionImage": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/images/methode/2017/04/28/7e5c389e-24e6-11e7-a553-18fc4dcb5811_1280x720_174808.jpg?itok=_GkxfOaW",
+                "sectionImageCaption": "One of the many waterfalls in the park"
+            },
+            {
+                "sectionTitle": "Planning Your Visit",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The park is open year-round, with each season offering distinct scenery. Peak season is from April to November. Visitors should check the official website for current ticket prices and opening hours. Accommodation is available in nearby towns, offering a range of options to suit different preferences."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "A Journey into Enchantment",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Visiting Jiuzhai Valley is like stepping into a fairy tale, where nature and legend intertwine. The valley's stunning landscapes and rich cultural heritage leave an indelible impression, inviting travelers to return and experience its magic anew."
+                    }
+                ]
+            }
+        ]
     }
 ]
