@@ -306,9 +306,9 @@
                         "bodyParagraph": "Among the relics was the **Golden Sunbird**, a perfectly round, razor-thin gold ornament with four birds flying around the sun. It soon became a national cultural symbol of China—appearing on everything from stamps to city posters, its origin steeped in myth and mystery."
                     }
                 ],
-                "sectionImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/太阳神鸟金箔片%2C_2017-09-17.jpg/330px-太阳神鸟金箔片%2C_2017-09-17.jpg",
-                "sectionImageCaption": "The Golden Sunbird – national symbol and Jinsha’s most prized relic",
-                "sectionImageCredit": "Wikimedia Commons"
+                "sectionImage": "https://news.cgtn.com/news/3d4d544e786b7a4d/img/e40c2d37-c252-4dc5-8f03-985f117a1062.jpg",
+                "sectionImageCaption": "A gold foil featuring the sun and immortal birds is the symbol of Jinsha Site Museum in Chengdu, capital city of southwest China’s Sichuan Province",
+                "sectionImageCredit": "CGTN Photo"
             },
             {
                 "sectionTitle": "A Kingdom Lost in Time",
@@ -367,6 +367,97 @@
                 "sectionImage": "https://news.cgtn.com/news/3d4d544e786b7a4d/img/f85501bc-d123-4de1-9be7-923cee35f083.jpg",
                 "sectionImageCaption": "Modern technologies like virtual and augmented reality are installed in the museum to help to unlock ancient mysteries",
                 "sectionImageCredit": "CGTN Photo"
+            }
+        ]
+    },
+    {
+        "locationName": "Palace Museum",
+        "city": "Beijing",
+        "country": "China",
+        "latitude": 39.9163,
+        "longitude": 116.3972,
+        "timeZoneIdentifier": "Asia/Shanghai",
+        "activityTitle": "Walking Through the Dragon’s Court",
+        "ActivitySubcategory": "Museum",
+        "imageLink": "https://news.cgtn.com/news/2023-03-05/The-Forbidden-City-a-shining-gem-on-the-Beijing-Central-Axis-1hVsSUwkow0/img/3e4e90188de848b8adcf36896e39c49b/3e4e90188de848b8adcf36896e39c49b.jpeg",
+        "websiteLink": "https://en.dpm.org.cn/",
+        "ticketLink": "https://gugong.ktmtech.cn/",
+        "phoneNumber": "+86 10 8500 7421",
+        "activityStory": [
+            {
+                "sectionTitle": "A Forbidden World Revealed",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Behind blood-red walls and golden roofs lies a city within a city—the **Forbidden City**, once home to 24 emperors of China across five centuries. Today known as the **Palace Museum**, it remains the largest and most complete imperial palace in the world. For centuries, no one could enter or leave without the emperor’s decree. But now, you can step through the Meridian Gate and begin a journey through time, power, and silence."
+                    }
+                ],
+                "sectionImage": "https://media-cdn.tripadvisor.com/media/daodao/photo-s/02/ef/1b/dc/caption.jpg",
+                "sectionImageCaption": "The north gate (Shenwu Men) of the Forbidden City",
+                "sectionImageCredit": "Trapadvisor"
+            },
+            {
+                "sectionTitle": "Halls of Heaven and Earth",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The layout of the Forbidden City is no accident. Every hall, courtyard, and stairway was designed to reflect cosmic harmony and imperial control. At the heart stands the **Hall of Supreme Harmony**, where emperors held court beneath a golden dragon throne, and every carved stone dragon whispered of divine authority."
+                    },
+                    {
+                        "bodyParagraph": "Walk along the central axis from south to north, where ceremonies unfolded like sacred choreography. The further you go, the deeper you descend into private imperial life."
+                    }
+                ],
+                "sectionImage": "https://i.pinimg.com/736x/fa/ef/e2/faefe2afb6238050e2e612792deac67e.jpg",
+                "sectionImageCaption": "The Hall of Supreme Harmony—once the political heart of the empire",
+                "sectionImageCredit": "Pinterest"
+            },
+            {
+                "sectionTitle": "Behind the Walls: Stories of Intrigue and Solitude",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Beyond the grandeur, the Forbidden City held stories of loneliness, rivalry, and hidden ambition. In the **Palace of Earthly Tranquility** and **Palace of Eternal Harmony**, empresses and concubines lived in secluded beauty—but also in strict hierarchy."
+                    },
+                    {
+                        "bodyParagraph": "The quietest places often tell the loudest stories. Look at the stone paths worn by embroidered slippers. Gaze at faded murals above lacquered doors. Even silence here feels scripted."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Treasures of the Dragon Throne",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The museum today houses over **1.8 million cultural relics**—jade seals, silk robes, bronze mirrors, calligraphy scrolls, clocks from Europe, and gifts from tributary states. Some are simple. Others glitter with jade and gold. All of them were once touched by power."
+                    },
+                    {
+                        "bodyParagraph": "Don't miss the **Gallery of Clocks** or the **Ceramics Hall**, where you'll find rare Song Dynasty porcelain and astronomical marvels crafted in the Qing court."
+                    }
+                ],
+                "sectionImage": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Imperial_Jade_Seal.jpg",
+                "sectionImageCaption": "https://images3.bonhams.com/image?src=Images/live/2015-04/16/9147106-1-42.jpg&fill=FFFFFF&top=0.346666666666&left=0.004132231404&bottom=0.750000000000&height=480&width=960",
+                "sectionImageCredit": "Bonhams"
+            },
+            {
+                "sectionTitle": "Plan Your Imperial Visit",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Located at the heart of Beijing, the Palace Museum is best accessed via Metro Line 1 (Tian’anmen East or West Station). Visitors enter through the south **Meridian Gate** and exit through the north **Gate of Divine Prowess**."
+                    },
+                    {
+                        "bodyParagraph": "Tickets must be reserved online in advance. The museum limits daily entries to preserve the site. Allow at least 3–4 hours to explore the central axis and major halls."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "The City of Secrets",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The Forbidden City isn’t just a tourist site—it’s a theatre of memory. Every dragon carving, curved roof, and imperial hall invites you to imagine what it meant to rule, to serve, to be silenced, or to simply watch history unfold from behind a painted screen."
+                    },
+                    {
+                        "bodyParagraph": "Come not just to walk through the palace—but to listen to its ghosts."
+                    }
+                ],
+                "sectionImage": "https://news.cgtn.com/news/346b544e35517a4d3463544d7a59444e35637a4e31457a6333566d54/img/917e8caee3734c61b6a1aeb9b44c3749/917e8caee3734c61b6a1aeb9b44c3749.jpg",
+                "sectionImageCaption": "The Palace Museum in Beijing",
+                "sectionImageCredit": "CGTN"
             }
         ]
     }
