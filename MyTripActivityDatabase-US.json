@@ -1,0 +1,69 @@
+[
+    {
+        "locationName": "Santa Monica Pier",
+        "city": "Santa Monica",
+        "country": "United States",
+        "latitude": 34.009242,
+        "longitude": -118.497604,
+        "timeZoneIdentifier": "America/Los_Angeles",
+        "activityTitle": "Classic Fun on California’s Coast",
+        "ActivitySubcategory": "Amusement Park",
+        "imageLink": "https://jernejletica.com/wp-content/uploads/2023/05/Photos-of-Santa-Monica-Pier.jpg",
+        "websiteLink": "https://www.santamonicapier.org",
+        "ticketLink": "https://pacpark.com/tickets/",
+        "phoneNumber": "+1 (310) 458-8900",
+        "activityStory": [
+            {
+                "sectionTitle": "A Legendary Pier at the Edge of America",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "The Santa Monica Pier isn’t just the end of Route 66—it’s the beginning of unforgettable memories. First opened in 1909, this iconic pier stretches out into the Pacific Ocean, inviting travelers from around the world to walk its planks, hear the crash of the waves, and feel the sun melt into the sea."
+                    },
+                    {
+                        "bodyParagraph": "Here, classic Americana comes to life. There's the nostalgic sound of carousel music, the scent of fried dough in the air, and the sight of the world’s only solar-powered Ferris wheel lighting up the evening sky. It’s a place where time slows down, and everything feels just a little more magical."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Adventures on the Pier",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "There’s no shortage of fun here. Pacific Park offers rides, games, and family-friendly thrills, while the Santa Monica Pier Aquarium lets you get close to local marine life. Prefer a quieter pace? Try fishing off the pier’s edge—no license needed—or simply find a bench and people-watch as beachgoers, bikers, and performers drift by."
+                    },
+                    {
+                        "bodyParagraph": "As the sun begins to set, the Ferris wheel becomes a glowing beacon on the horizon, offering one of the best views in all of LA. Ride it once, and you’ll understand why this is a favorite of locals and tourists alike."
+                    }
+                ],
+                "sectionImage": "https://smmirror.com/wp-content/uploads/2020/03/GettyImages-1179663349.jpg",
+                "sectionImageCaption": "Santa Monica Pier Rides"
+            },
+            {
+                "sectionTitle": "Flavors of the Boardwalk",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "No trip to the pier is complete without a bite to eat. Whether you're craving a classic burger at Pier Burger, a seafood platter at The Albright, or just a sugary funnel cake from a food stall, your taste buds are in for a treat. This is comfort food with an ocean breeze."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Getting There and When to Go",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Located at the west end of Colorado Avenue in Santa Monica, the pier is easily reached by metro (Line E), car, or even bike along the beachfront path. The best time to visit? Late afternoon to catch golden hour, and stay into the evening as the lights come alive."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Capture the Moment",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Be sure to stop by the 'End of the Trail' sign, marking the official end of Route 66. It’s a perfect photo spot, especially with the waves behind you and the energy of the boardwalk all around."
+                    }
+                ],
+                "sectionImage": "https://images.squarespace-cdn.com/content/v1/5f9af6090c0a7348fa94da7e/1607222848943-BEVRFHX1FCUJWQUUBBEW/IMG_0307-5.jpg",
+                "sectionImageCaption": "Sunset over the Santa Monica Pier",
+                "sectionImageCredit": "Jason Daniel Shaw"
+            }
+        ]
+    }
+]
