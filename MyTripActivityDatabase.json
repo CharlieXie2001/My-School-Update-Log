@@ -572,5 +572,169 @@
                 "sectionImageCaption": "The iconic Three Sisters"
             }
         ]
+    },
+    {
+        "locationName": "Sydney Tower Eye",
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.870451,
+        "longitude": 151.208755,
+        "timeZoneIdentifier": "Australia/Sydney",
+        "activityTitle": "Touching the Sky in the Heart of Sydney",
+        "ActivitySubcategory": "Tour",
+        "imageLink": "https://www.sydneytowereye.com.au/media/bj5l0fbz/tower.jpg",
+        "websiteLink": "https://www.sydneytowereye.com.au/",
+        "ticketLink": "https://www.sydneytowereye.com.au/tickets-passes/",
+        "phoneNumber": "+61 2 9333 9222",
+        "activityStory": [
+            {
+                "sectionTitle": "The Dream to See It All",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Before smartphones and drones, before even the Harbour Bridge was built, Sydneysiders used to climb hills and rooftops just to get a better view. The desire to see the whole city from above has always lived in the hearts of dreamers and visitors alike. That dream came true in 1981, when the Sydney Tower Eye opened its golden crown to the skies—offering not just a view, but a feeling of flight."
+                    }
+                ],
+                "sectionImage": "https://cdn-imgix.headout.com/media/images/f9b8a70745694159fc042ab952553364-Sydney%20Tower%20Eye.jpg",
+                "sectionImageCaption": "The iconic golden turret of the Sydney Tower Eye",
+                "sectionImageCredit": "Tickets Sydney"
+            },
+            {
+                "sectionTitle": "Above It All: The Observation Deck",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "From 250 meters above the bustling streets, the city becomes a living map. You can trace the curves of the coastline, count the sails in Darling Harbour, and on a clear day, see all the way to the Blue Mountains. The view stretches 360 degrees—spinning the skyline, harbour, and suburbs into a single breathtaking canvas."
+                    },
+                    {
+                        "bodyParagraph": "You won’t just look at Sydney—you’ll understand its shape, its scale, its rhythm. Interactive touchscreens along the deck help you identify landmarks and neighborhoods, turning your gaze into knowledge."
+                    }
+                ],
+                "sectionImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/38/1e/79.jpg",
+                "sectionImageCaption": "The 360° city view from Sydney Tower Eye",
+                "sectionImageCredit": "Tripadvisor"
+            },
+            {
+                "sectionTitle": "Skywalk: A Step Into the Wind",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "For the truly bold, the Tower offers something more: **Skywalk**. Wearing safety gear and guided by trained staff, you step outside the glass onto a platform with only air between you and the city far below. The wind lifts your hair, your breath catches—and your heart soars."
+                    },
+                    {
+                        "bodyParagraph": "It’s not just a thrill—it’s a declaration. That you came to Sydney, and stood on top of it."
+                    }
+                ],
+                "sectionImage": "https://www.sydneytowereye.com.au/media/jpsdubyz/ste-skywalk-kv-2020-landscape.jpg?format=jpg",
+                "sectionImageCaption": "Visitors enjoying the Skywalk atop Sydney Tower",
+                "sectionImageCredit": "Sydney Tower Eye (official)"
+            },
+            {
+                "sectionTitle": "Before You Rise: 4D Cinema Experience",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Before heading up, step into the 4D Cinema Experience. This short film takes you flying across Sydney’s icons—splashing through the harbour, soaring past the Opera House, and brushing treetops in the Blue Mountains. It's a magical intro to the city you’re about to see with your own eyes."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Planning Your Ascent",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Sydney Tower Eye is located in the Westfield shopping complex on Pitt Street. It’s open daily from 10 AM to 8 PM (last entry 7 PM), and tickets can be booked online to skip the queues. Try to visit close to sunset for a dramatic transformation of sky and skyline."
+                    },
+                    {
+                        "bodyParagraph": "Pro tip: Combo tickets are available if you also want to visit SEA LIFE Aquarium, WILD LIFE Sydney Zoo, or Madame Tussauds nearby."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "A Skyline You'll Never Forget",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Cities are meant to be explored—but some are best understood from above. Sydney Tower Eye offers more than just a view—it offers perspective, wonder, and a memory that stays with you long after you’ve come back down."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "locationName": "Taronga Zoo",
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.8435,
+        "longitude": 151.2417,
+        "timeZoneIdentifier": "Australia/Sydney",
+        "activityTitle": "A Zoo with a View and a Mission",
+        "ActivitySubcategory": "Tour",
+        "imageLink": "https://images.squarespace-cdn.com/content/v1/63b42d68124e4755513cecb9/3b28db01-534f-42a3-a597-47b512cc6f85/taronga-zoo-giraffes.jpg",
+        "websiteLink": "https://taronga.org.au/sydney-zoo",
+        "ticketLink": "https://taronga.org.au/tickets",
+        "phoneNumber": "+61 2 9969 2777",
+        "activityStory": [
+            {
+                "sectionTitle": "Where Wild Meets Wonderful",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Perched above Sydney Harbour, **Taronga Zoo** isn’t just a place to see animals—it’s a place to reflect on our place in the natural world. Opened in 1916, Taronga blends breathtaking views with global conservation, making it one of the world’s few zoos where you can watch elephants roam while ferries glide by in the background."
+                    },
+                    {
+                        "bodyParagraph": "Its name, 'Taronga', means 'beautiful view' in the local Aboriginal language—a fitting tribute to the stunning hillside setting overlooking the Opera House and Harbour Bridge."
+                    }
+                ],
+                "sectionImage": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0b/bf/49/78.jpg",
+                "sectionImageCaption": "Taronga Zoo's elevated view of Sydney Harbour",
+                "sectionImageCredit": "Tripadvisor"
+            },
+            {
+                "sectionTitle": "Encounters of the Wild Kind",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Get nose-to-beak with a curious emu. Watch Sumatran tigers pacing through bamboo groves. Marvel at graceful giraffes, with the Sydney skyline as their backdrop. Taronga is home to over **4,000 animals** from around the world—including native icons like koalas, echidnas, and platypuses."
+                    },
+                    {
+                        "bodyParagraph": "Special animal encounters let visitors feed penguins, meet meerkats, or even stand within an immersive lemur habitat. Every interaction is designed to bring you closer to wildlife—and spark a desire to protect it."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "A Zoo That Protects, Not Just Displays",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Taronga is more than entertainment—it's part of a global effort to conserve endangered species. From breeding programs to veterinary care and education, every ticket supports real-world conservation work. The zoo partners with communities and researchers across Asia and Australia to help save animals from extinction."
+                    },
+                    {
+                        "bodyParagraph": "It's a place where children learn that wildlife matters, where zookeepers are guardians, and where every visitor leaves with more empathy for the planet."
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Unique Experiences: Roar and Snore",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Ever wondered what a zoo sounds like after dark? Taronga’s **Roar and Snore** program lets guests sleep overnight in safari-style tents with views of the city lights and distant animal calls. It’s a surreal experience—dining under the stars, waking up to lion roars, and starting your day with a private guided walk before the gates open to the public."
+                    }
+                ],
+                "sectionImage": "https://taronga.org.au/sites/default/files/2023-02/TZS_Stay_overnight_1000x818_0.jpg",
+                "sectionImageCaption": "Evening tents at Taronga’s 'Roar and Snore' camp",
+                "sectionImageCredit": "Taronga Zoo official"
+            },
+            {
+                "sectionTitle": "Planning Your Visit",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Taronga Zoo is a short ferry ride from Circular Quay, offering one of the most scenic arrivals of any zoo in the world. You can also take a bus or drive to the top entrance. Open daily from 9:30 AM to 4:30 PM, it’s best explored over 4–5 hours, especially if you want to catch keeper talks and animal shows."
+                    },
+                    {
+                        "bodyParagraph": "Book tickets online to save time, and wear comfortable shoes—there are hills and paths to roam!"
+                    }
+                ]
+            },
+            {
+                "sectionTitle": "Leave With More Than Photos",
+                "sectionBody": [
+                    {
+                        "bodyParagraph": "Taronga Zoo stays with you—not just for the animals, but for the vision it leaves behind. A future where humans and wildlife coexist. A city where giraffes look toward steel towers. A place where the roar of a lion meets the hum of a ferry—and somehow, it all feels right."
+                    }
+                ]
+            }
+        ]
     }
 ]
