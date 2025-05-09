@@ -63,5 +63,79 @@
                 ]
             }
         ]
+    },
+    {
+      "locationName": "Eiffel Tower",
+      "city": "Paris",
+      "country": "France",
+      "latitude": 48.8584,
+      "longitude": 2.2945,
+      "timeZoneIdentifier": "Europe/Paris",
+      "activityTitle": "Paris’s Iron Icon",
+      "ActivitySubcategory": "Other Locations",
+      "imageLink": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180221130827/iStock-155381519.jpg",
+      "websiteLink": "https://www.toureiffel.paris/en",
+      "ticketLink": "https://ticket.toureiffel.paris/en",
+      "phoneNumber": "+33 892 70 12 39",
+      "activityStory": [
+        {
+          "sectionTitle": "A Monument Born of Innovation",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Constructed between 1887 and 1889, the Eiffel Tower was designed by engineer Gustave Eiffel for the 1889 Exposition Universelle, celebrating the centennial of the French Revolution. Standing at 330 meters (1,083 feet), it was the tallest man-made structure until 1930 and remains a symbol of French ingenuity."
+            }
+          ],
+          "sectionImage": "https://3.bp.blogspot.com/-93fY8_rqoZ0/WFDhyqUJcDI/AAAAAAAAMB0/12YgikBSOlQNebPsM-b04nfz9m8R3gdLwCLcB/s1600/eiffel_tower_under_construction_12.jpg",
+          "sectionImageCaption": "Eiffel Tower under construction in the late 1880s",
+          "sectionImageCredit": "Rare Historical Photos"
+        },
+        {
+          "sectionTitle": "An Architectural Marvel",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Comprising 18,038 iron parts and 2.5 million rivets, the tower's lattice design was both a structural and aesthetic breakthrough. Initially met with criticism, it has since become an enduring emblem of Paris, attracting millions of visitors annually."
+            }
+          ],
+          "sectionImage": "https://exploringrworld.com/wp-content/uploads/2018/12/DSC04374-1170x780.jpg",
+          "sectionImageCaption": "Close-up of the Eiffel Tower's intricate ironwork"
+        },
+        {
+          "sectionTitle": "Visiting the Tower",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The Eiffel Tower offers three levels accessible to visitors. The first and second levels feature restaurants and shops, while the summit provides panoramic views of Paris. Elevators and stairs are available, with ticket prices varying based on the level accessed."
+            }
+          ],
+          "sectionImage": "https://cdn-imgix.headout.com/media/images/0301258adb754ca4e881ff805265d07f-Eiffel-Tower-Summit.jpg?auto=format&w=900&h=562.5&q=90&fit=crop&ar=16%3A10",
+          "sectionImageCaption": "View from the summit of the Eiffel Tower",
+          "sectionImageCredit": "Paris Tickets"
+        },
+        {
+          "sectionTitle": "Illuminating the Night",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Every evening, the Eiffel Tower is adorned with 20,000 sparkling lights for five minutes at the start of each hour, creating a mesmerizing spectacle against the Parisian night sky."
+            }
+          ],
+          "sectionImage": "https://www.toureiffel.paris/sites/default/files/styles/mobile_350/public/2024-03/tour-eiffel-eclairage-bleu-blanc-rouge_112015_c-e.jpg?itok=TwQVuIBC",
+          "sectionImageCaption": "Eiffel Tower illuminated at night"
+        },
+        {
+          "sectionTitle": "Planning Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Located on the Champ de Mars near the Seine River, the Eiffel Tower is accessible via metro, bus, and RER. It's advisable to book tickets in advance through the official website to avoid long queues, especially during peak tourist seasons."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "A Timeless Symbol",
+          "sectionBody": [
+            {
+              "bodyParagraph": "From its controversial beginnings to its status as a global icon, the Eiffel Tower embodies the spirit of Paris—romantic, resilient, and ever-inspiring."
+            }
+          ]
+        }
+      ]
     }
 ]
