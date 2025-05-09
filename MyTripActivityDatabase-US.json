@@ -65,5 +65,146 @@
                 "sectionImageCredit": "Jason Daniel Shaw"
             }
         ]
+    },
+    {
+      "locationName": "Sphere at The Venetian Resort",
+      "city": "Las Vegas",
+      "country": "United States",
+      "latitude": 36.12056,
+      "longitude": -115.16139,
+      "timeZoneIdentifier": "America/Los_Angeles",
+      "activityTitle": "The Future of Entertainment, Now",
+      "ActivitySubcategory": "ConcertAndEvent",
+      "imageLink": "https://media.cntravellerme.com/photos/66f16ce3643c85d7952a2896/16:9/w_2560%2Cc_limit/2154115680",
+      "websiteLink": "https://www.thesphere.com/",
+      "ticketLink": "https://www.thesphere.com/shows-tickets",
+      "phoneNumber": "+1 725-258-0001",
+      "activityStory": [
+        {
+          "sectionTitle": "A New Era of Immersion",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Opened in September 2023, Sphere at The Venetian Resort redefines live entertainment. Standing 366 feet tall and 516 feet wide, it's the world's largest spherical structure, designed to deliver unparalleled sensory experiences through cutting-edge technology."
+            }
+          ],
+          "sectionImage": "https://vfxvoice.com/wp-content/uploads/2024/03/PIX-14-U2_-King-Size-by-Marco-Brambilla-Credit-Rich-Fury.jpg",
+          "sectionImageCaption": "Inside Sphere: A 16K wraparound LED screen envelops the audience",
+          "sectionImageCredit": "VFX Voice"
+        },
+        {
+          "sectionTitle": "Technological Marvel",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Sphere boasts a 16K resolution wraparound interior LED screen and an exterior covered with 580,000 square feet of programmable LED panels. Its audio system features beamforming and wave field synthesis technologies, delivering crystal-clear sound to every seat."
+            }
+          ],
+          "sectionImage": "https://www.cxnetwork.com.au/wp-content/uploads/2023/07/RF2_1898-1.jpg",
+          "sectionImageCaption": "Sphere's exterior transforms into dynamic displays at night",
+          "sectionImageCredit": "CX Magazine"
+        },
+        {
+          "sectionTitle": "Unforgettable Experiences",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Sphere's debut featured U2's 'UV Achtung Baby Live at Sphere' residency, showcasing the venue's capabilities. The immersive film 'Postcard from Earth' by Darren Aronofsky offers a 4D journey through our planet's beauty and fragility, enhanced by haptic seats and environmental effects."
+            }
+          ],
+          "sectionImage": "https://www.rollingstone.com/wp-content/uploads/2023/11/GettyImages-1749006899.jpg?w=1200&h=813&crop=1",
+          "sectionImageCaption": "U2's groundbreaking performance at Sphere",
+          "sectionImageCredit": "Rolling Stone"
+        },
+        {
+          "sectionTitle": "Interactive Innovations",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Visitors can interact with 'Aura', advanced humanoid robots that guide guests and answer questions, exemplifying Sphere's commitment to blending technology with human touch."
+            }
+          ],
+          "sectionImage": "https://www.washingtonpost.com/resizer/f2k0ZhgaF97K5zKkPgLqs0CviWw=/arc-anglerfish-washpost-prod-washpost/public/4Q7NCTCUUL5SL2BPEGC7WOLVY4.jpg",
+          "sectionImageCaption": "Aura, the AI humanoid robot at Sphere's atrium",
+          "sectionImageCredit": "Washington Post"
+        },
+        {
+          "sectionTitle": "Planning Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Located at 255 Sands Avenue, Las Vegas, NV 89169, Sphere is easily accessible via The Venetian Resort. It's recommended to arrive early to explore the atrium exhibits and avoid long lines. Check the official website for current showtimes and ticket availability."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "A Glimpse into Tomorrow",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Sphere isn't just a venue; it's a portal to the future of entertainment. By seamlessly integrating art and technology, it offers experiences that captivate the senses and stir the soul, setting a new standard for live events."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationName": "Hanauma Bay Nature Preserve",
+      "city": "Honolulu",
+      "country": "United States",
+      "latitude": 21.2690,
+      "longitude": -157.6937,
+      "timeZoneIdentifier": "Pacific/Honolulu",
+      "activityTitle": "The Crater of Coral Dreams",
+      "ActivitySubcategory": "Beach",
+      "imageLink": "https://loveoahu.org/wp-content/uploads/snorkeling-hanauma-bay-1.jpg",
+      "websiteLink": "https://hanaumabaystatepark.com/",
+      "ticketLink": "https://pros.hnl.info/hanauma-bay",
+      "phoneNumber": "+1 808-768-6861",
+      "activityStory": [
+        {
+          "sectionTitle": "A Volcanic Embrace",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Nestled within a volcanic crater on Oʻahu's southeastern shore lies Hanauma Bay, a marine sanctuary formed thousands of years ago. Its crescent-shaped embrace shelters a vibrant ecosystem, making it one of Hawaii's premier snorkeling destinations."
+            }
+          ],
+          "sectionImage": "https://www.pixeoapp.com/wp-content/uploads/2023/10/hanauma-bay-ridge-view-point-by-peter-thomas.jpg",
+          "sectionImageCaption": "Aerial view of Hanauma Bay's unique volcanic formation",
+          "sectionImageCredit": "PIXEO"
+        },
+        {
+          "sectionTitle": "Marine Life Wonderland",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Home to over 400 species of fish, including the state fish, Humuhumunukunukuāpuaʻa, and graceful green sea turtles, Hanauma Bay offers snorkelers an intimate glimpse into Hawaii's underwater world. The calm, shallow waters make it ideal for both beginners and seasoned explorers."
+            }
+          ],
+          "sectionImage": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/81/2b/9d.jpg",
+          "sectionImageCaption": "Snorkelers exploring the vibrant coral reefs of Hanauma Bay",
+          "sectionImageCredit": "Viator"
+        },
+        {
+          "sectionTitle": "Preserving Paradise",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Designated as a protected marine life conservation area in 1967, Hanauma Bay has undergone significant restoration efforts to combat overuse. Visitors are required to watch an educational video before entering, emphasizing the importance of preserving this delicate ecosystem."
+            }
+          ],
+          "sectionImage": "https://seagrant.soest.hawaii.edu/wp-content/uploads/2018/05/Volunteer-Slide-1-.jpg",
+          "sectionImageCaption": "Hanauma Bay Education Center where visitors learn about marine conservation",
+          "sectionImageCredit": "Hawaii Sea Grant"
+        },
+        {
+          "sectionTitle": "Planning Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Hanauma Bay is open Wednesday through Sunday from 6:45 AM to 4:00 PM, with the last entry at 1:30 PM. It's closed on Mondays and Tuesdays to allow the ecosystem to rest. Reservations are mandatory and can be made two days in advance starting at 7:00 AM HST via the official website. The entrance fee is $25 per person, with free admission for children 12 and under, active military, and Hawaii residents with valid ID. Parking is available for $3, but spaces fill up quickly, so early arrival is recommended."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "A Sanctuary Beneath the Waves",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Hanauma Bay is more than just a beach; it's a living testament to nature's resilience and beauty. As you float above the coral gardens, surrounded by a kaleidoscope of marine life, you'll understand why this bay is cherished by both locals and visitors alike."
+            }
+          ]
+        }
+      ]
     }
 ]
