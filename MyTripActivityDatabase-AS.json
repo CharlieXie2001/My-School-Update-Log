@@ -73,5 +73,81 @@
           ]
         }
       ]
+    },
+    {
+      "locationName": "Burj Khalifa",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.1972,
+      "longitude": 55.2744,
+      "timeZoneIdentifier": "Asia/Dubai",
+      "activityTitle": "Dubai’s Vertical Marvel",
+      "ActivitySubcategory": "Other Locations",
+      "imageLink": "https://images.pexels.com/photos/3763190/pexels-photo-3763190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "websiteLink": "https://www.burjkhalifa.ae/en/",
+      "ticketLink": "https://ticket.atthetop.ae/tickets/book-tickets/",
+      "phoneNumber": "+971 4 888 8888",
+      "activityStory": [
+        {
+          "sectionTitle": "Reaching New Heights",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Standing at a staggering 828 meters (2,717 feet), the Burj Khalifa holds the title of the world's tallest building. Completed in 2010, this architectural feat dominates Dubai's skyline, symbolizing the city's rapid development and ambition."
+            }
+          ],
+          "sectionImage": "https://images.pexels.com/photos/47227/pexels-photo-47227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "sectionImageCaption": "The towering Burj Khalifa against Dubai's skyline",
+          "sectionImageCredit": "Tim Gouw"
+        },
+        {
+          "sectionTitle": "Design and Engineering",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Designed by architect Adrian Smith of Skidmore, Owings & Merrill, the Burj Khalifa features a neo-futuristic design inspired by the Hymenocallis flower. Its Y-shaped tripartite floor geometry provides structural stability and maximizes views of the Arabian Gulf."
+            }
+          ],
+          "sectionImage": "https://i.pinimg.com/736x/ea/c1/a9/eac1a94953f3f120c71188729026e9bd.jpg",
+          "sectionImageCaption": "Architectural design inspired by the Hymenocallis flower"
+        },
+        {
+          "sectionTitle": "Observation Decks",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Visitors can experience breathtaking views from multiple observation decks. 'At The Top' on the 124th and 125th floors offers panoramic vistas, while 'At The Top SKY' on the 148th floor, at 555 meters, provides an exclusive experience with a luxurious lounge."
+            }
+          ],
+          "sectionImage": "https://www.traveltomtom.net/images/nieuwe_indeling/artikels/united_arabic_emirates/at_the_top_burj_khalifa/at_the_top_views_dubai.jpg",
+          "sectionImageCaption": "View from the At The Top observation deck"
+        },
+        {
+          "sectionTitle": "Luxury Within",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The Burj Khalifa houses the Armani Hotel, designed by Giorgio Armani, occupying 15 of the lower floors. The building also includes corporate suites, residential apartments, and the world's highest restaurant, At.mosphere, on the 122nd floor."
+            }
+          ],
+          "sectionImage": "https://static.travelclick.com/assets/hotel/73769/media/room/detail-image/armani-deluxe-room-2_enhanced.png",
+          "sectionImageCaption": "Interior of the luxurious Armani Hotel",
+          "sectionImageCredit": "Armani Hotel"
+        },
+        {
+          "sectionTitle": "A Symbol of Progress",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Beyond its record-breaking height, the Burj Khalifa represents Dubai's vision for the future. It stands as a testament to human ingenuity and the city's transformation into a global metropolis."
+            }
+          ],
+          "sectionImage": "https://tickets-burjkhalifa.com/wp-content/uploads/2024/08/Burj-Khalifa-at-night.webp",
+          "sectionImageCaption": "Burj Khalifa illuminated at night"
+        },
+        {
+          "sectionTitle": "Planning Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Located in Downtown Dubai, the Burj Khalifa is easily accessible via the Dubai Metro's Red Line at the Burj Khalifa/Dubai Mall station. It's advisable to book tickets in advance through the official website to secure preferred time slots and avoid long queues."
+            }
+          ]
+        }
+      ]
     }
 ]
