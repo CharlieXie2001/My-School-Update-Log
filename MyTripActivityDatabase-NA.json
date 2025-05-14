@@ -3,6 +3,7 @@
         "locationName": "Niagara Falls",
         "city": "Niagara Falls",
         "country": "Canada",
+        "countryCode": "CA",
         "latitude": 43.0896,
         "longitude": -79.0849,
         "timeZoneIdentifier": "America/Toronto",

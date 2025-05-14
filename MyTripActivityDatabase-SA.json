@@ -3,6 +3,7 @@
       "locationName": "Christ the Redeemer",
       "city": "Rio de Janeiro",
       "country": "Brazil",
+      "countryCode": "BR",
       "latitude": -22.9519,
       "longitude": -43.2105,
       "timeZoneIdentifier": "America/Sao_Paulo",

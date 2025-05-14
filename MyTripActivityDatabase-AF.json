@@ -3,6 +3,7 @@
         "locationName": "Pyramids of Giza",
         "city": "Giza",
         "country": "Egypt",
+        "countryCode": "EG",
         "latitude": 29.9792,
         "longitude": 31.1342,
         "timeZoneIdentifier": "Africa/Cairo",
