@@ -209,5 +209,153 @@
           ]
         }
       ]
+    },
+    {
+      "locationName": "Bellagio Las Vegas",
+      "city": "Las Vegas",
+      "country": "United States",
+      "countryCode": "US",
+      "latitude": 36.1126,
+      "longitude": -115.1767,
+      "timeZoneIdentifier": "America/Los_Angeles",
+      "activityTitle": "Experience Luxury at Bellagio Las Vegas",
+      "ActivitySubcategory": "Casino",
+      "imageLink": "https://thelibrary.mgmresorts.com/transform/gDVfq1q8t61/18-BEL-03963-0048---Bellagio-Hero-Shot---Resize-v00PP?io=transform:fill,width:760,height:784&format=webp&quality=75",
+      "websiteLink": "https://bellagio.mgmresorts.com/en.html",
+      "ticketLink": "https://bellagio.mgmresorts.com/en.html",
+      "phoneNumber": "+1 888-987-6667",
+      "activityStory": [
+        {
+          "sectionTitle": "An Icon of Elegance",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Opened in 1998, Bellagio Las Vegas is a luxury resort and casino inspired by the Italian town of Bellagio. Known for its elegance and sophistication, the resort features a 156,000-square-foot casino, 3,933 rooms, and a variety of high-end amenities."
+            }
+          ],
+          "sectionImage": "https://cdn.kiwicollection.com/media/property/PR002356/xl/002356-13-exterior%20fountain%20night-Bellagio.jpg?cb=1668561229",
+          "sectionImageCaption": "Bellagio Las Vegas at night"
+        },
+        {
+          "sectionTitle": "Fountains of Bellagio",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The Fountains of Bellagio are a breathtaking water show set in an 8.5-acre man-made lake. The fountains perform a choreographed display of water, music, and light, captivating visitors every 15 to 30 minutes."
+            }
+          ],
+          "sectionImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/8e/c3/fb/vous-cherchez-des-infos.jpg?w=800&h=500&s=1",
+          "sectionImageCaption": "The Fountains of Bellagio in action"
+        },
+        {
+          "sectionTitle": "Artistic Attractions",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Bellagio is home to the Bellagio Gallery of Fine Art, showcasing works from renowned artists. The hotel lobby features 'Fiori di Como,' a stunning glass sculpture by Dale Chihuly, comprising over 2,000 hand-blown glass flowers."
+            }
+          ],
+          "sectionImage": "https://static.frieze.com/files/styles/frieze_teaser/public/article/thumbnail/editorial-articles-44pp.jpeg?itok=WadpbTrv",
+          "sectionImageCaption": "Fiori di Como glass sculpture"
+        },
+        {
+          "sectionTitle": "Culinary Excellence",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Bellagio offers a range of dining options, including Michelin-starred restaurants like Picasso and Le Cirque. Guests can indulge in gourmet cuisine prepared by world-class chefs in elegant settings."
+            }
+          ],
+          "sectionImage": "https://lh3.googleusercontent.com/proxy/em7kP9ukjKp3YJVcf7ZIwStxz47lUsGcIK50Ad2qgVU1ELpHKKN-bQuwOTDZvNSYXWHyrlTxS2MveeKmBLMeMsU75WItDjkk3GM5qo0TXrATb5rNqA",
+          "sectionImageCaption": "Dining at Picasso Restaurant"
+        },
+        {
+          "sectionTitle": "Entertainment and Nightlife",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The resort hosts 'O' by Cirque du Soleil, a mesmerizing aquatic-themed performance. Additionally, Bellagio features upscale lounges and nightclubs, offering vibrant nightlife experiences."
+            }
+          ],
+          "sectionImage": "https://thelibrary.mgmresorts.com/transform/2yxEClAFy0F9/Finale02_Tomasz_Rossa_High-Res?io=transform:fill,width:760,height:570&format=webp&quality=75",
+          "sectionImageCaption": "'O' by Cirque du Soleil performance",
+          "sectionImageCredit": "Wikimedia Commons"
+        },
+        {
+          "sectionTitle": "Luxurious Accommodations",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Guests can choose from a variety of rooms and suites, many offering views of the Las Vegas Strip or the iconic fountains. Each room is designed with comfort and elegance in mind, featuring modern amenities and plush furnishings."
+            }
+          ],
+          "sectionImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bellagio_Hotel_Room.jpg",
+          "sectionImageCaption": "A luxurious room at Bellagio",
+          "sectionImageCredit": "Wikimedia Commons"
+        }
+      ]
+    },
+    {
+      "locationName": "Disneyland Resort",
+      "city": "Anaheim",
+      "country": "United States",
+      "countryCode": "US",
+      "latitude": 33.8121,
+      "longitude": -117.9190,
+      "timeZoneIdentifier": "America/Los_Angeles",
+      "activityTitle": "Experience the Magic of Disneyland Resort",
+      "ActivitySubcategory": "Amusement Park",
+      "imageLink": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1349/464/75/dam/disneyland/attractions/disneyland/sleeping-beauty-castle-walkthrough/sleeping-beauty-castle-exterior-16x9.jpg?1744647041347",
+      "websiteLink": "https://disneyland.disney.go.com/",
+      "ticketLink": "https://disneyland.disney.go.com/tickets/",
+      "phoneNumber": "+1 714-781-4636",
+      "activityStory": [
+        {
+          "sectionTitle": "Welcome to the Happiest Place on Earth",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Since its opening on July 17, 1955, Disneyland Resort in Anaheim, California, has been a premier destination for families and Disney enthusiasts worldwide. The resort encompasses two iconic theme parks: Disneyland Park and Disney California Adventure Park, offering a blend of classic attractions and modern adventures."
+            }
+          ],
+          "sectionImage": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disneyland/attractions/disneyland/sleeping-beauty-castle-walkthrough/disneyland-sleeping-beauty-castle-day-16x9.jpg?1699621847498",
+          "sectionImageCaption": "Sleeping Beauty Castle at Disneyland Park",
+          "sectionImageCredit": "Disneyland Official"
+        },
+        {
+          "sectionTitle": "Explore Disneyland Park",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Disneyland Park is divided into themed lands such as Adventureland, Tomorrowland, Fantasyland, and Frontierland. Guests can enjoy timeless attractions like Pirates of the Caribbean, Space Mountain, and the Haunted Mansion."
+            }
+          ],
+          "sectionImage": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/832/468/75/dam/wdpro-assets/dlr/things-to-do/shops/disneyland/silhouette-studio/silhouette-studio-00.jpg?1739387254462",
+          "sectionImageCaption": "Main Street, U.S.A. at Disneyland Park",
+          "sectionImageCredit": "Disneyland Official"
+        },
+        {
+          "sectionTitle": "Discover Disney California Adventure",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Disney California Adventure Park celebrates the spirit of California with attractions like the Incredicoaster, Radiator Springs Racers, and Guardians of the Galaxy – Mission: BREAKOUT!"
+            }
+          ],
+          "sectionImage": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/3840/2160/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/pixar-pier/dca-pixar-pier-day-16x9-16x9.jpg?2022-12-20T22:19:24+00:00",
+          "sectionImageCaption": "Pixar Pier at Disney California Adventure",
+          "sectionImageCredit": "Disneyland Official"
+        },
+        {
+          "sectionTitle": "Dining and Entertainment",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The resort offers a variety of dining options, from quick-service eateries to fine dining experiences. Guests can also enjoy live entertainment, parades, and nighttime spectaculars like 'World of Color' and 'Fantasmic!'"
+            }
+          ],
+          "sectionImage": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fantasmic/fantasmic-detail-hero-sorcerer-mickey-16x9.jpg?1717197371109",
+          "sectionImageCaption": "Fantasmic! nighttime show at Disneyland Park",
+          "sectionImageCredit": "Disneyland Official"
+        },
+        {
+          "sectionTitle": "Plan Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Disneyland Resort is open year-round, with varying hours depending on the season. It's recommended to check the official website for current operating hours and to make reservations in advance. The resort is located at 1313 Disneyland Dr, Anaheim, CA 92802."
+            }
+          ]
+        }
+      ]
     }
 ]

@@ -583,5 +583,218 @@
           ]
         }
       ]
+    },
+    {
+      "locationName": "Surfers Paradise",
+      "city": "Gold Coast",
+      "country": "Australia",
+      "countryCode": "AU",
+      "latitude": -28.0027,
+      "longitude": 153.4290,
+      "timeZoneIdentifier": "Australia/Brisbane",
+      "activityTitle": "Experience the Vibrant Coastal Life of Surfers Paradise",
+      "ActivitySubcategory": "Beach",
+      "imageLink": "https://images.pexels.com/photos/786357/pexels-photo-786357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "websiteLink": "https://www.queensland.com/au/en/places-to-see/destinations/gold-coast/surfers-paradise",
+      "ticketLink": "https://www.queensland.com/au/en/places-to-see/destinations/gold-coast/surfers-paradise",
+      "phoneNumber": "+61 7 5581 6984",
+      "activityStory": [
+        {
+          "sectionTitle": "A Coastal Gem on the Gold Coast",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Surfers Paradise is a renowned beachside suburb on Australia's Gold Coast, celebrated for its stunning coastline, vibrant nightlife, and array of attractions. With its golden sands and rolling surf, it's a haven for beachgoers and surfers alike."
+            }
+          ],
+          "sectionImage": "https://images.pexels.com/photos/2440856/pexels-photo-2440856.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "sectionImageCaption": "Surfers Paradise Beach",
+          "sectionImageCredit": "Nathan Cowley"
+        },
+        {
+          "sectionTitle": "Attractions and Activities",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Beyond the beach, Surfers Paradise offers a plethora of activities. Visitors can explore the bustling Cavill Avenue, home to numerous shops, restaurants, and entertainment venues. The area also features attractions like the SkyPoint Observation Deck, providing panoramic views of the Gold Coast."
+            }
+          ],
+          "sectionImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cavill_Avenue_at_Surfers_Paradise%2C_Queensland_looking_east.jpg",
+          "sectionImageCaption": "Cavill Avenue in Surfers Paradise",
+          "sectionImageCredit": "Wikimedia"
+        },
+        {
+          "sectionTitle": "Events and Festivals",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Surfers Paradise hosts a variety of events throughout the year, including the Surfers Paradise Festival, which celebrates local music, art, and culture. The area is also known for its vibrant nightlife, with numerous bars and clubs offering entertainment into the early hours."
+            }
+          ],
+          "sectionImage": "https://media.leisurecom.com/events/image-2020-03-10-14-07-55.jpg",
+          "sectionImageCaption": "Surfers Paradise Festival",
+          "sectionImageCredit": "Discover Queensland"
+        },
+        {
+          "sectionTitle": "Family-Friendly Fun",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Families can enjoy attractions like Timezone, an extensive indoor entertainment center, and the Ripley's Believe It or Not! museum. The beachfront also features playgrounds and picnic areas, making it an ideal spot for family outings."
+            }
+          ],
+          "sectionImage": "https://paradisecentre.net.au/images/_1200x630_crop_center-center_82_none/PC-December-2023-62.jpg?mtime=1733530694",
+          "sectionImageCaption": "Timezone in Surfers Paradise"
+        },
+        {
+          "sectionTitle": "Getting There",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Surfers Paradise is easily accessible via the Gold Coast Airport, located approximately 25 kilometers south. Public transportation options include buses and the G:link light rail, which connects Surfers Paradise to other parts of the Gold Coast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationName": "Warner Bros. Movie World",
+      "city": "Gold Coast",
+      "country": "Australia",
+      "countryCode": "AU",
+      "latitude": -27.9064,
+      "longitude": 153.3148,
+      "timeZoneIdentifier": "Australia/Brisbane",
+      "activityTitle": "Experience Hollywood on the Gold Coast",
+      "ActivitySubcategory": "Amusement Park",
+      "imageLink": "https://images.ctfassets.net/4398fxjf8451/794OzlfaPX9jvusslCg4fw/42bec6771ceee9b997f63a16aa7745b6/DSH1-1920x1080-wbmwD2403394-V1-Flash-keyart.jpg?q=75&fm=webp&w=3840&h=2160",
+      "websiteLink": "https://movieworld.com.au/",
+      "ticketLink": "https://movieworld.com.au/tickets",
+      "phoneNumber": "+61 7 5573 3999",
+      "activityStory": [
+        {
+          "sectionTitle": "An Overview of the Park",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Warner Bros. Movie World, located in Oxenford on the Gold Coast, is Australia's premier movie-themed amusement park. Opened in 1991, it offers a blend of thrill rides, family attractions, and immersive entertainment experiences based on Warner Bros. franchises, including DC Comics and Looney Tunes. "
+            }
+          ],
+          "sectionImage": "https://www.goldcoastaustralia.com/assets/images/movieworld-entrance.jpg",
+          "sectionImageCaption": "Entrance to Warner Bros. Movie World"
+        },
+        {
+          "sectionTitle": "Thrilling Rides and Attractions",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The park boasts several adrenaline-pumping rides, such as the DC Rivals HyperCoaster, Australia's tallest, fastest, and longest hypercoaster, and the Superman Escape, which accelerates from 0 to 100 km/h in just two seconds. Other notable attractions include the Green Lantern Coaster and the Batwing Spaceshot. "
+            }
+          ],
+          "sectionImage": "https://images.ctfassets.net/4398fxjf8451/IzIHORPtJMdCgBjB0s36t/b5d10fc43b75ad3fdb852eca3854b928/DSH1-1920x1080-wbmwD2403394-V4-hypercoaster-wide.jpg",
+          "sectionImageCaption": "DC Rivals HyperCoaster",
+          "sectionImageCredit": "Movie World"
+        },
+        {
+          "sectionTitle": "Family-Friendly Fun",
+          "sectionBody": [
+            {
+              "bodyParagraph": "For younger visitors, the Kids' WB Fun Zone offers a variety of attractions, including the Road Runner Rollercoaster and the Looney Tunes Carousel. Families can also enjoy the Justice League: Alien Invasion 3D ride and the Wild West Falls Adventure Ride. "
+            }
+          ],
+          "sectionImage": "https://images.ctfassets.net/4398fxjf8451/7opvwIOiyz7jNNsmENJSjN/fa2ca2a79e4e840f0bfa6278967e943c/WBMW-Carousel-1920x1080.png",
+          "sectionImageCaption": "Looney Tunes Carousel in Kids' WB Fun Zone",
+          "sectionImageCredit": "Movie World"
+        },
+        {
+          "sectionTitle": "Entertainment and Shows",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Beyond rides, Movie World offers live entertainment, including the Hollywood Stunt Driver show and the daily Streets Star Parade, featuring beloved characters like Bugs Bunny, Batman, and Marilyn Monroe. The Roxy Theatre also screens 4D movie experiences. "
+            }
+          ],
+          "sectionImage": "https://images.ctfassets.net/4398fxjf8451/1Td5HC42yUDIaTCRUKSZPp/e5d085471f10afe471ebd6142792dfd1/wbmwD2404526-1920x1080-Secondary-HSD2.jpg",
+          "sectionImageCaption": "Hollywood Stunt Driver Show",
+          "sectionImageCredit": "Movie World"
+        },
+        {
+          "sectionTitle": "New Additions: The Wizard of Oz Precinct",
+          "sectionBody": [
+            {
+              "bodyParagraph": "In December 2024, the park unveiled the Wizard of Oz precinct, a $50 million immersive area featuring two new rides: 'Flight of the Wicked Witch,' a suspended coaster, and 'The Kansas Twister,' a dueling steel racing coaster. The precinct brings to life iconic locations like Dorothy’s Kansas farmhouse, the Emerald City, and Munchkinland. "
+            }
+          ],
+          "sectionImage": "https://images.ctfassets.net/4398fxjf8451/2BaEenSKJjylOKvof86mbv/9cee57309f5744888e63317a7854410b/wbmwD2404514-1920x1080-WOZ.jpg",
+          "sectionImageCaption": "The Wizard of Oz Precinct",
+          "sectionImageCredit": "Movie World"
+        },
+        {
+          "sectionTitle": "Planning Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Warner Bros. Movie World is open year-round, with varying hours depending on the season. It's advisable to check the official website for current operating hours and to purchase tickets in advance. The park is accessible via public transportation, with connections from Helensvale station. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "locationName": "Australian Reptile Park",
+      "city": "Somersby",
+      "country": "Australia",
+      "countryCode": "AU",
+      "latitude": -33.4182,
+      "longitude": 151.2772,
+      "timeZoneIdentifier": "Australia/Sydney",
+      "activityTitle": "Discover Australia's Unique Wildlife",
+      "ActivitySubcategory": "Other Locations",
+      "imageLink": "https://christineknight.me/wp-content/uploads/2018/04/australian-reptile-park-blog-7.jpg",
+      "websiteLink": "https://www.reptilepark.com.au/",
+      "ticketLink": "https://www.reptilepark.com.au/book-your-visit/day-passes",
+      "phoneNumber": "+61 2 4340 1022",
+      "activityStory": [
+        {
+          "sectionTitle": "An Iconic Wildlife Experience",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Located on the Central Coast of New South Wales, the Australian Reptile Park is renowned for its hands-on approach to wildlife education and conservation. Home to over 2,000 animals, the park offers visitors the chance to interact with a diverse range of species, from cuddly koalas to formidable crocodiles."
+            }
+          ],
+          "sectionImage": "https://assets.atdw-online.com.au/images/f9033e509202d17cdd86dfcc3c49435d.jpeg?rect=245%2C0%2C3797%2C2848&w=2048&h=1536&rot=360&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjU2YjI0MDU5ZDI3MDE1NGI0NTU0MWZkYyIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9",
+          "sectionImageCaption": "Entrance to the Australian Reptile Park"
+        },
+        {
+          "sectionTitle": "Meet Elvis, the Crankiest Crocodile",
+          "sectionBody": [
+            {
+              "bodyParagraph": "One of the park's star attractions is Elvis, a massive saltwater crocodile known for his feisty demeanor. Visitors can witness his powerful feeding displays during scheduled shows, offering a thrilling glimpse into the world of these ancient predators."
+            }
+          ],
+          "sectionImage": "https://coastcommunitynews.com.au/wp-content/uploads/2023/11/NEWS-Reptile-park-santaP-777x437.jpg",
+          "sectionImageCaption": "Elvis the Crocodile during feeding time"
+        },
+        {
+          "sectionTitle": "Interactive Animal Encounters",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The park provides numerous opportunities for up-close encounters with Australia's unique fauna. Guests can hand-feed free-roaming kangaroos, cuddle a koala, or even hold a python under the supervision of experienced keepers."
+            }
+          ],
+          "sectionImage": "https://www.icentralcoast.com/images/australian-reptile-park-kangaroos.jpg",
+          "sectionImageCaption": "Feeding kangaroos at the park"
+        },
+        {
+          "sectionTitle": "Educational Shows and Talks",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Daily shows and talks provide insights into the behaviors and conservation efforts surrounding various species. Highlights include the Reptile Show, Tasmanian Devil Talk, and the entertaining Lorikeet Feeding sessions."
+            }
+          ],
+          "sectionImage": "https://s9752.pcdn.co/wp-content/uploads/2022/09/0V2A8928-scaled.jpg",
+          "sectionImageCaption": "Reptile Show at the Australian Reptile Park",
+          "sectionImageCredit": "NBN News"
+        },
+        {
+          "sectionTitle": "Plan Your Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The Australian Reptile Park is open daily from 9:00 AM to 5:00 PM, excluding Christmas Day. It's conveniently located just off the M1 Pacific Motorway, approximately an hour's drive from both Sydney and Newcastle. Ample parking is available on-site."
+            }
+          ]
+        }
+      ]
     }
 ]
