@@ -220,7 +220,7 @@
       "timeZoneIdentifier": "America/Los_Angeles",
       "activityTitle": "Experience Luxury at Bellagio Las Vegas",
       "ActivitySubcategory": "Casino",
-      "imageLink": "https://thelibrary.mgmresorts.com/transform/gDVfq1q8t61/18-BEL-03963-0048---Bellagio-Hero-Shot---Resize-v00PP?io=transform:fill,width:760,height:784&format=webp&quality=75",
+      "imageLink": "https://images.pexels.com/photos/18041018/pexels-photo-18041018/free-photo-of-las-vegas-illuminated-at-dusk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "websiteLink": "https://bellagio.mgmresorts.com/en.html",
       "ticketLink": "https://bellagio.mgmresorts.com/en.html",
       "phoneNumber": "+1 888-987-6667",
@@ -274,7 +274,7 @@
           ],
           "sectionImage": "https://thelibrary.mgmresorts.com/transform/2yxEClAFy0F9/Finale02_Tomasz_Rossa_High-Res?io=transform:fill,width:760,height:570&format=webp&quality=75",
           "sectionImageCaption": "'O' by Cirque du Soleil performance",
-          "sectionImageCredit": "Wikimedia Commons"
+          "sectionImageCredit": "Wikimedia"
         },
         {
           "sectionTitle": "Luxurious Accommodations",
@@ -283,9 +283,9 @@
               "bodyParagraph": "Guests can choose from a variety of rooms and suites, many offering views of the Las Vegas Strip or the iconic fountains. Each room is designed with comfort and elegance in mind, featuring modern amenities and plush furnishings."
             }
           ],
-          "sectionImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bellagio_Hotel_Room.jpg",
+          "sectionImage": "https://thelibrary.mgmresorts.com/transform/QtWbaCOtT7A1/BEL118386391.tif",
           "sectionImageCaption": "A luxurious room at Bellagio",
-          "sectionImageCredit": "Wikimedia Commons"
+          "sectionImageCredit": "Wikimedia"
         }
       ]
     },
@@ -299,7 +299,7 @@
       "timeZoneIdentifier": "America/Los_Angeles",
       "activityTitle": "Experience the Magic of Disneyland Resort",
       "ActivitySubcategory": "Amusement Park",
-      "imageLink": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1349/464/75/dam/disneyland/attractions/disneyland/sleeping-beauty-castle-walkthrough/sleeping-beauty-castle-exterior-16x9.jpg?1744647041347",
+      "imageLink": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1260/711/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/70th-anniversary/experience/70thCastle_010b_ACO-16x9.jpg?2024-12-05T01:26:41+00:00",
       "websiteLink": "https://disneyland.disney.go.com/",
       "ticketLink": "https://disneyland.disney.go.com/tickets/",
       "phoneNumber": "+1 714-781-4636",

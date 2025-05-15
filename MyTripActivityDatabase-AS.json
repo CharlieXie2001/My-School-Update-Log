@@ -151,5 +151,68 @@
           ]
         }
       ]
+    },
+    {
+      "locationName": "Wat Arun (Temple of Dawn)",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "latitude": 13.7437,
+      "longitude": 100.4889,
+      "timeZoneIdentifier": "Asia/Bangkok",
+      "activityTitle": "Explore the Majestic Wat Arun",
+      "ActivitySubcategory": "Other Locations",
+      "imageLink": "https://static.wixstatic.com/media/2cc94a_07e55de318fe41538e17cb9de596cb45~mv2.jpg/v1/fill/w_2500,h_1406,al_c/2cc94a_07e55de318fe41538e17cb9de596cb45~mv2.jpg",
+      "websiteLink": "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan",
+      "ticketLink": "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan",
+      "phoneNumber": "+66 2 891 2185",
+      "activityStory": [
+        {
+          "sectionTitle": "A Glimpse into Thai Heritage",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Wat Arun, also known as the Temple of Dawn, stands majestically on the west bank of the Chao Phraya River in Bangkok. This iconic temple is renowned for its stunning architecture and riverside location, making it a must-visit landmark in Thailand's capital."
+            }
+          ],
+          "sectionImage": "https://www.renown-travel.com/images/wat-arun-bangkok-l.jpg",
+          "sectionImageCaption": "Wat Arun's central prang illuminated at night"
+        },
+        {
+          "sectionTitle": "Architectural Marvel",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The temple's central prang (tower) rises to approximately 70 meters and is adorned with intricate floral patterns made from colorful porcelain and seashells. This design reflects the early Rattanakosin period's architectural style and showcases the craftsmanship of Thai artisans."
+            }
+          ],
+          "sectionImage": "https://www.voyagethailande.fr/cdn/th-public/wat_arun.jpg",
+          "sectionImageCaption": "Close-up of the ornate porcelain decorations"
+        },
+        {
+          "sectionTitle": "Best Time to Visit",
+          "sectionBody": [
+            {
+              "bodyParagraph": "While Wat Arun is captivating at any time of day, visiting during the early morning or late afternoon offers the most enchanting experiences. The temple's facade glows beautifully during sunrise and sunset, providing perfect lighting for photography and a serene atmosphere."
+            }
+          ],
+          "sectionImage": "https://peregrinetreks.com/wp-content/uploads/2024/12/Temple-of-Light-575x490.webp",
+          "sectionImageCaption": "Wat Arun basking in the golden hues of sunset"
+        },
+        {
+          "sectionTitle": "Visitor Information",
+          "sectionBody": [
+            {
+              "bodyParagraph": "Wat Arun is open daily from 8:00 AM to 6:00 PM. The entrance fee is 100 Thai Baht. Visitors are advised to dress modestly, covering shoulders and knees, as a sign of respect in this sacred place. Sarongs are available for rent at the entrance for those who need them."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Getting There",
+          "sectionBody": [
+            {
+              "bodyParagraph": "The most scenic route to Wat Arun is by ferry across the Chao Phraya River. From Tha Tien Pier, near Wat Pho, a short ferry ride will take you directly to the temple's entrance. This journey offers picturesque views of the river and the temple's towering spires."
+            }
+          ]
+        }
+      ]
     }
 ]
