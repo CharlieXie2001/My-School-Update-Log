@@ -687,6 +687,296 @@
         "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdZBOAclg_S7EYmh79okaFPBeQyIlQxa4tg&s"
     },
     {
+        "airportCode": "AMT",
+        "airportName": "Amata Airport",
+        "city": "Amata",
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -26.0967,
+        "longitude": 131.2033,
+        "timeZone": "Australia/Adelaide"
+    },
+    {
+        "airportCode": "AMW",
+        "airportName": "Ames Municipal Airport",
+        "city": "Ames",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 41.99263,
+        "longitude": -93.62184,
+        "timeZone": "America/Chicago"
+    },
+    {
+        "airportCode": "AMX",
+        "airportName": "Ammaroo Airport",
+        "city": "Ammaroo",
+        "country": "Australia",
+        "countryCode": "AU",
+        "latitude": -21.7383003,
+        "longitude": 135.2420044,
+        "timeZone": "Australia/Darwin"
+    },
+    {
+        "airportCode": "AMY",
+        "airportName": "Ambatomainty Airport",
+        "city": "Ambatomainty",
+        "country": "Madagascar",
+        "countryCode": "MG",
+        "latitude": -17.68556,
+        "longitude": 45.62528,
+        "timeZone": "Indian/Antananarivo"
+    },
+    {
+        "airportCode": "AMZ",
+        "airportName": "Ardmore Airport",
+        "city": "Ardmore",
+        "country": "New Zealand",
+        "countryCode": "NZ",
+        "latitude": -37.02953,
+        "longitude": 174.97382,
+        "timeZone": "Pacific/Auckland"
+    },
+    {
+        "airportCode": "ANB",
+        "airportName": "Anniston Regional Airport",
+        "city": "Anniston",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 33.58806,
+        "longitude": -85.85806,
+        "timeZone": "America/Chicago",
+        "website": "http://www.annistonal.gov/airport/"
+    },
+    {
+        "airportCode": "ANC",
+        "airportName": "Ted Stevens Anchorage International Airport",
+        "city": "Anchorage",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 61.17417,
+        "longitude": -149.99833,
+        "timeZone": "America/Anchorage",
+        "website": "https://www.ancairport.com"
+    },
+    {
+        "airportCode": "AND",
+        "airportName": "Anderson Regional Airport",
+        "city": "Anderson",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 34.49472,
+        "longitude": -82.70944,
+        "timeZone": "America/New_York",
+        "website": "https://www.andersoncountysc.org/airport/"
+    },
+    {
+        "airportCode": "ANF",
+        "airportName": "Andrés Sabella Gálvez International Airport",
+        "city": "Antofagasta",
+        "country": "Chile",
+        "countryCode": "CL",
+        "latitude": -23.44444,
+        "longitude": -70.445,
+        "timeZone": "America/Santiago",
+        "website": "https://www.aeropuertoantofagasta.cl/"
+    },
+    {
+        "airportCode": "ANG",
+        "airportName": "Angoulême–Cognac International Airport",
+        "city": "Champniers",
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 45.72889,
+        "longitude": 0.21889,
+        "timeZone": "Europe/Paris",
+        "website": "http://www.angouleme.aeroport.fr"
+    },
+    {
+        "airportCode": "ANR",
+        "airportName": "Antwerp International Airport",
+        "city": "Antwerp",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "latitude": 51.18944,
+        "longitude": 4.46028,
+        "timeZone": "Europe/Brussels",
+        "phone": "+32 3 2856500",
+        "website": "https://www.antwerp-airport.be"
+    },
+    {
+        "airportCode": "ANU",
+        "airportName": "V. C. Bird International Airport",
+        "city": "St. John's",
+        "country": "Antigua and Barbuda",
+        "countryCode": "AG",
+        "latitude": 17.13667,
+        "longitude": -61.79306,
+        "timeZone": "America/Antigua",
+        "website": "http://vcbia.com"
+    },
+    {
+        "airportCode": "ANW",
+        "airportName": "Ainsworth Regional Airport",
+        "city": "Ainsworth",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 42.57953,
+        "longitude": -99.99254,
+        "timeZone": "America/Chicago"
+    },
+    {
+        "airportCode": "AOC",
+        "airportName": "Altenburg Nobitz Airport",
+        "city": "Altenburg",
+        "country": "Germany",
+        "countryCode": "DE",
+        "latitude": 50.9794,
+        "longitude": 12.5111,
+        "timeZone": "Europe/Berlin",
+        "phone": "+49 3447 590 0",
+        "website": "http://www.leipzig-altenburg-airport.de/"
+    },
+    {
+        "airportCode": "AOG",
+        "airportName": "Anshan Teng'ao Airport",
+        "city": "Anshan",
+        "country": "China",
+        "countryCode": "CN",
+        "latitude": 41.1053,
+        "longitude": 122.8540,
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "airportCode": "AOJ",
+        "airportName": "Aomori Airport",
+        "city": "Aomori",
+        "country": "Japan",
+        "countryCode": "JP",
+        "latitude": 40.7347,
+        "longitude": 140.6910,
+        "timeZone": "Asia/Tokyo"
+    },
+    {
+        "airportCode": "AOK",
+        "airportName": "Karpathos Island National Airport",
+        "city": "Karpathos",
+        "country": "Greece",
+        "countryCode": "GR",
+        "latitude": 35.421408,
+        "longitude": 27.146008,
+        "timeZone": "Europe/Athens"
+    },
+    {
+        "airportCode": "APL",
+        "airportName": "Nampula Airport",
+        "city": "Nampula",
+        "country": "Mozambique",
+        "countryCode": "MZ",
+        "latitude": -15.1056111,
+        "longitude": 39.2818,
+        "timeZone": "Africa/Maputo"
+    },
+    {
+        "airportCode": "APW",
+        "airportName": "Faleolo International Airport",
+        "city": "Apia",
+        "country": "Samoa",
+        "countryCode": "WS",
+        "latitude": -13.83,
+        "longitude": -172.008,
+        "timeZone": "Pacific/Apia"
+    },
+    {
+        "airportCode": "AQG",
+        "airportName": "Anqing Tianzhushan Airport",
+        "city": "Anqing",
+        "country": "China",
+        "countryCode": "CN",
+        "latitude": 30.5822,
+        "longitude": 117.05,
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "airportCode": "AQJ",
+        "airportName": "King Hussein International Airport",
+        "city": "Aqaba",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "latitude": 29.6116,
+        "longitude": 35.0181,
+        "timeZone": "Asia/Amman"
+    },
+    {
+        "airportCode": "AQP",
+        "airportName": "Rodríguez Ballón International Airport",
+        "city": "Arequipa",
+        "country": "Peru",
+        "countryCode": "PE",
+        "latitude": -16.34028,
+        "longitude": -71.56667,
+        "timeZone": "America/Lima"
+    },
+    {
+        "airportCode": "ARG",
+        "airportName": "Walnut Ridge Regional Airport",
+        "city": "Walnut Ridge",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 36.124667,
+        "longitude": -90.925111,
+        "timeZone": "America/Chicago"
+    },
+    {
+        "airportCode": "ARI",
+        "airportName": "Chacalluta International Airport",
+        "city": "Arica",
+        "country": "Chile",
+        "countryCode": "CL",
+        "latitude": -18.34861,
+        "longitude": -70.33889,
+        "timeZone": "America/Santiago"
+    },
+    {
+        "airportCode": "ARN",
+        "airportName": "Stockholm Arlanda Airport",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "latitude": 59.6519444444,
+        "longitude": 17.9330555556,
+        "timeZone": "Europe/Stockholm"
+    },
+    {
+        "airportCode": "ART",
+        "airportName": "Watertown International Airport",
+        "city": "Watertown",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 43.99194,
+        "longitude": -76.02167,
+        "timeZone": "America/New_York"
+    },
+    {
+        "airportCode": "ARU",
+        "airportName": "Dario Guarita–Araçatuba State Airport",
+        "city": "Araçatuba",
+        "country": "Brazil",
+        "countryCode": "BR",
+        "latitude": -21.141479,
+        "longitude": -50.424575,
+        "timeZone": "America/Campo_Grande"
+    },
+    {
+        "airportCode": "ARW",
+        "airportName": "Arad International Airport",
+        "city": "Arad",
+        "country": "Romania",
+        "countryCode": "RO",
+        "latitude": 46.17667,
+        "longitude": 21.26194,
+        "timeZone": "Europe/Bucharest"
+    },
+    {
         "airportCode": "ATL",
         "airportName": "Hartsfield Jackson Atlanta International Airport",
         "city": "Atlanta",
@@ -713,6 +1003,106 @@
         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Alice_Springs_airport_%283335054258%29.jpg/250px-Alice_Springs_airport_%283335054258%29.jpg"
     },
     {
+        "airportCode": "ASW",
+        "airportName": "Aswan International Airport",
+        "city": "Aswan",
+        "country": "Egypt",
+        "countryCode": "EG",
+        "latitude": 23.9644,
+        "longitude": 32.82,
+        "timeZone": "Africa/Cairo"
+    },
+    {
+        "airportCode": "ATH",
+        "airportName": "Athens International Airport Eleftherios Venizelos",
+        "city": "Athens",
+        "country": "Greece",
+        "countryCode": "GR",
+        "latitude": 37.93639,
+        "longitude": 23.94722,
+        "timeZone": "Europe/Athens"
+    },
+    {
+        "airportCode": "ATQ",
+        "airportName": "Sri Guru Ram Das Ji International Airport",
+        "city": "Amritsar",
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 31.7096,
+        "longitude": 74.7973,
+        "timeZone": "Asia/Kolkata"
+    },
+    {
+      "airportCode": "AUA",
+      "airportName": "Queen Beatrix International Airport",
+      "city": "Oranjestad",
+      "country": "Aruba",
+      "countryCode": "AW",
+      "latitude": 12.50139,
+      "longitude": -70.01528,
+      "timeZone": "America/Aruba"
+    },
+    {
+        "airportCode": "AUH",
+        "airportName": "Abu Dhabi International Airport",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "latitude": 24.4330555556,
+        "longitude": 54.6508333333,
+        "timeZone": "Asia/Dubai"
+    },
+    {
+        "airportCode": "AUS",
+        "airportName": "Austin–Bergstrom International Airport",
+        "city": "Austin",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 30.1944444444,
+        "longitude": -97.67,
+        "timeZone": "US/Central"
+    },
+    {
+        "airportCode": "AVA",
+        "airportName": "Anshun Huangguoshu Airport",
+        "city": "Anshun",
+        "country": "China",
+        "countryCode": "CN",
+        "latitude": 26.2606,
+        "longitude": 105.873,
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "airportCode": "AVL",
+        "airportName": "Asheville Regional Airport",
+        "city": "Asheville",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 35.43611,
+        "longitude": -82.54167,
+        "timeZone": "America/New_York"
+    },
+    {
+        "airportCode": "AVN",
+        "airportName": "Avignon–Caumont Airport",
+        "city": "Avignon",
+        "country": "France",
+        "countryCode": "FR",
+        "latitude": 43.90667,
+        "longitude": 4.90194,
+        "timeZone": "Europe/Paris"
+    },
+    {
+        "airportCode": "AVP",
+        "airportName": "Wilkes-Barre/Scranton International Airport",
+        "city": "Scranton",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 41.33833,
+        "longitude": -75.72333,
+        "timeZone": "America/New_York"
+    },
+    {
         "airportCode": "AVV",
         "airportName": "Avalon Airport",
         "city": "Avalon",
@@ -724,6 +1114,146 @@
         "phone": "+61 3 5227 9100",
         "website": "https://www.avalonairport.com.au",
         "imageURL": "https://avalonairport.com.au/wp-content/uploads/2023/08/Untitled-design-4.png"
+    },
+    {
+        "airportCode": "AWZ",
+        "airportName": "Qasem Soleimani International Airport",
+        "city": "Ahvaz",
+        "country": "Iran",
+        "countryCode": "IR",
+        "latitude": 31.3374306,
+        "longitude": 48.76195,
+        "timeZone": "Asia/Tehran"
+    },
+    {
+        "airportCode": "AXA",
+        "airportName": "Clayton J. Lloyd International Airport",
+        "city": "The Valley",
+        "country": "Anguilla",
+        "countryCode": "AI",
+        "latitude": 18.20472,
+        "longitude": -63.055,
+        "timeZone": "America/Anguilla"
+    },
+    {
+        "airportCode": "AXD",
+        "airportName": "Alexandroupolis International Airport",
+        "city": "Alexandroupolis",
+        "country": "Greece",
+        "countryCode": "GR",
+        "latitude": 40.8558694,
+        "longitude": 25.9562639,
+        "timeZone": "Europe/Athens"
+    },
+    {
+        "airportCode": "AXF",
+        "airportName": "Alxa Left Banner Bayanhot Airport",
+        "city": "Bayanhot",
+        "country": "China",
+        "countryCode": "CN",
+        "latitude": 38.74831,
+        "longitude": 105.58858,
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "airportCode": "AXM",
+        "airportName": "El Edén International Airport",
+        "city": "Armenia",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "latitude": 4.45278,
+        "longitude": -75.76611,
+        "timeZone": "America/Bogota"
+    },
+    {
+        "airportCode": "AYP",
+        "airportName": "Coronel FAP Alfredo Mendívil Duarte Airport",
+        "city": "Ayacucho",
+        "country": "Peru",
+        "countryCode": "PE",
+        "latitude": -13.15417,
+        "longitude": -74.20417,
+        "timeZone": "America/Lima"
+    },
+    {
+        "airportCode": "AYT",
+        "airportName": "Antalya Airport",
+        "city": "Antalya",
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 36.90028,
+        "longitude": 30.79278,
+        "timeZone": "Europe/Istanbul"
+    },
+    {
+        "airportCode": "AZA",
+        "airportName": "Mesa Gateway Airport",
+        "city": "Mesa",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 33.30778,
+        "longitude": -111.65556,
+        "timeZone": "America/Phoenix"
+    },
+    {
+        "airportCode": "AZO",
+        "airportName": "Kalamazoo/Battle Creek International Airport",
+        "city": "Kalamazoo",
+        "country": "United States",
+        "countryCode": "US",
+        "latitude": 42.23500,
+        "longitude": -85.55194,
+        "timeZone": "America/Detroit"
+    },
+    {
+        "airportCode": "BAH",
+        "airportName": "Bahrain International Airport",
+        "city": "Manama",
+        "country": "Bahrain",
+        "countryCode": "BH",
+        "latitude": 26.270833,
+        "longitude": 50.633611,
+        "timeZone": "Asia/Bahrain"
+    },
+    {
+        "airportCode": "BAL",
+        "airportName": "Batman Airport",
+        "city": "Batman",
+        "country": "Turkey",
+        "countryCode": "TR",
+        "latitude": 37.929,
+        "longitude": 41.1166,
+        "timeZone": "Europe/Istanbul"
+    },
+    {
+        "airportCode": "BAQ",
+        "airportName": "Ernesto Cortissoz International Airport",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "countryCode": "CO",
+        "latitude": 10.88944,
+        "longitude": -74.78056,
+        "timeZone": "America/Bogota"
+    },
+    {
+        "airportCode": "BAR",
+        "airportName": "Qionghai Bo'ao International Airport",
+        "city": "Qionghai",
+        "country": "China",
+        "countryCode": "CN",
+        "latitude": 19.14119,
+        "longitude": 110.45287,
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "airportCode": "BBI",
+        "airportName": "Biju Patnaik International Airport",
+        "city": "Bhubaneswar",
+        "country": "India",
+        "countryCode": "IN",
+        "latitude": 20.24444,
+        "longitude": 85.81778,
+        "timeZone": "Asia/Kolkata"
     },
     {
         "airportCode": "BKK",
