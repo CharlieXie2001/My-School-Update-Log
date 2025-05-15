@@ -40,6 +40,14 @@
     "capitalCity": "Luanda"
   },
   {
+    "countryName": "Anguilla",
+    "countryCode": "AI",
+    "callingCode": "1264",
+    "currencyCode": "XCD",
+    "continentName": "North America",
+    "capitalCity": "The Valley"
+  },
+  {
     "countryName": "Argentina",
     "countryCode": "AR",
     "callingCode": "54",
