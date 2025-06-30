@@ -1146,20 +1146,20 @@
     },
     
     {
-        "version": "1.1.2",
-        "build": "90",
+        "version": "2.0",
+        "build": "100",
         "features": [
+            {
+                "symbol": "26.circle.fill",
+                "description": "Added support for iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, watchOS 26 and tvOS 26."
+            },
             {
                 "symbol": "clock.badge.fill",
                 "description": "Added support for Live Activity, track your current session right from Lock Screen, Dynamic Island and StandBy mode."
             },
             {
-                "symbol": "plus.square.fill",
-                "description": "Add entries to the subject by pressing and holding the subject card."
-            },
-            {
                 "symbol": "heart.text.square.fill",
-                "description": "New Mental Wellbeing supporting and suggestiong feature."
+                "description": "New Mental Wellbeing supporting and suggestion feature."
             },
             {
                 "symbol": "ant.fill",
