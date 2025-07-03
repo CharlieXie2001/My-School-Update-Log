@@ -1154,6 +1154,14 @@
                 "description": "Added support for iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, watchOS 26 and tvOS 26."
             },
             {
+                "symbol": "apple.intelligence",
+                "description": "Powered by Apple Intelligence, My School can now summarise subject, assignment and other entries' descriptions even without internet connection."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "description": "Introducing AI Guide — a built-in assistant that offers smart tips, suggestions, and guidance tailored to your assignments and other entries, powered by Apple Intelligence."
+            },
+            {
                 "symbol": "clock.badge.fill",
                 "description": "Added support for Live Activity, track your current session right from Lock Screen, Dynamic Island and StandBy mode."
             },
