@@ -250,6 +250,10 @@
                 "description": "Added support for Live Activity, track your current session right from Lock Screen, Dynamic Island and StandBy mode."
             },
             {
+                "symbol": "mappin",
+                "description": "Ability to set any location as the school from maps."
+            },
+            {
                 "symbol": "heart.text.square.fill",
                 "description": "New Mental Wellbeing supporting and suggestion feature."
             },
