@@ -238,6 +238,10 @@
                 "description": "Added support for iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, watchOS 26 and tvOS 26."
             },
             {
+                "symbol": "app.grid",
+                "description": "Updated Liquid Glass app icons."
+            },
+            {
                 "symbol": "apple.intelligence",
                 "description": "Powered by Apple Intelligence, My School can now summarise subject, assignment and other entries' descriptions even without internet connection."
             },
