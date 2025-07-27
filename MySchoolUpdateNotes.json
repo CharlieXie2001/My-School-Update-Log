@@ -235,35 +235,47 @@
         "features": [
             {
                 "symbol": "26.circle.fill",
-                "description": "Added support for iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, watchOS 26 and tvOS 26."
+                "description": "Now fully compatible with iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, and tvOS 26."
+            },
+            {
+                "symbol": "app.specular",
+                "description": "Refreshed the user interface with a stunning new Liquid Glass design."
             },
             {
                 "symbol": "app.grid",
-                "description": "Updated Liquid Glass app icons."
+                "description": "Updated app icons to match the new Liquid Glass aesthetic."
             },
             {
                 "symbol": "apple.intelligence",
-                "description": "Powered by Apple Intelligence, My School can now summarise subject, assignment and other entries' descriptions even without internet connection."
+                "description": "Leveraging Apple Intelligence, My School can now summarise subject, assignment, and other entry descriptions — even offline."
             },
             {
                 "symbol": "apple.intelligence",
-                "description": "Introducing AI Guide — a built-in assistant that offers smart tips, suggestions, and guidance tailored to your assignments and other entries, powered by Apple Intelligence."
+                "description": "Introducing AI Guide — a built-in assistant that offers intelligent tips, suggestions, and tailored guidance for your assignments and entries, powered by Apple Intelligence."
             },
             {
                 "symbol": "clock.badge.fill",
-                "description": "Added support for Live Activity, track your current session right from Lock Screen, Dynamic Island and StandBy mode."
+                "description": "Live Activity support added — track your current session directly from the Lock Screen, Dynamic Island, and StandBy mode."
             },
             {
                 "symbol": "mappin",
-                "description": "Ability to set any location as the school from maps."
+                "description": "Set any location as your school directly from the map interface."
+            },
+            {
+                "symbol": "circle.lefthalf.filled",
+                "description": "Customise the colour scheme in the macOS app."
+            },
+            {
+                "symbol": "calendar.day.timeline.left",
+                "description": "Quickly check session status with the new tab bar accessory (iOS & iPadOS only)."
             },
             {
                 "symbol": "heart.text.square.fill",
-                "description": "New Mental Wellbeing supporting and suggestion feature."
+                "description": "New Mental Wellbeing feature offers insights and support suggestions based on your school activity."
             },
             {
                 "symbol": "ant.fill",
-                "description": "Bug fixes."
+                "description": "General performance improvements and bug fixes."
             }
         ]
     }
