@@ -1,28 +1,56 @@
 [
     {
-        "title": "Pyramids of Giza",
-        "summary": "Giza",
-        "wellbeingScore": 2,
-        "category": "EG",
-        "categoryIcon": "text.quote",
+        "title": "The Power of the Pause",
+        "summary": "Feeling drained or emotionally overwhelmed from uni tasks? You're not alone. This story invites you to take a breath, reflect, and reset — not with toxic positivity, but with real, manageable actions you can take today.",
+        "wellbeingScore": -0.5,
+        "category": "Emotional Reset",
+        "categoryIcon": "wind",
         "thumbnailURL": "https://images.unsplash.com/photo-1533162507191-d90c625b2640?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "sections": [
             {
-                "subTitle": "A Testament to Eternity",
+                "subTitle": "A Week That Hit Hard",
                 "paragraphs": [
                     {
-                        "paragraph": "Rising from the sands of the Giza Plateau, the Pyramids of Giza have stood for over 4,500 years as enduring symbols of ancient Egypt's grandeur. Commissioned by Pharaohs Khufu, Khafre, and Menkaure during the Fourth Dynasty, these monumental structures were conceived as eternal resting places, reflecting a civilization's profound beliefs in the afterlife and cosmic order."
+                        "paragraph": "Emma sat staring at her laptop. She wasn’t even sure what the assignment was about anymore — her eyes had been reading the same line for ten minutes. It wasn’t that she was lazy, or disinterested. It was just... everything felt heavy."
                     },
                     {
-                        "paragraph": "Rising from the sands of the Giza Plateau, the Pyramids of Giza have stood for over 4,500 years as enduring symbols of ancient Egypt's grandeur. Commissioned by Pharaohs Khufu, Khafre, and Menkaure during the Fourth Dynasty, these monumental structures were conceived as eternal resting places, reflecting a civilization's profound beliefs in the afterlife and cosmic order."
+                        "paragraph": "Maybe you've felt something similar. The kind of fatigue that doesn’t go away after one night’s sleep. The kind of stress that doesn’t scream, but simmers quietly in the background, day after day."
                     }
                 ]
             },
             {
-                "subTitle": "A Testament to Eternity",
+                "subTitle": "You Are Not a Machine",
                 "paragraphs": [
                     {
-                        "paragraph": "Rising from the sands of the Giza Plateau, the Pyramids of Giza have stood for over 4,500 years as enduring symbols of ancient Egypt's grandeur. Commissioned by Pharaohs Khufu, Khafre, and Menkaure during the Fourth Dynasty, these monumental structures were conceived as eternal resting places, reflecting a civilization's profound beliefs in the afterlife and cosmic order."
+                        "paragraph": "When we're constantly managing deadlines, juggling expectations, and trying not to fall behind, it’s easy to forget that we are not productivity machines."
+                    },
+                    {
+                        "paragraph": "And yet, many of us judge ourselves harshly for needing a pause — even when it’s exactly what our minds and bodies are calling for."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Try This: The Mini-Recharge",
+                "paragraphs": [
+                    {
+                        "paragraph": "You don’t need a full weekend away to reset. Try a 'mini-recharge' — 15–30 minutes just for you. No screens. No to-do lists. Just something gentle."
+                    },
+                    {
+                        "paragraph": "Ideas: take a walk with music that makes you feel safe. Doodle your stress out. Sit outside and do nothing. Or lie on your floor and just breathe."
+                    },
+                    {
+                        "paragraph": "These pauses don’t ‘fix’ everything. But they remind your nervous system that you are not in danger. That you are safe, and that you matter."
+                    }
+                ]
+            },
+            {
+                "subTitle": "A Note from Someone Who's Been There",
+                "paragraphs": [
+                    {
+                        "paragraph": "Burnout doesn’t always look dramatic. Sometimes it looks like silence. Like feeling nothing. Like guilt for not being more productive."
+                    },
+                    {
+                        "paragraph": "But you are not broken. You are responding exactly how any human would, under pressure. You are worthy of care — not just once things are ‘done’, but right now, as you are."
                     }
                 ]
             }
