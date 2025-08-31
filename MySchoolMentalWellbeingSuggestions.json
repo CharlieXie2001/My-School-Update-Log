@@ -187,5 +187,134 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "When Things Feel Sort of Okay (That’s Huge)",
+        "summary": "You’re doing better than you give yourself credit for. This story is a warm nudge to notice the progress, protect your peace, and plant seeds for what’s next — without rushing.",
+        "wellbeingScore": 0.5,
+        "category": "Positive Momentum",
+        "categoryIcon": "sparkles",
+        "thumbnailURL": "https://images.unsplash.com/photo-1632900182533-c8ee9ba229f4?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sections": [
+            {
+                "subTitle": "Small Wins Are Real Wins",
+                "paragraphs": [
+                    {
+                        "paragraph": "If your brain hasn’t been a battlefield lately, take a moment to appreciate that. Peace — even quiet peace — is worth noticing."
+                    },
+                    {
+                        "paragraph": "Maybe you handled a small thing calmly. Maybe you asked for help. Maybe you didn’t spiral when you normally would. That’s not ‘just life’. That’s growth."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Protect What’s Working",
+                "paragraphs": [
+                    {
+                        "paragraph": "When you’re in a better headspace, it’s tempting to overcommit, say yes to everything, or rush to catch up."
+                    },
+                    {
+                        "paragraph": "But protect what’s working. Your peace isn’t accidental — it’s something you’ve earned. Let it last a little longer."
+                    },
+                    {
+                        "paragraph": "Don’t fill every moment. Let some moments stay still."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Try This: Anchor a Good Habit",
+                "paragraphs": [
+                    {
+                        "paragraph": "Use this calmer energy to anchor one small habit you can carry into tougher weeks."
+                    },
+                    {
+                        "paragraph": "Not a 5AM gym plan. Not a new side hustle. Just one kind thing you do for yourself regularly."
+                    },
+                    {
+                        "paragraph": "A five-minute journal. Stretching. Tea at sunset. A no-screen walk. Let it be small. Let it be yours."
+                    }
+                ]
+            },
+            {
+                "subTitle": "This Isn’t the End — It’s the Middle",
+                "paragraphs": [
+                    {
+                        "paragraph": "You don’t need to feel ‘great’ to be doing great."
+                    },
+                    {
+                        "paragraph": "This middle ground — where things feel okay, manageable, even hopeful — this is where real life happens."
+                    },
+                    {
+                        "paragraph": "And guess what? You're already living it. Keep going."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "When Your Soul is Bright, Let it Shine",
+        "summary": "You’re glowing right now — and whether it’s quiet joy or full-blown euphoria, it deserves to be noticed. Here’s a poetic reflection to celebrate your light, and a gentle prompt to carry it forward.",
+        "wellbeingScore": 1.0,
+        "category": "Joyful Momentum",
+        "categoryIcon": "sun.max",
+        "thumbnailURL": "https://images.unsplash.com/photo-1629218569245-7a462fbc1040?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sections": [
+            {
+                "subTitle": "Today, You Are the Sun",
+                "paragraphs": [
+                    {
+                        "paragraph": "Not everything is perfect. But right now, something in you is shining."
+                    },
+                    {
+                        "paragraph": "Maybe it’s peace. Maybe it’s clarity. Maybe it’s the quiet triumph of getting through the storm."
+                    },
+                    {
+                        "paragraph": "Let yourself feel it. Let it be loud. Let it be still. Let it be yours."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Breathe It In",
+                "paragraphs": [
+                    {
+                        "paragraph": "The light doesn’t need to be earned. Joy doesn’t have to be productive."
+                    },
+                    {
+                        "paragraph": "You are allowed to feel good for no reason."
+                    },
+                    {
+                        "paragraph": "So breathe in the moment — no guilt, no rush, no next step."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Anchor the Feeling",
+                "paragraphs": [
+                    {
+                        "paragraph": "Where are you right now? What do you see? What do you hear? Who are you becoming in this moment?"
+                    },
+                    {
+                        "paragraph": "Capture it — not with a photo, but with awareness."
+                    },
+                    {
+                        "paragraph": "The future you will want to remember how this felt."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Pass It On",
+                "paragraphs": [
+                    {
+                        "paragraph": "If you have energy, give someone kindness. If you have clarity, offer someone direction."
+                    },
+                    {
+                        "paragraph": "You’re not responsible for saving the world. But even one drop of light can ripple."
+                    },
+                    {
+                        "paragraph": "Today, you have that drop. Let it fall gently into the world."
+                    }
+                ]
+            }
+        ]
     }
 ]
