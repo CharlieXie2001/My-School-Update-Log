@@ -55,5 +55,59 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Caught in the Middle",
+        "summary": "Not bad. Not amazing. Just... okay. This story is for the in-between days — the ones where you're functioning, but not quite flourishing. Let's explore how small check-ins and moments of joy can make a meaningful difference.",
+        "wellbeingScore": 0.0,
+        "category": "Everyday Balance",
+        "categoryIcon": "leaf",
+        "thumbnailURL": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sections": [
+            {
+                "subTitle": "Neither High Nor Low",
+                "paragraphs": [
+                    {
+                        "paragraph": "Alex didn’t feel sad. Or excited. Or anxious. Or happy. They just felt… fine. The kind of mood where everything’s in grayscale, and you’re not sure whether to push forward or pause."
+                    },
+                    {
+                        "paragraph": "Sometimes, the middle feels confusing. There’s no urgency to 'fix' anything, but also no spark to celebrate. It’s tempting to ignore it — but this space matters too."
+                    }
+                ]
+            },
+            {
+                "subTitle": "The Power of the Check-In",
+                "paragraphs": [
+                    {
+                        "paragraph": "Think of your wellbeing like a battery. At 0%, things shut down. At 100%, you're fully charged. But when you're at 50%, you still need to recharge — just more gently."
+                    },
+                    {
+                        "paragraph": "A quick check-in question can help: 'What do I need right now, if anything?' Even just asking that shows self-awareness and care."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Micro-Moments That Add Up",
+                "paragraphs": [
+                    {
+                        "paragraph": "You don’t need a huge change to feel better. A favourite song. A walk without your phone. A funny video. A stretch. A real conversation."
+                    },
+                    {
+                        "paragraph": "These ‘micro-moments’ don’t solve everything, but they shift your emotional climate — often in under five minutes."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Try This: The 2% Shift",
+                "paragraphs": [
+                    {
+                        "paragraph": "Instead of aiming for a perfect day, what would a 2% better day look like? One extra glass of water? One kind message to a friend?"
+                    },
+                    {
+                        "paragraph": "These shifts compound. And over time, they turn ‘okay’ into ‘good enough’, and then into something even better."
+                    }
+                ]
+            }
+        ]
     }
 ]
