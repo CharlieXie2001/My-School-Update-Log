@@ -1,5 +1,83 @@
 [
     {
+        "title": "If Today Feels Like Too Much...",
+        "summary": "You don’t have to fix everything right now. If your brain feels heavy and your heart feels tired, this one's for you. A soft pause. A small breath. And maybe a smile — if not now, then soon.",
+        "wellbeingScore": -1.0,
+        "category": "Gentle Survival Mode",
+        "categoryIcon": "cloud.heavyrain",
+        "thumbnailURL": "https://images.unsplash.com/photo-1501691223387-dd0500403074?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sections": [
+            {
+                "subTitle": "You Don’t Have to Do Everything",
+                "paragraphs": [
+                    {
+                        "paragraph": "If all you did today was breathe — that was enough."
+                    },
+                    {
+                        "paragraph": "You don’t need to be ‘productive’ to deserve rest."
+                    },
+                    {
+                        "paragraph": "It’s okay if your only win today was brushing your teeth. Or not."
+                    },
+                    {
+                        "paragraph": "You’re not lazy. You’re surviving. That’s not nothing."
+                    }
+                ]
+            },
+            {
+                "subTitle": "A Few Soft Truths",
+                "paragraphs": [
+                    {
+                        "paragraph": "The world will not end if you take a nap."
+                    },
+                    {
+                        "paragraph": "You can cry and still be strong."
+                    },
+                    {
+                        "paragraph": "You can feel broken and still be whole."
+                    },
+                    {
+                        "paragraph": "You're not too much. You're not too little. You're just... human."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Some Light (and Slightly Dumb) Relief",
+                "paragraphs": [
+                    {
+                        "paragraph": "You’ve survived 100% of your bad days so far. That’s a better success rate than most AI startups."
+                    },
+                    {
+                        "paragraph": "If you think you're failing, remember: bananas are technically berries and strawberries aren't. The world makes no sense anyway."
+                    },
+                    {
+                        "paragraph": "Your brain is tired, not broken. Even laptops need to restart sometimes."
+                    },
+                    {
+                        "paragraph": "Consider drinking water. Or becoming water. Both are valid at this point."
+                    }
+                ]
+            },
+            {
+                "subTitle": "No Pressure, Just This",
+                "paragraphs": [
+                    {
+                        "paragraph": "You’re allowed to pause. You’re allowed to not be okay."
+                    },
+                    {
+                        "paragraph": "You’re allowed to feel hopeless and still hope, quietly, that something will shift."
+                    },
+                    {
+                        "paragraph": "You’re allowed to stay. Even when you don’t know why."
+                    },
+                    {
+                        "paragraph": "You matter. Even now. Especially now."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "The Power of the Pause",
         "summary": "Feeling drained or emotionally overwhelmed from uni tasks? You're not alone. This story invites you to take a breath, reflect, and reset — not with toxic positivity, but with real, manageable actions you can take today.",
         "wellbeingScore": -0.5,
