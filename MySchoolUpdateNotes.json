@@ -270,6 +270,10 @@
                 "description": "Quickly check session status with the new tab bar accessory (iOS & iPadOS only)."
             },
             {
+                "symbol": "tv",
+                "description": "Added support for quickly viewing session details on Apple TV."
+            },
+            {
                 "symbol": "heart.text.square.fill",
                 "description": "New Mental Wellbeing feature offers insights and support suggestions based on your school activity."
             },
