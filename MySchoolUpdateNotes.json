@@ -231,7 +231,7 @@
     
     {
         "version": "2.0",
-        "build": "103",
+        "build": "104",
         "features": [
             {
                 "symbol": "26.circle.fill",
@@ -240,6 +240,10 @@
             {
                 "symbol": "app.specular",
                 "description": "Refreshed the user interface with a stunning new Liquid Glass design."
+            },
+            {
+                "symbol": "app.background.dotted",
+                "description": "Dynamic gradient background on the Home tab that changes with the time of day."
             },
             {
                 "symbol": "app.grid",
