@@ -135,6 +135,81 @@
         ]
     },
     {
+        "title": "Come Back to the Moment",
+        "summary": "You’re just a little off. Not bad — just out of rhythm. This short meditation guide invites you to pause, breathe, and settle. Nothing to fix. Just space to be.",
+        "wellbeingScore": -0.1,
+        "category": "Mindful Reset",
+        "categoryIcon": "apple.meditate",
+        "thumbnailURL": "https://images.unsplash.com/photo-1729258345933-e19940bd9e09?q=80&w=1762&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sections": [
+            {
+                "subTitle": "Start Here",
+                "paragraphs": [
+                    {
+                        "paragraph": "Wherever you are right now, pause."
+                    },
+                    {
+                        "paragraph": "Let your shoulders drop. Unclench your jaw. Soften your gaze."
+                    },
+                    {
+                        "paragraph": "You don’t need to sit perfectly. You don’t need silence. Just notice this moment."
+                    }
+                ]
+            },
+            {
+                "subTitle": "The Breath You Already Have",
+                "paragraphs": [
+                    {
+                        "paragraph": "Inhale slowly through your nose. Let the breath reach your belly."
+                    },
+                    {
+                        "paragraph": "Hold for a moment — just long enough to feel full."
+                    },
+                    {
+                        "paragraph": "Exhale gently through your mouth. Feel the tension go with it."
+                    },
+                    {
+                        "paragraph": "Repeat, if it feels good."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Name What’s Here",
+                "paragraphs": [
+                    {
+                        "paragraph": "Without judgment, notice what you're feeling."
+                    },
+                    {
+                        "paragraph": "Maybe it’s tiredness. Maybe it’s boredom. Maybe it’s nothing you can name."
+                    },
+                    {
+                        "paragraph": "Whatever it is — it’s allowed to be here."
+                    },
+                    {
+                        "paragraph": "You are not wrong for feeling it."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Let the Moment Hold You",
+                "paragraphs": [
+                    {
+                        "paragraph": "Come back to the breath. Just one more, if that’s all you have."
+                    },
+                    {
+                        "paragraph": "There’s nothing else you need to do right now."
+                    },
+                    {
+                        "paragraph": "The moment is holding you. Let that be enough."
+                    },
+                    {
+                        "paragraph": "When you’re ready, gently return."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Caught in the Middle",
         "summary": "Not bad. Not amazing. Just... okay. This story is for the in-between days — the ones where you're functioning, but not quite flourishing. Let's explore how small check-ins and moments of joy can make a meaningful difference.",
         "wellbeingScore": 0.0,
