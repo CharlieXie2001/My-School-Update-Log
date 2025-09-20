@@ -286,5 +286,60 @@
                 "description": "General performance improvements and bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "2.0.1",
+        "build": "105",
+        "features": [
+            {
+                "symbol": "26.circle.fill",
+                "description": "Now fully compatible with iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, and tvOS 26."
+            },
+            {
+                "symbol": "app.specular",
+                "description": "Refreshed the user interface with a stunning new Liquid Glass design."
+            },
+            {
+                "symbol": "app.background.dotted",
+                "description": "Dynamic gradient background on the Home tab that changes with the time of day."
+            },
+            {
+                "symbol": "app.grid",
+                "description": "Updated app icons to match the new Liquid Glass aesthetic."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "description": "Leveraging Apple Intelligence, My School can now summarise subject, assignment, and other entry descriptions — even offline."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "description": "Introducing AI Guide — a built-in assistant that offers intelligent tips, suggestions, and tailored guidance for your assignments and entries, powered by Apple Intelligence."
+            },
+            {
+                "symbol": "clock.badge.fill",
+                "description": "Live Activity support added — track your current session directly from the Lock Screen, Dynamic Island, and StandBy mode."
+            },
+            {
+                "symbol": "mappin",
+                "description": "Set any location as your school directly from the map interface."
+            },
+            {
+                "symbol": "circle.lefthalf.filled",
+                "description": "Customise the colour scheme in the macOS app."
+            },
+            {
+                "symbol": "tv",
+                "description": "Added support for quickly viewing session details on Apple TV."
+            },
+            {
+                "symbol": "heart.text.square.fill",
+                "description": "New Mental Wellbeing feature offers insights and support suggestions based on your school activity."
+            },
+            {
+                "symbol": "ant.fill",
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
     }
 ]
