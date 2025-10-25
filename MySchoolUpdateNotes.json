@@ -341,5 +341,16 @@
                 "description": "General performance improvements and bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "2.0.2",
+        "build": "107",
+        "features": [
+            {
+                "symbol": "ant",
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
     }
 ]
