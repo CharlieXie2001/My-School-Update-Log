@@ -352,5 +352,20 @@
                 "description": "General performance improvements and bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "2.1",
+        "build": "111",
+        "features": [
+            {
+                "symbol": "rectangle.on.rectangle.badge.gearshape",
+                "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
+            },
+            {
+                "symbol": "ant",
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
     }
 ]
