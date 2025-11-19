@@ -356,11 +356,19 @@
     
     {
         "version": "2.1",
-        "build": "111",
+        "build": "112",
         "features": [
             {
                 "symbol": "rectangle.on.rectangle.badge.gearshape",
                 "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
+            },
+            {
+                "symbol": "widget.medium",
+                "description": "Introducing refreshed, compact design of the Home Tab showing all the essential information at a glance, with details available in popovers."
+            },
+            {
+                "symbol": "wand.and.sparkles",
+                "description": "Various UI refinements for a cleaner, more consistent experience."
             },
             {
                 "symbol": "ant",
