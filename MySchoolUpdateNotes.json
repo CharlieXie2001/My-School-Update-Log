@@ -367,6 +367,10 @@
                 "description": "Introducing refreshed, compact design of the Home Tab showing all the essential information at a glance, with details available in popovers."
             },
             {
+                "symbol": "pointer.arrow",
+                "description": "Adding more pointer hovering feedbacks for better mouse experience."
+            },
+            {
                 "symbol": "wand.and.sparkles",
                 "description": "Various UI refinements for a cleaner, more consistent experience."
             },
