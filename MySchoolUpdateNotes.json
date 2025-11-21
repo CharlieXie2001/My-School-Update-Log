@@ -356,7 +356,7 @@
     
     {
         "version": "2.1",
-        "build": "113",
+        "build": "114",
         "features": [
             {
                 "symbol": "rectangle.on.rectangle.badge.gearshape",
@@ -365,6 +365,18 @@
             {
                 "symbol": "widget.medium",
                 "description": "Introducing refreshed, compact design of the Home Tab showing all the essential information at a glance, with details available in popovers."
+            },
+            {
+                "symbol": "repeat",
+                "description": "Ability to convert entries to different categories."
+            },
+            {
+                "symbol": "percent",
+                "description": "Now you can add weight to each entry's marks."
+            },
+            {
+                "symbol": "mappin",
+                "description": "You can now add location information to every kinds of entries."
             },
             {
                 "symbol": "pointer.arrow",
