@@ -356,7 +356,7 @@
     
     {
         "version": "2.1",
-        "build": "114",
+        "build": "115",
         "features": [
             {
                 "symbol": "rectangle.on.rectangle.badge.gearshape",
@@ -376,11 +376,11 @@
             },
             {
                 "symbol": "mappin",
-                "description": "You can now add location information to every kinds of entries."
+                "description": "You can now add location information to all kinds of entries."
             },
             {
                 "symbol": "pointer.arrow",
-                "description": "Adding more pointer hovering feedbacks for better mouse experience."
+                "description": "Adding more pointer hovering effects for better mouse experience."
             },
             {
                 "symbol": "wand.and.sparkles",
