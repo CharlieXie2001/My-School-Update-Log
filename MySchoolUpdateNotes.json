@@ -356,11 +356,23 @@
     
     {
         "version": "2.1",
-        "build": "115",
+        "build": "120",
         "features": [
             {
                 "symbol": "rectangle.on.rectangle.badge.gearshape",
                 "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
+            },
+            {
+                "symbol": "gauge.chart.lefthalf.righthalf",
+                "description": "All new Grading System allows you to choose and set preferred grading rule from 6 most used grading systems over the world with more to come in the future."
+            },
+            {
+                "symbol": "square.and.arrow.down.on.square",
+                "description": "Migration Guide helps you upgrade your data to the lated framework."
+            },
+            {
+                "symbol": "sapple.intelligence",
+                "description": "New Apple Intelligence features help you understand your performance even better."
             },
             {
                 "symbol": "widget.medium",
