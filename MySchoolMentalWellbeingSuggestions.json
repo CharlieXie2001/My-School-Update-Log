@@ -1,26 +1,44 @@
 [
     {
-        "title": "If Today Feels Like Too Much...",
-        "summary": "You don’t have to fix everything right now. If your brain feels heavy and your heart feels tired, this one's for you. A soft pause. A small breath. And maybe a smile — if not now, then soon.",
+        "title": "Self-care for mental health and wellbeing",
+        "summary": "Self-care is a key way we protect our mental health and improve our wellbeing. In this article, we explain what exactly self-care is and why it's so beneficial during challenging times. You'll also find easy self-care ideas you can try right now or down the track.",
         "wellbeingScore": -1.0,
-        "category": "Gentle Survival Mode",
-        "categoryIcon": "cloud.heavyrain",
-        "thumbnailURL": "https://images.unsplash.com/photo-1501691223387-dd0500403074?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Stress, Depression, Anxiety",
+        "categoryIcon": "Source: Lifeline Australia — Self-care for mental health and wellbeing",
+        "thumbnailURL": "https://clearbehavioralhealth.com/wp-content/uploads/2021/05/Neuro-Self-Care-and-Mental-Health-Blog-scaled.jpg.webp",
         "sections": [
             {
-                "subTitle": "You Don’t Have to Do Everything",
+                "subTitle": "What is self-care?",
                 "paragraphs": [
                     {
-                        "paragraph": "If all you did today was breathe — that was enough."
+                        "paragraph": "Self-care is the practice of taking care of ourselves so that we can stay physically, mentally, and emotionally well."
                     },
                     {
-                        "paragraph": "You don’t need to be ‘productive’ to deserve rest."
+                        "paragraph": "While we all have different ways of practising self-care, the ultimate goal is to make sure we spend time doing things that:"
                     },
                     {
-                        "paragraph": "It’s okay if your only win today was brushing your teeth. Or not."
+                        "paragraph": "• Make us feel happy and healthy"
                     },
                     {
-                        "paragraph": "You’re not lazy. You’re surviving. That’s not nothing."
+                        "paragraph": "• Lower our risk of disease and illness"
+                    },
+                    {
+                        "paragraph": "• Help us manage stress or cope during challenging times"
+                    },
+                    {
+                        "paragraph": "• Allow us to feel physically and psychologically safe"
+                    },
+                    {
+                        "paragraph": "• Promote strong social connections."
+                    },
+                    {
+                        "paragraph": "Sometimes, self-care activities don’t require much thought - like brushing our teeth or having a coffee with a friend."
+                    },
+                    {
+                        "paragraph": "But other self-activities are more deliberate - like taking time away from technology, journaling our thoughts and feelings, or booking an appointment with a therapist."
+                    },
+                    {
+                        "paragraph": "Ultimately, a self-care activity is something that fills our ‘wellbeing cup’ instead of emptying it."
                     }
                 ]
             },
