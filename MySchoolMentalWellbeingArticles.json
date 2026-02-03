@@ -729,7 +729,7 @@
     {
         "title": "5 steps to mental wellbeing",
         "summary": "Evidence suggests there are 5 steps you can take to improve your mental health and wellbeing. Trying these things could help you feel more positive and able to get the most out of life.",
-        "wellbeingScore": 0.05,
+        "wellbeingScore": 0,
         "category": "Mental Wellbeing",
         "source": "NHS.uk",
         "sourceURL": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/?utm_source=chatgpt.com",
@@ -889,6 +889,317 @@
                     },
                     {
                         "paragraph": "Read more about mindfulness, including steps you can take to be more mindful in your everyday life."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Techniques and Strategies to Deal with Stress",
+        "summary": "While it may seem like there’s nothing you can do about stress in your life, there are healthy steps you can take to destress and regain control.",
+        "wellbeingScore": -0.25,
+        "category": "Stress",
+        "source": "Lawrence Robinson and Melinda Smith, M.A.",
+        "sourceURL": "https://www.helpguide.org/mental-health/stress/stress-management?utm_source=chatgpt.com",
+        "thumbnailURL": "https://media.licdn.com/dms/image/v2/D4D12AQEkFpLHr0EqLw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1683279536218?e=2147483647&v=beta&t=b1WZf8WAhpvKRmpgZdbl55Nbpq7QPfFeA1hcNnkIt8c",
+        "sections": [
+            {
+                "subTitle": "What is stress management?",
+                "paragraphs": [
+                    {
+                        "paragraph": "Stress management involves using various techniques and coping strategies to manage your overall stress levels, improve how you react to stressful things in your life, and build resilience."
+                    },
+                    {
+                        "paragraph": "It may seem like there’s nothing you can do about stress—no way to avoid it and no way to de-stress completely when it hits. The bills won’t stop coming, there will never be more hours in the day, and your work and family responsibilities will always be demanding. But the truth is, you have a lot more control over stress than you may think. In fact, the simple realization that you’re in control of your life is the foundation of stress management."
+                    },
+                    {
+                        "paragraph": "Managing stress is all about taking charge: of your thoughts, emotions, schedule, environment, and the way you deal with problems. The ultimate goal is a balanced life, with time for work, relationships, relaxation, and fun—plus the ability to hold up under pressure and meet challenges head on."
+                    },
+                    {
+                        "paragraph": "But there’s no one-size-fits-all solution to stress management. That’s why it’s important to experiment and find out what works best for you. Whether you’re looking to reduce your overall stress levels, avoid unnecessary stressors in your life, or deal with stress in the moment, the following stress management techniques and strategies can help."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Identify the causes of stress in your life",
+                "paragraphs": [
+                    {
+                        "paragraph": "Stress management starts with identifying the sources of stress in your life. This isn’t as straightforward as it sounds. While it’s easy to identify major stressors such as changing jobs, moving, or going through a divorce, pinpointing the sources of chronic stress can be more complicated."
+                    },
+                    {
+                        "paragraph": "It’s all too easy to overlook how your own thoughts, feelings, and behaviors contribute to your everyday stress levels. Sure, you may know that you’re constantly worried about work deadlines, but maybe it’s your procrastination, rather than the actual job demands, that is causing the stress."
+                    },
+                    {
+                        "paragraph": "To identify what’s really stressing you out, look closely at your habits, attitude, and excuses:"
+                    },
+                    {
+                        "paragraph": "• Do you explain away stress as temporary (“I just have a million things going on right now”) even though you can’t remember the last time you took a breather?"
+                    },
+                    {
+                        "paragraph": "• Do you define stress as an integral part of your work or home life (“Things are always crazy around here”) or as a part of your personality (“I have a lot of nervous energy, that’s all”)?"
+                    },
+                    {
+                        "paragraph": "• Do you blame your stress on other people or outside events, or view it as entirely normal and unexceptional?"
+                    },
+                    {
+                        "paragraph": "Until you accept responsibility for the role you play in creating or maintaining it, your stress level will remain outside your control."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Replace unhealthy coping strategies with healthy ones",
+                "paragraphs": [
+                    {
+                        "paragraph": "Think about the ways you currently manage and cope with stress in your life. Your stress journal can help you identify them. Are your coping strategies healthy or unhealthy? Many of us cope with stress in ways that make us feel better temporarily—but compound the problem in the long run."
+                    },
+                    {
+                        "paragraph": "Unhealthy ways of dealing with stress:"
+                    },
+                    {
+                        "paragraph": "✗ Using alcohol or drugs to relax."
+                    },
+                    {
+                        "paragraph": "✗ Bingeing on junk or comfort food."
+                    },
+                    {
+                        "paragraph": "✗ Zoning out for hours on your phone or TV."
+                    },
+                    {
+                        "paragraph": "✗ Withdrawing from friends, family, and social activities."
+                    },
+                    {
+                        "paragraph": "✗ Sleeping too much."
+                    },
+                    {
+                        "paragraph": "✗ Filling up every minute of the day to avoid facing problems."
+                    },
+                    {
+                        "paragraph": "✗ Taking out your stress on others."
+                    },
+                    {
+                        "paragraph": "✗ Procrastinating."
+                    },
+                    {
+                        "paragraph": "If your methods of coping with stress aren’t contributing to your greater emotional and physical health, it’s time to find healthier ones. No single method works for everyone or in every situation, so experiment with different stress management techniques and strategies. Focus on what makes you feel calm and in control."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Practice the 4 As of stress management",
+                "paragraphs": [
+                    {
+                        "paragraph": "There are many healthy ways to reduce stress or cope with its effects, but they all require change. You can either change the situation or change your reaction. When deciding which option to choose, it’s helpful to think of the four As: avoid, alter, accept, or adapt."
+                    }
+                ]
+            },
+            {
+                "subTitle": "1. Avoid unnecessary stress",
+                "paragraphs": [
+                    {
+                        "paragraph": "Not all stress can be avoided, and it’s not healthy to avoid a situation that needs to be addressed. But you may be surprised by the number of stressors in your life that you can eliminate."
+                    },
+                    {
+                        "paragraph": "Learn how to say “no.” Know your limits and stick to them. Whether in your personal or professional life, taking on more than you can handle is a surefire recipe for stress."
+                    },
+                    {
+                        "paragraph": "Avoid people who stress you out. If someone consistently causes stress in your life, limit the amount of time you spend with that person, or end the relationship."
+                    },
+                    {
+                        "paragraph": "Take control of your environment. If the evening news makes you anxious, turn off the TV. If traffic makes you tense, take a longer but less-traveled route. If going to the market is an unpleasant chore, do your grocery shopping online."
+                    },
+                    {
+                        "paragraph": "Avoid hot-button topics. If you get upset over religion or politics, cross them off your conversation list. If you repeatedly argue about the same subject with the same people, stop bringing it up or excuse yourself when it’s the topic of discussion."
+                    },
+                    {
+                        "paragraph": "Pare down your to-do list. Analyze your schedule, responsibilities, and daily tasks. If you’ve got too much on your plate, distinguish between the “shoulds” and the “musts.” Drop tasks that aren’t truly necessary to the bottom of the list or eliminate them entirely."
+                    }
+                ]
+            },
+            {
+                "subTitle": "2. Alter the situation",
+                "paragraphs": [
+                    {
+                        "paragraph": "If you can’t avoid a stressful situation, try to alter it. Often, this involves changing the way you communicate and operate in your daily life."
+                    },
+                    {
+                        "paragraph": "Express your feelings instead of bottling them up. If something or someone is bothering you, communicate your concerns in an open and respectful way. If you don’t voice your feelings, resentment will build and the stress will increase."
+                    },
+                    {
+                        "paragraph": "Be willing to compromise. When you ask someone to change their behavior, be willing to do the same. If you both are willing to bend at least a little, you’ll have a good chance of finding a happy middle ground."
+                    },
+                    {
+                        "paragraph": "Be more assertive. Don’t take a backseat in your own life. Deal with problems head on, doing your best to anticipate and prevent them. If you’ve got an exam to study for and your chatty roommate just got home, say up front that you only have five minutes to talk."
+                    },
+                    {
+                        "paragraph": "Find balance. All work and no play is a recipe for burnout. Try to find a balance between work and family life, social activities and solitary pursuits, daily responsibilities and downtime."
+                    }
+                ]
+            },
+            {
+                "subTitle": "3. Adapt to the stressor",
+                "paragraphs": [
+                    {
+                        "paragraph": "If you can’t change the stressor, change yourself. You can adapt to stressful situations and regain your sense of control by changing your expectations and attitude."
+                    },
+                    {
+                        "paragraph": "Reframe problems. Try to view stressful situations from a more positive perspective. Rather than fuming about a traffic jam, look at it as an opportunity to pause and regroup, listen to your favorite radio station, or enjoy some alone time."
+                    },
+                    {
+                        "paragraph": "Look at the big picture. Take perspective of the stressful situation. Ask yourself how important it will be in the long run. Will it matter in a month? A year? Is it really worth getting upset over? If the answer is no, focus your time and energy elsewhere."
+                    },
+                    {
+                        "paragraph": "Adjust your standards. Perfectionism is a major source of avoidable stress. Stop setting yourself up for failure by demanding perfection. Set reasonable standards for yourself and others, and learn to be okay with “good enough.”"
+                    },
+                    {
+                        "paragraph": "Practice gratitude. When stress is getting you down, take a moment to reflect on all the things you appreciate in your life, including your own positive qualities and gifts. This simple strategy can help you keep things in perspective."
+                    }
+                ]
+            },
+            {
+                "subTitle": "4. Accept the things you can’t change",
+                "paragraphs": [
+                    {
+                        "paragraph": "Some sources of stress are unavoidable. You can’t prevent or change stressors such as the death of a loved one, a serious illness, or a national recession. In such cases, the best way to cope with stress is to accept things as they are. Acceptance may be difficult, but in the long run, it’s easier than railing against a situation you can’t change."
+                    },
+                    {
+                        "paragraph": "Don’t try to control the uncontrollable. Many things in life are beyond our control, particularly the behavior of other people. Rather than stressing out over them, focus on the things you can control such as the way you choose to react to problems."
+                    },
+                    {
+                        "paragraph": "Look for the upside. When facing major challenges, try to look at them as opportunities for personal growth. If your own poor choices contributed to a stressful situation, reflect on them and learn from your mistakes."
+                    },
+                    {
+                        "paragraph": "Learn to forgive. Accept the fact that we live in an imperfect world and that people make mistakes. Let go of anger and resentments. Free yourself from negative energy by forgiving and moving on."
+                    },
+                    {
+                        "paragraph": "Share your feelings. Expressing what you’re going through can be very cathartic, even if there’s nothing you can do to alter the stressful situation. Talk to a trusted friend or make an appointment with a therapist."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Other stress management techniques",
+                "paragraphs": [
+                    {
+                        "paragraph": "In addition to practicing the 4 As of stress management, there are other techniques and strategies that you can use to better manage stress. We all respond to stress and stress management techniques in different ways, so experiment with the following approaches to find what works best for you."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Technique 1: Move more during your day",
+                "paragraphs": [
+                    {
+                        "paragraph": "When you’re stressed, the last thing you probably feel like doing is getting up and exercising. But physical activity is a huge stress reliever—and you don’t have to be an athlete or spend hours in a gym to experience the benefits. Exercise releases endorphins that make you feel good, and it can also serve as a valuable distraction from your daily worries."
+                    },
+                    {
+                        "paragraph": "While you’ll get the most benefit from regularly exercising for 30 minutes or more, it’s okay to build up your fitness level gradually. Even very small activities can add up over the course of a day. The first step is to get yourself up and moving. Here are some easy ways to incorporate exercise into your daily schedule:"
+                    },
+                    {
+                        "paragraph": "• Put on some music and dance around."
+                    },
+                    {
+                        "paragraph": "• Take your dog for a walk."
+                    },
+                    {
+                        "paragraph": "• Walk or cycle to the grocery store."
+                    },
+                    {
+                        "paragraph": "• Use the stairs at home or work rather than an elevator."
+                    },
+                    {
+                        "paragraph": "• Park your car in the farthest spot in the lot and walk the rest of the way."
+                    },
+                    {
+                        "paragraph": "• Pair up with an exercise partner and encourage each other as you work out."
+                    },
+                    {
+                        "paragraph": "• Play ping-pong or an activity-based video game with your kids."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Technique 2: Better manage your time",
+                "paragraphs": [
+                    {
+                        "paragraph": "Poor time management can cause a lot of stress. When you’re stretched too thin and running behind, it’s hard to stay calm and focused. Plus, you’ll be tempted to avoid or cut back on all the healthy things you should be doing to keep stress in check, like socializing and getting enough sleep. The good news: there are things you can do to achieve a healthier work-life balance."
+                    },
+                    {
+                        "paragraph": "Don’t over-commit yourself. Avoid scheduling things back-to-back or trying to fit too much into one day. All too often, we underestimate how long things will take."
+                    },
+                    {
+                        "paragraph": "Prioritize tasks. Make a list of tasks you have to do, and tackle them in order of importance. Do the high-priority items first. If you have something particularly unpleasant or stressful to do, get it over with early. The rest of your day will be more pleasant as a result."
+                    },
+                    {
+                        "paragraph": "Break projects into small steps. If a large project seems overwhelming, make a step-by-step plan. Focus on one manageable step at a time, rather than taking on everything at once."
+                    },
+                    {
+                        "paragraph": "Delegate responsibility. You don’t have to do it all yourself, whether at home, school, or on the job. If other people can take care of the task, why not let them? Let go of the desire to control or oversee every little step. You’ll be letting go of unnecessary stress in the process."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Technique 3: Reach out and connect to others",
+                "paragraphs": [
+                    {
+                        "paragraph": "There is nothing more calming than spending quality time with another human being who makes you feel safe and understood. In fact, face-to-face interaction triggers a cascade of hormones that counteracts the body’s defensive “fight-or-flight” response. It’s nature’s natural stress reliever (as an added bonus, it also helps stave off depression and anxiety). So make it a point to connect regularly—and in person—with family and friends."
+                    },
+                    {
+                        "paragraph": "Keep in mind that the people you talk to don’t have to be able to fix your stress. They simply need to be good listeners. And try not to let worries about looking weak or being a burden keep you from opening up. The people who care about you will be flattered by your trust. It will only strengthen your bond."
+                    },
+                    {
+                        "paragraph": "Of course, you may not always have someone close by to lean on when you feel overwhelmed by stress, but by building and maintaining a network of close friends you can improve your resiliency to life’s stressors."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Technique 4: Make time for fun and relaxation",
+                "paragraphs": [
+                    {
+                        "paragraph": "Beyond a take-charge approach and a positive attitude, you can reduce stress in your life by carving out “me” time. Don’t get so caught up in the hustle and bustle of life that you forget to take care of your own needs. Nurturing yourself is a necessity, not a luxury. If you regularly make time for fun and relaxation, you’ll be in a better place to handle life’s stressors."
+                    },
+                    {
+                        "paragraph": "Set aside leisure time. Include rest and relaxation in your daily schedule. Don’t allow other obligations to encroach. This is your time to take a break from all responsibilities and recharge your batteries."
+                    },
+                    {
+                        "paragraph": "Do something you enjoy every day. Make time for leisure activities that bring you joy, whether it be stargazing, playing the piano, or working on your bike."
+                    },
+                    {
+                        "paragraph": "Keep your sense of humor. This includes the ability to laugh at yourself. The act of laughing helps your body fight stress in a number of ways."
+                    },
+                    {
+                        "paragraph": "Take up a relaxation practice. Relaxation techniques such as yoga, meditation, and deep breathing activate the body’s relaxation response, a state of restfulness that is the opposite of the fight or flight or mobilization stress response. As you learn and practice these techniques, your stress levels will decrease and your mind and body will become calm and centered."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Technique 5: Maintain balance with a healthy lifestyle",
+                "paragraphs": [
+                    {
+                        "paragraph": "In addition to regular exercise, there are other healthy lifestyle choices that can increase your resistance to stress."
+                    },
+                    {
+                        "paragraph": "Eat a healthy diet. Well-nourished bodies are better prepared to cope with stress, so be mindful of what you eat. Start your day right with breakfast, and keep your energy up and your mind clear with balanced, nutritious meals throughout the day."
+                    },
+                    {
+                        "paragraph": "Reduce caffeine and sugar. The temporary “highs” caffeine and sugar provide often end with a crash in mood and energy. By reducing the amount of coffee, soft drinks, chocolate, and sugar snacks in your diet, you’ll feel more relaxed and you’ll sleep better."
+                    },
+                    {
+                        "paragraph": "Avoid alcohol, cigarettes, and drugs. Self-medicating with alcohol or drugs may provide an easy escape from stress, but the relief is only temporary. Don’t avoid or mask the issue at hand; deal with problems head on and with a clear mind."
+                    },
+                    {
+                        "paragraph": "Get enough sleep. Adequate sleep fuels your mind, as well as your body. Feeling tired will increase your stress because it may cause you to think irrationally."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Strategies for stress management in the moment",
+                "paragraphs": [
+                    {
+                        "paragraph": "When you’re frazzled by your morning commute, stuck in a stressful meeting at work, or fried from another argument with your spouse, you need a way to manage your stress levels right now. That’s where quick stress relief comes in."
+                    },
+                    {
+                        "paragraph": "The fastest way to reduce stress is by taking a deep breath and using your senses—what you see, hear, taste, and touch—or through a soothing movement. By viewing a favorite photo, smelling a specific scent, listening to a favorite piece of music, tasting a piece of gum, or hugging a pet, for example, you can quickly relax and focus yourself."
+                    },
+                    {
+                        "paragraph": "Not everyone responds to each sensory experience in the same way. The key to quick stress relief is to experiment and discover the unique sensory experiences that work best for you."
                     }
                 ]
             }
