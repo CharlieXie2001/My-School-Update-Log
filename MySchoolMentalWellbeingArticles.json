@@ -725,5 +725,173 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "5 steps to mental wellbeing",
+        "summary": "Evidence suggests there are 5 steps you can take to improve your mental health and wellbeing. Trying these things could help you feel more positive and able to get the most out of life.",
+        "wellbeingScore": 0.05,
+        "category": "Mental Wellbeing",
+        "source": "NHS.uk",
+        "sourceURL": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/?utm_source=chatgpt.com",
+        "thumbnailURL": "https://www.centralwestmedicalcentre.com.au/wp-content/uploads/2023/07/Mental-wellness-month.png",
+        "sections": [
+            {
+                "subTitle": "1. Connect with other people",
+                "paragraphs": [
+                    {
+                        "paragraph": "Good relationships are important for your mental wellbeing. They can:"
+                    },
+                    {
+                        "paragraph": "• help you to build a sense of belonging and self-worth"
+                    },
+                    {
+                        "paragraph": "• give you an opportunity to share positive experiences"
+                    },
+                    {
+                        "paragraph": "• provide emotional support and allow you to support others"
+                    },
+                    {
+                        "paragraph": "There are lots of things you could try to help build stronger and closer relationships:"
+                    },
+                    {
+                        "paragraph": "✓ if possible, take time each day to be with your family, for example, try arranging a fixed time to eat dinner together"
+                    },
+                    {
+                        "paragraph": "✓ arrange a day out with friends you have not seen for a while"
+                    },
+                    {
+                        "paragraph": "✓ try switching off the TV to talk or play a game with your children, friends or family"
+                    },
+                    {
+                        "paragraph": "✓ have lunch with a colleague"
+                    },
+                    {
+                        "paragraph": "✓ visit a friend or family member who needs support or company"
+                    },
+                    {
+                        "paragraph": "✓ volunteer at a local school, hospital or community group"
+                    },
+                    {
+                        "paragraph": "✓ make the most of technology to stay in touch with friends and family. Video-chat apps like Skype and FaceTime are useful, especially if you live far apart"
+                    },
+                    {
+                        "paragraph": "✗ do not rely on technology or social media alone to build relationships. It's easy to get into the habit of only ever texting, messaging or emailing people"
+                    }
+                ]
+            },
+            {
+                "subTitle": "2. Be physically active",
+                "paragraphs": [
+                    {
+                        "paragraph": "Being active is not only great for your physical health and fitness. Evidence also shows it can also improve your mental wellbeing by:"
+                    },
+                    {
+                        "paragraph": "• raising your self-esteem"
+                    },
+                    {
+                        "paragraph": "• helping you to set goals or challenges and achieve them"
+                    },
+                    {
+                        "paragraph": "• causing chemical changes in your brain which can help to positively change your mood"
+                    },
+                    {
+                        "paragraph": "✗ do not feel you have to spend hours in a gym. It's best to find activities you enjoy and make them a part of your life"
+                    }
+                ]
+            },
+            {
+                "subTitle": "3. Learn new skills",
+                "paragraphs": [
+                    {
+                        "paragraph": "Research shows that learning new skills can also improve your mental wellbeing by:"
+                    },
+                    {
+                        "paragraph": "• boosting self-confidence and raising self-esteem"
+                    },
+                    {
+                        "paragraph": "• helping you to build a sense of purpose"
+                    },
+                    {
+                        "paragraph": "• helping you to connect with others"
+                    },
+                    {
+                        "paragraph": "Even if you feel like you do not have enough time, or you may not need to learn new things, there are lots of different ways to bring learning into your life."
+                    },
+                    {
+                        "paragraph": "Some of the things you could try include:"
+                    },
+                    {
+                        "paragraph": "✓ try learning to cook something new. Find out about eating a healthy, balanced diet"
+                    },
+                    {
+                        "paragraph": "✓ try taking on a new responsibility at work, such as mentoring a junior staff member or improving your presentation skills"
+                    },
+                    {
+                        "paragraph": "✓ work on a DIY project, such as fixing a broken bike, garden gate or something bigger. There are lots of free video tutorials online"
+                    },
+                    {
+                        "paragraph": "✓ consider signing up for a course at a local college. You could try learning a new language or a practical skill such as plumbing"
+                    },
+                    {
+                        "paragraph": "✓ try new hobbies that challenge you, such as writing a blog, taking up a new sport or learning to paint"
+                    },
+                    {
+                        "paragraph": "✗ do not feel you have to learn new qualifications or sit exams if this does not interest you. It's best to find activities you enjoy and make them a part of your life"
+                    }
+                ]
+            },
+            {
+                "subTitle": "4. Give to others",
+                "paragraphs": [
+                    {
+                        "paragraph": "Research suggests that acts of giving and kindness can help improve your mental wellbeing by:"
+                    },
+                    {
+                        "paragraph": "• creating positive feelings and a sense of reward"
+                    },
+                    {
+                        "paragraph": "• giving you a feeling of purpose and self-worth"
+                    },
+                    {
+                        "paragraph": "• helping you connect with other people"
+                    },
+                    {
+                        "paragraph": "It could be small acts of kindness towards other people, or larger ones like volunteering in your local community."
+                    },
+                    {
+                        "paragraph": "Some examples of the things you could try include:"
+                    },
+                    {
+                        "paragraph": "• saying thank you to someone for something they have done for you"
+                    },
+                    {
+                        "paragraph": "• asking friends, family or colleagues how they are and really listening to their answer"
+                    },
+                    {
+                        "paragraph": "• spending time with friends or relatives who need support or company"
+                    },
+                    {
+                        "paragraph": "• offering to help someone you know with DIY or a work project"
+                    },
+                    {
+                        "paragraph": "• volunteering in your community, such as helping at a school, hospital or care home"
+                    }
+                ]
+            },
+            {
+                "subTitle": "5. Pay attention to the present moment (mindfulness)",
+                "paragraphs": [
+                    {
+                        "paragraph": "Paying more attention to the present moment can improve your mental wellbeing. This includes your thoughts and feelings, your body and the world around you."
+                    },
+                    {
+                        "paragraph": "Some people call this awareness 'mindfulness'. Mindfulness can help you enjoy life more and understand yourself better. It can positively change the way you feel about life and how you approach challenges."
+                    },
+                    {
+                        "paragraph": "Read more about mindfulness, including steps you can take to be more mindful in your everyday life."
+                    }
+                ]
+            }
+        ]
     }
 ]
