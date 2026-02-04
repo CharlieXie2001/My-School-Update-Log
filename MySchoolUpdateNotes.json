@@ -375,8 +375,20 @@
                 "description": "New Apple Intelligence features help you understand your performance even better."
             },
             {
+                "symbol": "apple.intelligence",
+                "description": "Apple Intelligence powered mental wellbeing suggestions make reflection easier like never before."
+            },
+            {
+                "symbol": "heart.text.square",
+                "description": "Redesigned Wellbeing tab makes it a better wellness center for recarding and discovering."
+            },
+            {
                 "symbol": "widget.medium",
                 "description": "Introducing refreshed, compact design of the Home Tab Top Bar showing all the essential information at a glance, with details available in popovers."
+            },
+            {
+                "symbol": "magnifyingglass",
+                "description": "More advanced search function allows you search subjects and entries via Spotlight right from home screen. With updated in-app search function, you can now easily find entries or subjects by search wider range of keywords."
             },
             {
                 "symbol": "repeat",
