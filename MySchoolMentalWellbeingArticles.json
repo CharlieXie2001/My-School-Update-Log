@@ -2045,5 +2045,96 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Tips to Improve Your Emotional Well-Being",
+        "summary": "Many of us know we should take breaks throughout the day, but we often don’t. We may find it hard because of work or caring for others. Even taking 10 to15 minutes is enough to reduce stress. Commit to taking 10 to 15 minutes today to do something for yourself. Here are some ideas to get started: ",
+        "wellbeingScore": -0.1,
+        "category": ["mentalHealth"],
+        "source": "CDC",
+        "sourceURL": "https://www.cdc.gov/howrightnow/wellbeing/index.html?utm_source=chatgpt.com",
+        "thumbnailURL": "https://nowserving.ph/blog/wp-content/uploads/2023/12/mental-health-950x500.jpg",
+        "sections": [
+            {
+                "subTitle": "Get outside",
+                "paragraphs": [
+                    {
+                        "paragraph": "Take a nature walk or city hike."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Be active",
+                "paragraphs": [
+                    {
+                        "paragraph": "Take a dance break! Lift weights. Do push-ups or sit-ups. Or kick around a ball for a few minutes. Channel your energy into a quick cleaning of your home."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Practice relaxation techniques",
+                "paragraphs": [
+                    {
+                        "paragraph": "Wash your face or rinse your hands in cool water to reduce tension and calm nerves. Close your eyes, take deep breaths, stretch, do yoga, or meditate."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Embrace self-care",
+                "paragraphs": [
+                    {
+                        "paragraph": "Make and enjoy a cup of tea and relax in a comfortable place. Curl up with a book or magazine."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Check in with yourself",
+                "paragraphs": [
+                    {
+                        "paragraph": "Take time to ask yourself how you are feeling."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Practice gratitude",
+                "paragraphs": [
+                    {
+                        "paragraph": "Write three things you are grateful for. Tell someone you appreciate them."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Laugh!",
+                "paragraphs": [
+                    {
+                        "paragraph": "Think of someone who makes you laugh or the last time you laughed so hard you cried. Watch or listen to something fun."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Consider a new hobby",
+                "paragraphs": [
+                    {
+                        "paragraph": "Try playing a musical instrument, gardening, following a new recipe, working on a crossword puzzle, building something new in the workshop, or knitting."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Find an inspiring song or quote",
+                "paragraphs": [
+                    {
+                        "paragraph": "Write it down (or screenshot it) so you have it nearby."
+                    }
+                ]
+            },
+            {
+                "subTitle": "Maintain or build your social network",
+                "paragraphs": [
+                    {
+                        "paragraph": "Check in with a friend, family member, or neighbor."
+                    }
+                ]
+            }
+        ]
     }
 ]
