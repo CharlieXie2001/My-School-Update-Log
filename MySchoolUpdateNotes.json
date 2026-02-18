@@ -395,6 +395,14 @@
                 "description": "Ability to convert entries to different categories."
             },
             {
+                "symbol": "globe",
+                "description": "New laguages have been added. My School now is in English, Chinese, French, German, Hindi, Italian, Japanese, Korean and Spanish."
+            },
+            {
+                "symbol": "chart.line.text.clipboard",
+                "description": "WAM calculator is added to your performance report."
+            },
+            {
                 "symbol": "siri",
                 "description": "Added Siri Shortcuts, now you can ask Siri about your next assignment, exam, and more."
             },
