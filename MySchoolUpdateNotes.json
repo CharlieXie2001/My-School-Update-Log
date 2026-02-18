@@ -395,6 +395,14 @@
                 "description": "Ability to convert entries to different categories."
             },
             {
+                "symbol": "siri",
+                "description": "Added Siri Shortcuts, now you can ask Siri about your next assignment, exam, and more."
+            },
+            {
+                "symbol": "bell",
+                "description": "Tapping on notifications now directs you to the detail page."
+            },
+            {
                 "symbol": "percent",
                 "description": "Now you can add weight to each entry's marks."
             },
