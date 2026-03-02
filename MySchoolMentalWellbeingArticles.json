@@ -2136,5 +2136,124 @@
                 ]
             }
         ]
+    },
+    {
+  "title": "Good mental health",
+  "summary": "This article explains what good mental health means beyond just the absence of mental illness — it's a state of wellbeing where you feel good and function well. It covers practical strategies for developing and maintaining good mental health, including building resilience, adopting healthy routines, meaningful activities, social connection, and healthy thinking. It also highlights when and how to seek professional support.",
+  "wellbeingScore": -0.2,
+  "category": ["mentalHealth", "selfCare", "mindfulness", "stress"],
+  "source": "Healthdirect Australia",
+  "sourceURL": "https://www.healthdirect.gov.au/good-mental-health",
+  "thumbnailURL": "https://beaconforce.com/wp-content/uploads/2022/10/promuovere-la-salute-mentale-e-il-benessere-sul-luogo-di-lavoro.webp",
+  "sections": [
+    {
+      "subTitle": "What is good mental health?",
+      "paragraphs": [
+        {
+          "paragraph": "Good mental health is more than just the absence of mental illness. It means you are in a state of wellbeing where you feel good and function well in the world."
+        },
+        {
+          "paragraph": "According to the World Health Organization, good mental health is when you can: cope with the normal stresses of life, learn and work productively, use your talents and abilities, and contribute to your community."
+        },
+        {
+          "paragraph": "If you have good mental health, you might feel: happy most of the time, confident, hopeful, at peace, generally satisfied with life, connected to other people, and a sense of meaning or purpose. You might also feel able to contribute to society."
+        },
+        {
+          "paragraph": "However, even people with good mental health feel uncomfortable feelings sometimes, like sadness, anxiety, fear, guilt, disappointment, and grief or loss. Having good mental health helps you to experience these feelings without feeling overwhelmed by them and bounce back afterwards."
+        },
+        {
+          "paragraph": "Everyone has different challenges in life. People who have good mental health are more likely to be able to cope with the ups and downs of their daily life."
+        }
+      ]
+    },
+    {
+      "subTitle": "How can I develop good mental health?",
+      "paragraphs": [
+        {
+          "paragraph": "You are more likely to maintain good mental health if you can: ride the wave of feelings when you come across new situations or stresses without becoming overwhelmed, allow yourself to feel difficult feelings that come with challenging times — this is called 'sitting with your feelings', feel mostly optimistic, avoid blaming yourself irrationally, seek out and keep good relationships, set and achieve your goals, stick to routines that are good for you, such as eating and sleeping well, and see the joy in life even though you've had difficult experiences."
+        },
+        {
+          "paragraph": "Things that impact your mental health are often not your fault. Sometimes, you may not be in control of your mental health. It can be affected by things like accidents or the actions of others, like bullying, emotional abuse, and domestic violence. Your mental health may also be influenced by your genetics."
+        },
+        {
+          "paragraph": "While you can't control most things that happen in life, you often have a choice about how you respond and cope. You can do this by building resilience, and by taking care of yourself. This can support your mental health, and help you feel in control of your life."
+        }
+      ]
+    },
+    {
+      "subTitle": "Building resilience",
+      "paragraphs": [
+        {
+          "paragraph": "An important part of having good mental health is building resilience. This is when you can cope with unexpected challenges in your life by using your inner strength and the networks around you. Resilience allows you to 'bounce back' or cope with difficult things without it significantly affecting your day-to-day life."
+        },
+        {
+          "paragraph": "Resilient people manage stress better. This means you are less likely to develop mental health problems such as depression and anxiety."
+        },
+        {
+          "paragraph": "You can learn coping skills to build resilience. Techniques like mindfulness can help you accept and manage difficult feelings."
+        },
+        {
+          "paragraph": "Exercise can help reduce the stress in your body by 'letting it go'. This helps build and strengthen inner coping skills."
+        }
+      ]
+    },
+    {
+      "subTitle": "Taking care of yourself",
+      "paragraphs": [
+        {
+          "paragraph": "It's important to take care of yourself. Research conducted by MindSpot has shown that people who regularly do 'the Big 5' tend to have better mental health than people who don't. The more often you do these actions, the better your mental health may be."
+        },
+        {
+          "paragraph": "1. Meaningful activities: These are any actions that you enjoy or give you a sense of pleasure, play or accomplishment. A meaningful activity may be dancing to music you like or watching a favourite TV show."
+        },
+        {
+          "paragraph": "2. Healthy thinking: When we are struggling, it is easy to criticise and blame yourself. This is not helpful or healthy. It's important to keep an open perspective and talk to yourself with kindness. This is called compassionate self-talk. Sometimes your thoughts are true, but often there is an element that isn't (e.g. a sense of personal guilt attached)."
+        },
+        {
+          "paragraph": "3. Goals and plans: Having realistic goals is important to keep you energised and motivated. Goals give you something to look forward to and can help to prevent dwelling on past problems."
+        },
+        {
+          "paragraph": "4. Healthy routine: Keeping a healthy routine doesn't need to be complicated. It can be as simple as going to bed and waking up at the same time every day. A good routine might also include other healthy habits like eating healthily and spending less time on devices. Use the 80/20 rule — if you eat well 80% of the time, it's okay to treat yourself now and then."
+        },
+        {
+          "paragraph": "5. Social connections: Staying connected to friends and family who support you helps you to: feel validated and safe, be reminded that you belong, and have healthy distractions from challenging things."
+        }
+      ]
+    },
+    {
+      "subTitle": "Seeking help",
+      "paragraphs": [
+        {
+          "paragraph": "You may find yourself struggling to: feel happy or content a lot of the time, take care of yourself, cope with everyday life, find meaning, or feel connected to others. If so, speak to your doctor. They can give you advice or refer you to a mental health professional for more help if needed."
+        }
+      ]
+    },
+    {
+      "subTitle": "Resources and support",
+      "paragraphs": [
+        {
+          "paragraph": "There are many different organisations available to support good mental health. Support and information may be available in person, online and by telephone."
+        },
+        {
+          "paragraph": "Visit Beyond Blue or call 1300 22 4636 for counselling and support. They also have resources to help you learn about mental health and maintain good mental health."
+        },
+        {
+          "paragraph": "Check out Black Dog Institute for a variety of digital tools and apps to help improve mental health."
+        },
+        {
+          "paragraph": "You can visit MindSpot for more tips on good mental health."
+        },
+        {
+          "paragraph": "For advice and to get connected to local mental health services, you can call Medicare Mental Health on 1800 595 212."
+        },
+        {
+          "paragraph": "For children and young people: Find your local headspace centre, contact headspace or call 1800 650 890 for support and counselling for young people. For more information about building resilience, you can visit the Kids Helpline. Try ReachOut for mental health information for young people and parents."
+        },
+        {
+          "paragraph": "For Aboriginal and/or Torres Strait Islander peoples: Fact sheets on mental health and wellbeing are available through 13YARN. You can also call the 24/7 crisis support line on 13 92 76. You can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week."
+        }
+      ]
     }
+  ]
+}
 ]
