@@ -407,8 +407,12 @@
                 "description": "Added Siri Shortcuts, now you can ask Siri about your next assignment, exam, and more."
             },
             {
+                "symbol": "widget.small",
+                "description": "View upcoming entries right from your home screen with widgets."
+            },
+            {
                 "symbol": "bell",
-                "description": "Tapping on notifications now directs you to the detail page."
+                "description": "Now all your notifications sync across all your devices and tapping on notifications now directs you to the detail page."
             },
             {
                 "symbol": "percent",
@@ -433,6 +437,14 @@
             {
                 "symbol": "pointer.arrow",
                 "description": "Adding more pointer hovering effects for better mouse experience."
+            },
+            {
+                "symbol": "medical.thermometer",
+                "description": "Ability to set preferred temperature unit for weather conditions."
+            },
+            {
+                "symbol": "translate",
+                "description": "You can now translate Wellbeing articles to your preferred language."
             },
             {
                 "symbol": "wand.and.sparkles",
