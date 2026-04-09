@@ -1,0 +1,40 @@
+[
+    {
+        "version": "2.1",
+        "description": "My School 2.1 is a major refinement update focused on clarity, smarter insights, and better cross-device integration.",
+        "build": [
+            {
+                "deviceType": "iphone",
+                "": "125"
+            },
+            {
+                "deviceType": "ipad",
+                "buildNumber": "125"
+            },
+            {
+                "deviceType": "mac",
+                "buildNumber": "126"
+            },
+            {
+                "deviceType": "appleVision",
+                "buildNumber": "127"
+            }
+        ],
+        "features": [
+            {
+                "symbol": "rectangle.on.rectangle.badge.gearshape",
+                "device": [
+                    "iphone", "ipad", "mac", "tv", "appleVision"
+                ],
+                "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
+            },
+            {
+                "symbol": "ant",
+                "device": [
+                    "iphone", "ipad", "mac", "tv", "appleVision"
+                ],
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
+    }
+]
