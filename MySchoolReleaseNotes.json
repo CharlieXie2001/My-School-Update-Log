@@ -5,7 +5,7 @@
         "build": [
             {
                 "deviceType": "iphone",
-                "": "125"
+                "buildNumber": "125"
             },
             {
                 "deviceType": "ipad",
