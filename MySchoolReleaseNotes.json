@@ -1,6 +1,7 @@
 [
     {
         "version": "2.1",
+        "appIcon": "DefaultAppIcon",
         "description": "My School 2.1 is a major refinement update focused on clarity, smarter insights, and better cross-device integration.",
         "build": [
             {
