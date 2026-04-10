@@ -1,5 +1,46 @@
 [
     {
+        "version": "2.0.2",
+        "appIcon": "DefaultAppIcon",
+        "description": "This update has important bug fixes and performance improvements.",
+        "build": [
+            {
+                "deviceType": "iphone",
+                "buildNumber": "109"
+            },
+            {
+                "deviceType": "ipad",
+                "buildNumber": "109"
+            },
+            {
+                "deviceType": "mac",
+                "buildNumber": "109"
+            },
+            {
+                "deviceType": "appleVision",
+                "buildNumber": "109"
+            },
+            {
+                "deviceType": "tv",
+                "buildNumber": "109"
+            },
+            {
+                "deviceType": "applewatch",
+                "buildNumber": "109"
+            }
+        ],
+        "features": [
+            {
+                "symbol": "ant",
+                "device": [
+                    "iphone", "ipad", "applewatch", "mac", "appleVision", "tv"
+                ],
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
+    },
+    
+    {
         "version": "2.1",
         "appIcon": "DefaultAppIcon",
         "description": "My School 2.1 is a major refinement update focused on clarity, smarter insights, and better cross-device integration.",
@@ -28,6 +69,13 @@
                     "iphone", "ipad", "mac", "tv", "appleVision"
                 ],
                 "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
+            },
+            {
+                "symbol": "gauge.chart.lefthalf.righthalf",
+                "device": [
+                    "iphone", "ipad", "mac", "tv", "appleVision"
+                ],
+                "description": "All new Grading System allows you to choose and set preferred grading rule from 6 most used grading systems over the world with more to come in the future."
             },
             {
                 "symbol": "ant",
