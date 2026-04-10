@@ -25,7 +25,7 @@
                 "buildNumber": "109"
             },
             {
-                "deviceType": "applewatch",
+                "deviceType": "watch",
                 "buildNumber": "109"
             }
         ],
@@ -33,7 +33,7 @@
             {
                 "symbol": "ant",
                 "device": [
-                    "iphone", "ipad", "applewatch", "mac", "appleVision", "tv"
+                    "iphone", "ipad", "watch", "mac", "appleVision", "tv"
                 ],
                 "description": "General performance improvements and bug fixes."
             }
