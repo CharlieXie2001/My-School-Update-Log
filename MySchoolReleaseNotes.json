@@ -1,87 +1,251 @@
 [
     {
-        "version": "2.0.2",
+        "version": "2.0",
         "appIcon": "DefaultAppIcon",
-        "description": "This update has important bug fixes and performance improvements.",
+        "description": "My School 2.0 brings full compatibility with Apple's latest operating systems, a stunning Liquid Glass redesign, and powerful new Apple Intelligence features.",
         "build": [
-            {
-                "deviceType": "iphone",
-                "buildNumber": "109"
-            },
-            {
-                "deviceType": "ipad",
-                "buildNumber": "109"
-            },
-            {
-                "deviceType": "mac",
-                "buildNumber": "109"
-            },
-            {
-                "deviceType": "appleVision",
-                "buildNumber": "109"
-            },
-            {
-                "deviceType": "tv",
-                "buildNumber": "109"
-            },
-            {
-                "deviceType": "watch",
-                "buildNumber": "109"
-            }
+            { "deviceType": "iphone",      "buildNumber": "104" },
+            { "deviceType": "ipad",        "buildNumber": "104" },
+            { "deviceType": "mac",         "buildNumber": "104" },
+            { "deviceType": "appleVision", "buildNumber": "104" },
+            { "deviceType": "tv",          "buildNumber": "104" },
+            { "deviceType": "watch",       "buildNumber": "104" }
         ],
         "features": [
             {
-                "symbol": "ant",
-                "device": [
-                    "iphone", "ipad", "watch", "mac", "appleVision", "tv"
-                ],
+                "symbol": "26.circle.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "Now fully compatible with iOS 26, iPadOS 26, watchOS 26, visionOS 26, macOS 26, and tvOS 26."
+            },
+            {
+                "symbol": "app.specular",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "Refreshed the user interface with a stunning new Liquid Glass design."
+            },
+            {
+                "symbol": "app.background.dotted",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Dynamic gradient background on the Home tab that changes with the time of day."
+            },
+            {
+                "symbol": "app.grid",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "Updated app icons to match the new Liquid Glass aesthetic."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Leveraging Apple Intelligence, My School can now summarise subject, assignment, and other entry descriptions — even offline."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Introducing AI Guide — a built-in assistant that offers intelligent tips, suggestions, and tailored guidance for your assignments and entries, powered by Apple Intelligence."
+            },
+            {
+                "symbol": "clock.badge.fill",
+                "device": ["iphone", "ipad"],
+                "description": "Live Activity support added — track your current session directly from the Lock Screen, Dynamic Island, and StandBy mode."
+            },
+            {
+                "symbol": "mappin",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Set any location as your school directly from the map interface."
+            },
+            {
+                "symbol": "circle.lefthalf.filled",
+                "device": ["mac"],
+                "description": "Customise the colour scheme in the macOS app."
+            },
+            {
+                "symbol": "tv",
+                "device": ["tv"],
+                "description": "Added support for quickly viewing session details on Apple TV."
+            },
+            {
+                "symbol": "heart.text.square.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision", "tv"],
+                "description": "New Mental Wellbeing feature offers insights and support suggestions based on your school activity."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
                 "description": "General performance improvements and bug fixes."
             }
         ]
     },
-    
+
+    {
+        "version": "2.0.1",
+        "appIcon": "DefaultAppIcon",
+        "description": "This update contains important bug fixes and performance improvements.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "105" },
+            { "deviceType": "ipad",        "buildNumber": "105" },
+            { "deviceType": "mac",         "buildNumber": "105" },
+            { "deviceType": "appleVision", "buildNumber": "105" },
+            { "deviceType": "tv",          "buildNumber": "105" },
+            { "deviceType": "watch",       "buildNumber": "105" }
+        ],
+        "features": [
+            {
+                "symbol": "ant",
+                "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
+    },
+
+    {
+        "version": "2.0.2",
+        "appIcon": "DefaultAppIcon",
+        "description": "This update contains important bug fixes and performance improvements.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "109" },
+            { "deviceType": "ipad",        "buildNumber": "109" },
+            { "deviceType": "mac",         "buildNumber": "109" },
+            { "deviceType": "appleVision", "buildNumber": "109" },
+            { "deviceType": "tv",          "buildNumber": "109" },
+            { "deviceType": "watch",       "buildNumber": "109" }
+        ],
+        "features": [
+            {
+                "symbol": "ant",
+                "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
+    },
+
     {
         "version": "2.1",
         "appIcon": "DefaultAppIcon",
         "description": "My School 2.1 is a major refinement update focused on clarity, smarter insights, and better cross-device integration.",
         "build": [
-            {
-                "deviceType": "iphone",
-                "buildNumber": "125"
-            },
-            {
-                "deviceType": "ipad",
-                "buildNumber": "125"
-            },
-            {
-                "deviceType": "mac",
-                "buildNumber": "126"
-            },
-            {
-                "deviceType": "appleVision",
-                "buildNumber": "127"
-            }
+            { "deviceType": "iphone",      "buildNumber": "125" },
+            { "deviceType": "ipad",        "buildNumber": "125" },
+            { "deviceType": "mac",         "buildNumber": "126" },
+            { "deviceType": "appleVision", "buildNumber": "127" }
         ],
         "features": [
             {
                 "symbol": "rectangle.on.rectangle.badge.gearshape",
-                "device": [
-                    "iphone", "ipad", "mac", "tv", "appleVision"
-                ],
+                "device": ["iphone", "ipad", "mac", "tv", "appleVision"],
                 "description": "The Settings Page has been redesigned to have a clearer and more consistent appearance across all platforms."
             },
             {
                 "symbol": "gauge.chart.lefthalf.righthalf",
-                "device": [
-                    "iphone", "ipad", "mac", "tv", "appleVision"
-                ],
+                "device": ["iphone", "ipad", "mac", "tv", "appleVision"],
                 "description": "All new Grading System allows you to choose and set preferred grading rule from 6 most used grading systems around the world with more to come in the future."
             },
             {
+                "symbol": "square.and.arrow.down.on.square",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Migration Guide helps you upgrade your data to the latest framework."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "New Apple Intelligence features help you understand your performance even better."
+            },
+            {
+                "symbol": "apple.intelligence",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Apple Intelligence powered mental wellbeing suggestions make reflection easier like never before."
+            },
+            {
+                "symbol": "heart.text.square",
+                "device": ["iphone", "ipad", "mac", "appleVision", "tv"],
+                "description": "Redesigned Wellbeing tab makes it a better wellness center for recording and discovering."
+            },
+            {
+                "symbol": "widget.medium",
+                "device": ["iphone", "ipad", "mac", "appleVision", "watch"],
+                "description": "Introducing refreshed, compact design of the Home Tab Top Bar showing all the essential information at a glance, with details available in popovers."
+            },
+            {
+                "symbol": "magnifyingglass",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "More advanced search function allows you to search subjects and entries via Spotlight right from the home screen. With the updated in-app search function, you can now easily find entries or subjects by searching a wider range of keywords."
+            },
+            {
+                "symbol": "repeat",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Ability to convert entries to different categories."
+            },
+            {
+                "symbol": "globe",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "New languages have been added. My School is now available in English, Chinese, French, German, Hindi, Italian, Japanese, Korean, and Spanish."
+            },
+            {
+                "symbol": "chart.line.text.clipboard",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "WAM calculator is added to your performance report."
+            },
+            {
+                "symbol": "siri",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Added Siri Shortcuts — now you can ask Siri about your next assignment, exam, and more."
+            },
+            {
+                "symbol": "widget.small",
+                "device": ["iphone", "ipad", "mac", "appleVision", "watch"],
+                "description": "View upcoming entries right from your home screen, watch face or space with widgets."
+            },
+            {
+                "symbol": "bell",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision"],
+                "description": "All your notifications now sync across all your devices, and tapping on a notification directs you to the detail page."
+            },
+            {
+                "symbol": "percent",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Now you can add weight to each entry's marks."
+            },
+            {
+                "symbol": "link.badge.plus",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "You can now add location information, attachments, and more to all kinds of entries."
+            },
+            {
+                "symbol": "macwindow.and.pointer.arrow",
+                "device": ["ipad"],
+                "description": "Support for the new windowing system on iPadOS 26."
+            },
+            {
+                "symbol": "person.icloud",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "Your personal profile now syncs across devices via iCloud."
+            },
+            {
+                "symbol": "app.background.dotted",
+                "device": ["iphone", "ipad", "mac", "appleVision", "tv"],
+                "description": "More and refreshed Home Tab backgrounds."
+            },
+            {
+                "symbol": "pointer.arrow",
+                "device": ["ipad", "mac"],
+                "description": "Added more pointer hovering effects for a better mouse and trackpad experience."
+            },
+            {
+                "symbol": "medical.thermometer",
+                "device": ["iphone", "ipad", "mac", "appleVision", "tv", "watch"],
+                "description": "Ability to set your preferred temperature unit for weather conditions."
+            },
+            {
+                "symbol": "translate",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "You can now translate Wellbeing articles to your preferred language."
+            },
+            {
+                "symbol": "wand.and.sparkles",
+                "device": ["iphone", "ipad", "mac", "watch", "appleVision", "tv"],
+                "description": "Various UI refinements for a cleaner, more consistent experience."
+            },
+            {
                 "symbol": "ant",
-                "device": [
-                    "iphone", "ipad", "mac", "tv", "appleVision"
-                ],
+                "device": ["iphone", "ipad", "mac", "tv", "appleVision"],
                 "description": "General performance improvements and bug fixes."
             }
         ]
