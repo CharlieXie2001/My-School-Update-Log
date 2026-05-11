@@ -249,5 +249,41 @@
                 "description": "General performance improvements and bug fixes."
             }
         ]
+    },
+    
+    {
+        "version": "2.1.1",
+        "appIcon": "DefaultAppIcon",
+        "description": "This update introduces Lock Screen widgets, a more advanced marking system, and important bug fixes and performance improvements across the app.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "130" },
+            { "deviceType": "ipad",        "buildNumber": "130" },
+            { "deviceType": "mac",         "buildNumber": "130" },
+            { "deviceType": "appleVision", "buildNumber": "130" }
+        ],
+        "features": [
+            {
+                "symbol": "widget.small",
+
+                "device": ["iphone", "ipad"],
+
+                "description": "New Lock Screen widgets let you quickly view upcoming assignments, sessions, and more at a glance."
+
+            },
+            {
+
+                "symbol": "gauge.chart.lefthalf.righthalf",
+
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+
+                "description": "Advanced marking system improvements provide more flexible and accurate performance tracking."
+
+            },
+            {
+                "symbol": "ant",
+                "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
+                "description": "General performance improvements and bug fixes."
+            }
+        ]
     }
 ]
