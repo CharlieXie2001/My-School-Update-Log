@@ -280,6 +280,15 @@
 
             },
             {
+
+                "symbol": "apple.intelligence",
+
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+
+                "description": "New animation when Apple Intelligence is responding."
+
+            },
+            {
                 "symbol": "ant",
                 "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
                 "description": "General performance improvements and bug fixes."
