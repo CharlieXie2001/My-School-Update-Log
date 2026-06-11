@@ -259,9 +259,19 @@
             { "deviceType": "iphone",      "buildNumber": "130" },
             { "deviceType": "ipad",        "buildNumber": "130" },
             { "deviceType": "mac",         "buildNumber": "130" },
-            { "deviceType": "appleVision", "buildNumber": "130" }
+            { "deviceType": "appleVision", "buildNumber": "130" },
+            { "deviceType": "watch",       "buildNumber": "130" },
+            { "deviceType": "tv",          "buildNumber": "130" }
         ],
         "features": [
+            {
+                "symbol": "sparkles.rectangle.stack",
+
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+
+                "description": "Redesigned Smart Brief for clearer visuals and improved readability."
+
+            },
             {
                 "symbol": "widget.small",
 
@@ -286,6 +296,15 @@
                 "device": ["iphone", "ipad", "mac", "appleVision"],
 
                 "description": "New animation when Apple Intelligence is responding."
+
+            },
+            {
+
+                "symbol": "27.circle",
+
+                "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
+
+                "description": "Add support to version 27 os releases."
 
             },
             {
