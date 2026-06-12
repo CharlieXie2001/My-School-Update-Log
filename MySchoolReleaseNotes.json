@@ -252,8 +252,8 @@
     },
     
     {
-        "version": "2.1.1",
-        "appIcon": "DefaultAppIcon",
+        "version": "2.2",
+        "appIcon": "AppIcon2.1",
         "description": "This update introduces Lock Screen widgets, a more advanced marking system, and important bug fixes and performance improvements across the app.",
         "build": [
             { "deviceType": "iphone",      "buildNumber": "130" },
