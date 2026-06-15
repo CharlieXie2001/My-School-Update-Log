@@ -1,5 +1,329 @@
 [
     {
+        "version": "1.0",
+        "appIcon": "DefaultAppIcon",
+        "description": "Welcome to My School 1.0 — your all-in-one school planner.",
+        "build": [
+            { "deviceType": "iphone", "buildNumber": "3" },
+            { "deviceType": "ipad",   "buildNumber": "3" }
+        ],
+        "features": [
+            {
+                "symbol": "inset.filled.square",
+                "device": ["iphone", "ipad"],
+                "description": "Added launch screen."
+            },
+            {
+                "symbol": "sparkles.rectangle.stack.fill",
+                "device": ["iphone", "ipad"],
+                "description": "Added What's New screen."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad"],
+                "description": "Bug fixes."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0.1",
+        "appIcon": "DefaultAppIcon",
+        "description": "My School 1.0.1 expands to Mac and Apple Watch, and brings major improvements to the iPad experience.",
+        "build": [
+            { "deviceType": "iphone", "buildNumber": "69" },
+            { "deviceType": "ipad",   "buildNumber": "69" },
+            { "deviceType": "mac",    "buildNumber": "69" },
+            { "deviceType": "watch",  "buildNumber": "69" }
+        ],
+        "features": [
+            {
+                "symbol": "macbook",
+                "device": ["mac"],
+                "description": "Added macOS app."
+            },
+            {
+                "symbol": "applewatch",
+                "device": ["watch"],
+                "description": "Added watchOS app."
+            },
+            {
+                "symbol": "ipad",
+                "device": ["ipad"],
+                "description": "Brand new Schedule tab on iPad."
+            },
+            {
+                "symbol": "ipad",
+                "device": ["ipad"],
+                "description": "Bringing a brand new Home tab to iPad."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch"],
+                "description": "Bug fixes."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0.2",
+        "appIcon": "DefaultAppIcon",
+        "description": "My School 1.0.2 brings Apple TV improvements, new notification support on Mac, and several bug fixes.",
+        "build": [
+            { "deviceType": "iphone", "buildNumber": "74" },
+            { "deviceType": "ipad",   "buildNumber": "74" },
+            { "deviceType": "mac",    "buildNumber": "74" },
+            { "deviceType": "watch",  "buildNumber": "74" },
+            { "deviceType": "tv",     "buildNumber": "74" }
+        ],
+        "features": [
+            {
+                "symbol": "trash.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv"],
+                "description": "You will now receive a confirmation alert before deleting a task, assignment, exam, or subject."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["tv"],
+                "description": "Fixed a bug where buttons could lead to blank screens on Apple TV."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv"],
+                "description": "Fixed some typos across the app."
+            },
+            {
+                "symbol": "hand.raised.fill",
+                "device": ["iphone", "ipad", "mac", "tv"],
+                "description": "New Privacy Policy page."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["tv"],
+                "description": "Fixed a bug where the user interface could exceed the screen bounds on Apple TV."
+            },
+            {
+                "symbol": "clock.fill",
+                "device": ["iphone", "ipad", "watch"],
+                "description": "ETA to school now automatically refreshes."
+            },
+            {
+                "symbol": "bell.badge.fill",
+                "device": ["mac"],
+                "description": "Notification features are now available on the macOS app."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.1",
+        "appIcon": "DefaultAppIcon",
+        "description": "My School 1.1 is a major update bringing a redesigned experience across all platforms, new Mental Wellbeing tab, Apple Vision Pro support, and much more.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "86" },
+            { "deviceType": "ipad",        "buildNumber": "86" },
+            { "deviceType": "mac",         "buildNumber": "86" },
+            { "deviceType": "watch",       "buildNumber": "86" },
+            { "deviceType": "tv",          "buildNumber": "86" },
+            { "deviceType": "appleVision", "buildNumber": "86" }
+        ],
+        "features": [
+            {
+                "symbol": "calendar.day.timeline.right",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Redesigned home banner helps you easily track upcoming sessions, and now also displays a timer for ongoing sessions."
+            },
+            {
+                "symbol": "house.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Redesigned home experience — now you can add subjects, tasks, assignments, and more right from the Home tab with the brand new + button at the bottom right corner."
+            },
+            {
+                "symbol": "sparkles.square.filled.on.square",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "New visual design levels up the experience. The new design language moves all action buttons to the bottom, saving more viewing area at the top and making it easier to navigate within the app with one hand."
+            },
+            {
+                "symbol": "books.vertical.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "View currently enrolled subjects right from the Home tab with newly designed subject cards."
+            },
+            {
+                "symbol": "hand.tap.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "New animation when you tap and hold buttons."
+            },
+            {
+                "symbol": "gearshape.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "The new Settings tab helps you navigate between different categories more easily."
+            },
+            {
+                "symbol": "cloud.sun.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Now you can check the weather condition of your school or current location right from the Home tab."
+            },
+            {
+                "symbol": "xmark.bin.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Ability to reset all data from the Settings tab."
+            },
+            {
+                "symbol": "arrow.uturn.up.circle.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "View update history of past versions. In Settings, you can also check whether the app is up to date."
+            },
+            {
+                "symbol": "internaldrive.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "The app size is up to 2/3 smaller than the previous version."
+            },
+            {
+                "symbol": "vision.pro",
+                "device": ["appleVision"],
+                "description": "Added early support for Apple Vision Pro (under development)."
+            },
+            {
+                "symbol": "calendar",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "When creating a new session, the weekday will now be automatically set to the current weekday."
+            },
+            {
+                "symbol": "line.3.horizontal.circle.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Redesigned filter options."
+            },
+            {
+                "symbol": "plus.app.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "You can now create new entries right from the subject detail page, and the entry will be automatically associated with that subject."
+            },
+            {
+                "symbol": "ipad.landscape",
+                "device": ["ipad"],
+                "description": "Redesigned iPad experience, fully taking advantage of the larger screen."
+            },
+            {
+                "symbol": "location.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Now you can add more detailed address information to exam and class locations, and view them in map view."
+            },
+            {
+                "symbol": "heart.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Brand new Mental Wellbeing tab with a beautiful mesh background."
+            },
+            {
+                "symbol": "vision.pro",
+                "device": ["appleVision"],
+                "description": "My School now officially runs natively on Apple Vision Pro."
+            },
+            {
+                "symbol": "desktopcomputer.and.macbook",
+                "device": ["mac"],
+                "description": "New visual design for the macOS app. Navigate with a brand new tab bar floating at the top — show and hide it by clicking the blue dot at the top left of the window. The Settings tab also gets a new look."
+            },
+            {
+                "symbol": "apple.image.playground.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Use Image Playground to generate attachments on Apple Intelligence supported devices."
+            },
+            {
+                "symbol": "paintpalette.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "Customise subjects with even more colour options."
+            },
+            {
+                "symbol": "applewatch",
+                "device": ["watch"],
+                "description": "View and manage your school on the redesigned Apple Watch app, with more detailed pages for subjects, assignments, exams, and more."
+            },
+            {
+                "symbol": "hand.pinch.fill",
+                "device": ["watch"],
+                "description": "On supported Apple Watch models, you can double pinch to quickly scroll between pages and tabs, or navigate back to the first page in subject detail view."
+            },
+            {
+                "symbol": "appletv.fill",
+                "device": ["tv"],
+                "description": "Redesigned Apple TV app lets you use your home TV as a dashboard to track upcoming sessions and your weekly schedule."
+            },
+            {
+                "symbol": "heart.square.fill",
+                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "description": "You can now add a mental wellbeing entry for sessions from the More button in the session detail page."
+            },
+            {
+                "symbol": "heart.text.clipboard.fill",
+                "device": ["tv"],
+                "description": "View and browse your mental wellbeing scores and entries from the Apple TV app."
+            },
+            {
+                "symbol": "xmark.triangle.circle.square.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "View and download other apps to support the developer from the new Settings page."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "Bug fixes."
+            }
+        ]
+    },
+
+    {
+        "version": "1.1.1",
+        "appIcon": "DefaultAppIcon",
+        "description": "My School 1.1.1 adds Chinese (Simplified) and English (Australia) language support.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "87" },
+            { "deviceType": "ipad",        "buildNumber": "87" },
+            { "deviceType": "mac",         "buildNumber": "87" },
+            { "deviceType": "watch",       "buildNumber": "87" },
+            { "deviceType": "tv",          "buildNumber": "87" },
+            { "deviceType": "appleVision", "buildNumber": "87" }
+        ],
+        "features": [
+            {
+                "symbol": "translate",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "Added support for Chinese (Simplified) and English (Australia)."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "Bug fixes."
+            }
+        ]
+    },
+
+    {
+        "version": "1.1.2",
+        "appIcon": "DefaultAppIcon",
+        "description": "My School 1.1.2 introduces Live Activity support and bug fixes.",
+        "build": [
+            { "deviceType": "iphone",      "buildNumber": "88" },
+            { "deviceType": "ipad",        "buildNumber": "88" },
+            { "deviceType": "mac",         "buildNumber": "88" },
+            { "deviceType": "watch",       "buildNumber": "88" },
+            { "deviceType": "tv",          "buildNumber": "88" },
+            { "deviceType": "appleVision", "buildNumber": "88" }
+        ],
+        "features": [
+            {
+                "symbol": "clock.badge.fill",
+                "device": ["iphone", "ipad"],
+                "description": "Added Live Activity support — track your current session right from the Lock Screen, Dynamic Island, and StandBy mode."
+            },
+            {
+                "symbol": "ant.fill",
+                "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
+                "description": "Bug fixes."
+            }
+        ]
+    }
+    
+    {
         "version": "2.0",
         "appIcon": "DefaultAppIcon",
         "description": "My School 2.0 brings full compatibility with Apple's latest operating systems, a stunning Liquid Glass redesign, and powerful new Apple Intelligence features.",
@@ -275,9 +599,9 @@
             {
                 "symbol": "widget.small",
 
-                "device": ["iphone", "ipad"],
+                "device": ["iphone", "ipad", "watch", "appleVision", "mac"],
 
-                "description": "New Lock Screen widgets let you quickly view upcoming assignments, sessions, and more at a glance."
+                "description": "New Lock Screen widgets and more Home Screen widget sizes let you quickly view upcoming assignments, sessions, and more at a glance."
 
             },
             {
