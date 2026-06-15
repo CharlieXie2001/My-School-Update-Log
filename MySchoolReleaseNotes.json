@@ -176,12 +176,7 @@
             {
                 "symbol": "internaldrive.fill",
                 "device": ["iphone", "ipad", "mac", "watch", "tv", "appleVision"],
-                "description": "The app size is up to 2/3 smaller than the previous version."
-            },
-            {
-                "symbol": "vision.pro",
-                "device": ["appleVision"],
-                "description": "Added early support for Apple Vision Pro (under development)."
+                "description": "The app size is 2/3 smaller than the previous version."
             },
             {
                 "symbol": "calendar",
@@ -210,7 +205,7 @@
             },
             {
                 "symbol": "heart.fill",
-                "device": ["iphone", "ipad", "mac", "appleVision"],
+                "device": ["iphone", "ipad", "mac", "appleVision", "tv"],
                 "description": "Brand new Mental Wellbeing tab with a beautiful mesh background."
             },
             {
@@ -578,7 +573,7 @@
     {
         "version": "2.2",
         "appIcon": "AppIcon2.1",
-        "description": "This update introduces Lock Screen widgets, a more advanced marking system, and important bug fixes and performance improvements across the app.",
+        "description": "My School 2.2 introduces redesigned Smart Brief, new Lock Screen and Home Screen widgets, advanced marking system improvements, and compatibility with version 27 of Apple's operating systems.",
         "build": [
             { "deviceType": "iphone",      "buildNumber": "130" },
             { "deviceType": "ipad",        "buildNumber": "130" },
