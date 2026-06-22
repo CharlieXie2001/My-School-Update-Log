@@ -612,6 +612,15 @@
 
                 "symbol": "apple.intelligence",
 
+                "device": ["iphone", "ipad", "mac", "appleVision", "watch"],
+
+                "description": "Now you can choose to use Apple's new Private Cloud Compute model for smart features for even better results (OS 27 or later)."
+
+            },
+            {
+
+                "symbol": "apple.intelligence",
+
                 "device": ["iphone", "ipad", "mac", "appleVision"],
 
                 "description": "New animation when Apple Intelligence is responding."
@@ -623,7 +632,7 @@
 
                 "device": ["iphone", "ipad", "watch", "mac", "appleVision", "tv"],
 
-                "description": "Add support to version 27 os releases."
+                "description": "Add support to version 27 OS releases."
 
             },
             {
