@@ -610,6 +610,15 @@
             },
             {
 
+                "symbol": "gauge.chart.lefthalf.righthalf",
+
+                "device": ["iphone", "ipad", "mac", "appleVision", "watch", "tv"],
+
+                "description": "More marking systems have been added."
+
+            },
+            {
+
                 "symbol": "apple.intelligence",
 
                 "device": ["iphone", "ipad", "mac", "appleVision", "watch"],
